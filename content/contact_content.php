@@ -3,7 +3,7 @@
 		<!-- Header -->
 		<div class="row">
 			<div class="col-12 page_header">
-				<h2>Contact Us</h2>
+				<h2>Contact Me</h2>
 			</div>
 		</div>
 		
