@@ -21,24 +21,14 @@
 					<nav>
 						<!-- Left Nav -->
 						<ul>
-							<!-- Home -->
 							<li><a href="index.php">Home</a></li>
-							<!-- Services -->
-							<li class="dropdown"><a>Services</a>
+							<li><a href="about.php">About</a></li>
+							<li class="dropdown"><a>Projects</a>
 								<ul class="dropdown-menu" style="padding: 0; min-width: 200px;">
-									<li><a href="computer_repair.php">Computer Repair</a></li>
-									<li class="dropdown-submenu"><a href="https://www.tech2u.com/computer-repair-remote-service/">Remote Support</a>
-										<ul class="dropdown-menu" style="min-width: 175px">
-											<li><a href="https://www.tech2u.com/computer-repair-remote-service/">Get Started</a></li>
-											<li><a href="https://www.tech2u.com/tech-2u-remote-support-membership/">Membership Plan</a></li>
-										</ul>
-									</li>
-									<li><a href="networking.php">Networking</a></li>
-									<li><a href="data_recovery.php">Data Recovery</a></li>
-									<li><a href="custom_built.php">Custom Built Computers</a></li>
+									<li><a href="computer_repair.php">School</a></li>
+									<li><a href="custom_built.php">Clients</a></li>
 								</ul>
 							</li>
-							<li><a href="about.php">About</a></li>
 						</ul>
 						
 						<!-- Right Nav -->

@@ -1,18 +1,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta name="author" content="Tech 2U" />    
-<meta name="description" content="With our friendly staff of expert technicians, you too will want to call My Wire Guy your “computer repair guy”.">
+<meta name="author" content="Just Jeo" />    
+<meta name="description" content="I'm Jeo, Just Jeo, and you be you, just you.">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <!-- Document title -->
-<title>My Wire Guy</title>
+<title>Jeo's Portfolio</title>
 
 <!-- Stylesheets & Fonts --> 
-<link href="css/plugins.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/main.css" rel="stylesheet">
-<link href="css/couponfiles.css" rel="stylesheet">
-<link href="css/media_queries.css" rel="stylesheet">
+<link href="assets/css/plugins.css" rel="stylesheet">
+<link href="assets/css/style.css" rel="stylesheet">
+<link href="assets/css/main.css" rel="stylesheet">
+<link href="assets/css/media_queries.css" rel="stylesheet">
 
 <!-- Favicon icon -->
-<link rel="icon" type="image/png" href="images/tech2u_logo.png">  
+<link rel="icon" type="image/png" href="assets/images/logo.png">  
