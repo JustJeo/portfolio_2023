@@ -1,0 +1,372 @@
+::selection {
+  background: #3297FD;
+  color: white;
+}
+
+/* ~~~~~~~~ General Tags ~~~~~~~~ */
+section {
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-image: none;
+}
+
+h1, h2 {
+	color: #db7700;
+}
+
+b, p {
+	color: black;
+}
+
+p, li, .ac-item {
+	font-size: 1.2rem;
+}
+
+.bg-primary, .call-to-action.call-to-action-colored {
+	background-color: #0fb7ff;
+}
+
+.text-primary {
+	color: #0fb7ff;
+}
+
+.icon_column {
+	padding-left: 2px;
+	padding-right: 2px;
+	text-align: center;
+	padding-top: 4px;
+}
+
+.click_link {
+	color: black;
+	text-decoration: underline;
+}
+
+.click_link:hover, a:not(.btn):not(.badge):hover {
+	color: #0fb7ff;
+}
+
+/* .phone_num {
+	color: #777777;
+}
+
+.phone_num:hover {
+	color: #2250fc;
+} */
+
+/* .widget {
+	margin-top: 25px;
+	margin-bottom: 0px;
+} */
+
+/* ~~~~~~~~ Page Layouts ~~~~~~~~ */
+/* Nav Bar */
+.header-logo-center #logo {
+	width: 95%;
+}
+
+#header .header-inner #logo small {
+	font-size: 35%;
+}
+
+#header.header-modern:not(.header-active) {
+    margin: 40px auto 0;
+	margin-top: 0;
+    width: 1000px;
+}
+
+/* #right-nav {
+	justify-content: end;
+} */
+
+#contact-nav {
+	padding-left: 0;
+	padding-right: 0;
+	text-align: right;
+}
+
+#mainMenu nav > ul > li > a {
+	padding: 10px;
+	font-size: 18px;
+}
+
+.social_list {
+	width: 5%;
+	padding-right: 20px;
+}
+
+/* Anchor Tags */
+/* .list_links a {
+	text-decoration: underline;
+	color: black;
+} */
+
+/* .list_links a:not(.btn):not(.badge):hover {
+	color: #0fb7ff;
+} */
+
+/* .contact_paragraph a {
+	text-decoration: underline;
+	color: #777777;
+} */
+
+/* .contact_paragraph a:not(.btn):not(.badge):hover {
+	color: #0fb7ff;
+} */
+
+#mainMenu nav > ul > li:hover > a,
+#mainMenu nav > ul > li .dropdown-menu > li:hover > a,
+#mainMenu nav > ul > li .dropdown-menu > li > span:hover {
+	color: #0fb7ff;
+}
+
+/* Background */
+#computer-repair-section, #custom-built-section, #about-us-section {
+	background-image: url('../images/white-hex-background-right.jpg');
+	background-size: cover;
+}
+
+/* Buttons */
+button.btn, .btn:not(.close):not(.mfp-close) {
+	background-color: #0fb7ff;
+	border-color: #0fb7ff;
+}
+
+/* Scroll To Top */
+#scrollTop {
+    bottom: 70px!important;
+}
+
+/* Call To Action */
+.newsletter_height {
+	margin-top: 5px;
+}
+
+#newsletter-btn {
+	padding-left: 0;
+}
+
+.call-to-action {
+	padding: 10px 35px;
+	margin-bottom: 5px;
+}
+
+/* Footer */
+#footer li {
+	list-style-type: none;
+}
+#contact-footer {
+	padding-left: 150px;
+}
+
+#footer .footer-content #contact-img {
+	background-image: url('../images/blue-2d-circuit-md.jpg');
+	background-position-y: 43%;
+}
+
+#footer .footer-content section .container h2,
+#footer .footer-content section .container h4,
+#footer .footer-content section .container h5,
+#footer .footer-content section .container p {
+	color: white;
+}
+
+#footer .footer-content section .container .footer_link h5 {
+	text-decoration: underline;
+}
+
+#footer .footer-content section .container .footer_link h5:hover {
+	color: #0fb7ff;
+}
+
+/* .icon_column, .footer_num, .footer_email h5 {
+	line-height: 1.25em;
+} */
+
+.footer_num, .footer_email {
+	margin-top: 2px;
+}
+
+#footer .footer-content {
+	padding: 0;
+}
+
+address p {
+	margin-bottom: 0;
+}
+
+
+/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
+/* Home Page */
+section#section1.halfscreen {
+	background-image: url('../images/yellow-table-topdown-md.jpg');
+	background-size: cover;
+	background-position-y: 35%;
+}
+
+#opening-text {
+	color: #0fb7ff;
+	line-height: 1.75em;
+	font-size: 90px;
+	font-weight: 800;
+	letter-spacing: -.02em;
+}
+
+#opening-cite {
+	text-align: right;
+}
+
+/* #home-intro a {
+	text-decoration: underline;
+	color: #777777;
+} */
+
+#home-text-section {
+	padding-top: 20px;
+}
+
+#home-intro a:not(.btn):not(.badge):hover {
+	color: #0fb7ff;
+}
+
+#home-page-repair a, #home-page-build a {
+	color: black
+}
+
+.orange {
+	color: #db7700;
+}
+
+#home-page-repair a .orange:hover, #home-page-repair a:hover {
+	color: #0fb7ff;
+	transition: color 0.5s;
+}
+
+.blue {
+	color: #0fb7ff;
+}
+
+#home-page-build a .blue:hover, #home-page-build a:hover {
+	color: #db7700;
+	transition: color 0.5s;
+}
+
+#home-service-1 {
+	padding-bottom: 30px;
+}
+
+#home-service-1:hover {
+	color: #0fb7ff;
+}
+
+#colorful-keyboard, #repair-img {
+	padding-right: 0;
+}
+
+#colorful-keyboard img, #repair-img img {
+	width: 100%;
+	height: 10vh;
+	border-radius: 50%;
+}
+
+#home-service-1-text, #home-service-2-text {
+	margin-top: 10px;
+}
+
+/* Computer Repair */
+#computer-repair-list li {
+	margin-bottom: 15px;
+}
+
+/* Networking */
+#networking-img {
+	width: 50%;
+	float: left;
+	margin-right: 20px;
+	border-radius: 15px;
+}
+
+/* Data Recovery */
+#data-recovery-img {
+	width: 50%;
+	float: left;
+	margin-right: 20px;
+	border-radius: 15px;
+}
+
+/* Custom PC */
+#custom-pc-list li {
+	margin-bottom: 15px;
+}
+
+/* About Us */
+/* #about-us-tech2u {
+	color: #484848;
+	text-decoration: underline;
+}
+
+#about-us-tech2u:hover {
+	color: #2250fc;
+} */
+
+/* FAQ */
+.ac-active {
+	background-color: lightgray;
+}
+
+.faq_padding {
+	padding-left: 50px;
+}
+
+#viruses-faq, #software-faq, #hardware-faq {
+	margin-bottom: 20px;
+}
+
+/* Reviews */
+.grid-item {
+	cursor: default;
+}
+
+.small_review_box {
+	height: 350px;
+}
+
+.big_review_box {
+	height: 480px;
+}
+
+.review_newsletter {
+	margin-top: 0;
+	margin-bottom: 33px;
+}
+
+#yelp a {
+	color: #e00707;
+}
+
+#yelp a:hover {
+	color: #2250fc;
+}
+
+/* Contact */
+#maps-card p {
+	margin-bottom: 0.25em;
+}
+
+#message-card.card .card-header {
+	padding: 1em 2em;
+}
+
+#message-form .form-control {
+	border-color: gray;
+}
+
+#contact-section .card {
+	border: 1px solid #777777;
+}
+
+#contact-section .card-body {
+	border-top: 1px solid #777777;
+	padding: 1.5rem;
+}

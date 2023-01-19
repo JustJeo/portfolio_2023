@@ -1,0 +1,590 @@
+/* ~~~~~~~~~~~~~~~~~~~  Generic Laptop ~~~~~~~~~~~~~~~~~~~ */
+@media screen
+	and (max-height: 950px)
+	and (max-width: 1280px) {
+	/* ~~~~~~~~~~~~~~ General ~~~~~~~~~~~~~~ */
+	#mainMenu nav > ul > li > a {
+		font-size: 16px;
+	}
+}
+
+
+
+/* ~~~~~~~~~~~~~~ Tablet: Landscape ~~~~~~~~~~~~~~ */
+@media only screen
+	and (min-width: 768px)
+	and (max-width: 1024px)
+	and (orientation: landscape) {
+	/* ~~~~~~~~~ General ~~~~~~~~~~~ */
+	section {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	
+	h1 {
+		font-size: 2em;
+	}
+	
+	h2 {
+		font-size: 1.75em;
+	}
+	
+	h3 {
+		font-size: 1.5em;
+	}
+	
+	h4 {
+		font-size: 1.25em;
+	}
+	
+	.page_header h2 {
+		line-height: 1.5em;
+	}
+	
+	.mobile_subheader h4 {
+		line-height: 1.5em;
+	}
+	
+	p, li, .ac-item {
+	font-size: 1.25rem;
+	}
+	
+	.container {
+		padding: 0;
+	}
+		
+	/* ~~~~~~~~~ Layouts ~~~~~~~~~~~ */
+	/* Nav */
+	#mainMenu:not(.menu-overlay) nav > ul > li > a {
+		font-size: 24px;
+	}
+	
+	#mainMenu:not(.menu-overlay) nav > ul > li .dropdown-menu > li > a,
+	#mainMenu:not(.menu-overlay) nav > ul > li .dropdown-menu > li > span {
+		font-size: 22px;
+	}
+
+	#mainMenu:not(.menu-overlay) nav > ul > li .dropdown-arrow {
+		padding-right: 110%;
+	}
+	
+	#contact-nav {
+		text-align: left;
+	}
+	
+	.newsletter_height {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	
+	#newsletter-btn {
+		padding-left: 0;
+	}
+	
+	/* Footer */
+	#contact-footer {
+		padding-left: 50px;
+	}
+	
+	/* ~~~~~~~~~ Individual Pages ~~~~~~~~~~~ */
+	/* Home Page */
+	#opening-text {
+	line-height: 1.5em;
+	font-size: 65px;
+	font-weight: 800;
+	letter-spacing: -.02em;
+	padding-left: 35px;
+	}
+	
+	#home-service-1, #home-service-2 {
+		align-items: center;
+	}
+
+	/* Networking */
+	#networking-img {
+		width: 50%;
+		float: left;
+		margin-right: 20px;
+	}
+
+	/* Data Recovery */
+	#data-recovery-img {
+		width: 50%;
+		float: left;
+		margin-right: 20px;
+	}
+	
+	/* Reviews */
+	.small_review_box {
+		min-height: 380px;
+	}
+	
+	.grid-4-columns .grid-item#last-small-box {
+		left: 33% !important;
+	}
+}
+
+
+
+
+
+/* ~~~~~~~~~~ Tablet: Portrait ~~~~~~~~~~ */
+@media only screen
+	and (min-width: 481px)
+	and (max-width: 768px)
+	and (orientation: portrait) {
+	/* ~~~~~~~~ General Tags ~~~~~~~~ */
+	section {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	
+	h1 {
+		font-size: 2em;
+	}
+	
+	h2 {
+		font-size: 1.75em;
+	}
+	
+	h3 {
+		font-size: 1.5em;
+	}
+	
+	h4 {
+		font-size: 1.25em;
+	}
+	
+	.page_header h2 {
+		line-height: 1.5em;
+	}
+	
+	.mobile_subheader h4 {
+		line-height: 1.5em;
+	}
+	
+	p, li, .ac-item {
+	font-size: 1.25rem;
+	}
+	
+	.container {
+		padding: 0;
+	}
+		
+	/* ~~~~~~~~~~~~~~ Page Layouts ~~~~~~~~~~~~~~ */
+	/* Nav */
+	#mainMenu:not(.menu-overlay) nav > ul > li > a {
+		font-size: 24px;
+	}
+	
+	#mainMenu:not(.menu-overlay) nav > ul > li .dropdown-menu > li > a,
+	#mainMenu:not(.menu-overlay) nav > ul > li .dropdown-menu > li > span {
+		font-size: 22px;
+	}
+
+	#mainMenu:not(.menu-overlay) nav > ul > li .dropdown-arrow {
+		padding-right: 110%;
+	}
+	
+		/* Footer */
+	#contact-footer {
+		padding-left: 0;
+	}
+	
+	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
+	/* Home Page */
+	.fullscreen .container {
+		margin-top: 0;
+		margin-bottom: 70px;
+	}
+	
+	#opening-text {
+	line-height: 1.5em;
+	font-size: 80px;
+	font-weight: 800;
+	letter-spacing: -.02em;
+	padding-left: 80px;
+	}
+	
+	#colorful-keyboard img, #repair-img img {
+	width: 100%;
+	height: 70px;
+	border-radius: 50%;
+	float: right;
+	}
+	
+	#home-service-1 {
+		padding-bottom: 10px;
+	}
+
+	/* Networking */
+	#networking-img {
+		width: 50%;
+		float: left;
+		margin-right: 20px;
+	}
+
+	/* Data Recovery */
+	#data-recovery-img {
+		width: 50%;
+		float: left;
+		margin-right: 20px;
+	}
+}
+
+
+
+
+
+/* ~~~~~~~~~~ Cell Phone: Landscape ~~~~~~~~~~ */
+@media only screen
+	and (max-height: 481px)
+	and (max-width: 926px)
+	and (orientation: landscape) {
+	/* ~~~~~~~~~ General ~~~~~~~~~~~ */
+	section {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	
+	h1 {
+		font-size: 2em;
+	}
+	
+	h2 {
+		font-size: 1.75em;
+	}
+	
+	h3 {
+		font-size: 1.5em;
+	}
+	
+	h4 {
+		font-size: 1.25em;
+	}
+	
+	.page_header h2 {
+		line-height: 1.25em;
+	}
+	
+	.mobile_subheader h4 {
+		line-height: 1.5em;
+	}
+	
+	p, li, .ac-item {
+	font-size: 1rem;
+	}
+	
+	.container {
+		padding: 0;
+	}
+		
+	/* ~~~~~~~~ Page Layouts ~~~~~~~~ */
+	/* Nav */
+	#mainMenu:not(.menu-overlay) nav > ul > li > a {
+		font-size: 18px;
+	}
+	
+	#mainMenu:not(.menu-overlay) nav > ul > li .dropdown-menu > li > a,
+	#mainMenu:not(.menu-overlay) nav > ul > li .dropdown-menu > li > span {
+		font-size: 16px;
+	}
+
+	#mainMenu:not(.menu-overlay) nav > ul > li .dropdown-arrow {
+		padding-right: 110%;
+	}
+	
+	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
+	/* Home Page */
+	.fullscreen .container {
+		margin: 0 175px;
+		margin-top: 50px;
+	}
+	
+	#opening-text {
+	line-height: 1.5em;
+	font-size: 40px;
+	font-weight: 800;
+	letter-spacing: -.02em;
+	padding-left: 35px;
+	}
+	
+	#home-service-1, #home-service-2 {
+		align-items: center;
+	}
+
+	/* Networking */
+	#networking-img {
+		padding: 10px 0;
+	}
+
+	/* Data Recovery */
+	#data-recovery-img {
+		padding: 10px 0;
+	}
+		/* Web 15*/
+
+		#flyer-portal.flyer_portal {
+			position: absolute;
+			margin: auto;
+			z-index: 999;
+			left: 0;
+			right: 0px;
+			top: 303px;
+			bottom: 0;
+			height: 540px;
+			width: 390px;
+			/* display: none; */
+		}
+}
+
+
+
+/* ~~~~~~~~~~~~~~ Cell Phone: Portrait ~~~~~~~~~~~~~~ */
+@media only screen
+	and (max-width: 480px) 
+	and (orientation: portrait) {
+	/* ~~~~~~~~ General Tags ~~~~~~~~ */
+	section {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	
+	h1 {
+		font-size: 2em;
+	}
+	
+	h2 {
+		font-size: 1.75em;
+	}
+	
+	h3 {
+		font-size: 1.5em;
+	}
+	
+	h4 {
+		font-size: 1.25em;
+	}
+	
+	.page_header h2 {
+		line-height: 1.25em;
+	}
+	
+	.mobile_subheader h4 {
+		line-height: 1.5em;
+	}
+	
+	.container {
+		padding: 0 20px;
+	}
+	
+	.fullscreen {
+		min-height: 50vh;
+	}
+	
+	.fullscreen .container {
+		margin-top: 50px;
+	}
+	
+	section {
+		background-image: none;
+	}
+	
+	/* ~~~~~~~~ Page Layouts ~~~~~~~~ */
+	/* Logo */
+	#header #logo {
+		margin-top: -10px!important;
+	}
+
+	#header .header-inner #logo a {
+		margin-left: -50px;
+	}
+	
+	#header .header-inner small {
+		position: absolute;
+		right: 110px;
+		bottom: -30px;
+	}
+	
+	/* Nav */
+	#mainMenu:not(.menu-overlay) nav > ul > li > a {
+		font-size: 18px;
+	}
+	
+	#mainMenu:not(.menu-overlay) nav > ul > li .dropdown-menu > li > a,
+	#mainMenu:not(.menu-overlay) nav > ul > li .dropdown-menu > li > span {
+		font-size: 16px;
+	}
+
+	#mainMenu:not(.menu-overlay) nav > ul > li .dropdown-arrow {
+		padding-right: 110%;
+	}
+	
+	#contact-nav {
+		text-align: left;
+	}
+	
+	/* Background */
+	#networking-section, #data-recovery-section, #about-us-section {
+		background-image: none;
+	}
+	
+	/* Call To Action */
+	[class*="col-"] > .call-to-action {
+		padding: 0 13px;
+	}
+	
+	.newsletter_height {
+		height: 150px;
+		margin-top: 0;
+		margin-bottom: 15px;
+	}
+	
+	#newsletter-btn {
+		padding-left: 10px;
+	}
+	
+	/* Footer */
+	#contact-footer {
+		padding-left: 15px;
+	}
+	
+	#footer .copyright-content {
+		padding: 15px 5px;
+	}
+	
+	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
+	/* Home Page */
+	#opening-text {
+	line-height: 1.5em;
+	font-size: 30px;
+	font-weight: 800;
+	letter-spacing: -.02em;
+	padding-left: 40px;
+	}
+
+	#opening-cite {
+		text-align: right;
+	}
+	
+	#section1 {
+		background-position: 55% 50%;
+	}
+	
+	#home-service-1 {
+		margin-top: 10px;
+		padding-bottom: 0;
+	}
+	
+	#home-service-2 {
+		margin-top: 25px;
+	}
+	
+	#home-service-1-text, #home-service-2-text {
+		margin-top: 5px;
+	}
+	
+	/* #mobile-opening-padding, */ #repair-img, #colorful-keyboard {
+		padding-right: 0;
+		padding-left: 0;
+	}
+
+	/* Networking */
+	#networking-img {
+		padding: 10px 0;
+	}
+
+	/* Data Recovery */
+	#data-recovery-img {
+		padding: 10px 0;
+	}
+	
+	/* Custom PC */
+	#mobile-custom-top {
+		margin-top: 15px;
+	}
+	
+	/* FAQ */
+	#faq-header {
+		padding-right: 0;
+	}
+	
+	.faq_padding {
+		padding-left: 0;
+	}
+
+	.accordion .ac-item .ac-title {
+		padding-right: 20px;
+	}
+	
+	/* Reviews */
+	.testimonial.testimonial-box .testimonial-item {
+		padding: 25px;
+	}
+	
+	.grid-item {
+		padding: 0;
+		padding-right: 20px;
+	}
+	
+	.small_review_box, .big_review_box {
+		height: auto;
+	}
+	
+	.review_newsletter {
+		margin-bottom: 50px;
+	}
+	
+	/* Contact */
+	#under-address {
+		height: 50px;
+	}
+	
+	#address-phone {
+		margin-top: 10px;
+	}
+	
+	#direction-btn {
+		margin-top: 10px;
+	}
+
+		/* Web 15*/
+
+		#flyer-portal .card {
+			/* border: 1px solid #e6e8eb; */
+			border-radius: 5px;
+			background-color: #ffffff;
+			margin-bottom: 20px;
+			box-shadow: 0 0 35px 0 rgb(154 161 171 / 15%);
+			width: 80%;
+			
+		}
+		#flyer-portal.flyer_portal {
+			position: absolute;
+			margin: auto;
+			z-index: 999;
+			left: -8px;
+			right: 0px;
+			top: 0;
+			bottom: 64px;
+			height: 550px;
+			width: 450px;
+			display: none;
+			padding: 25px;
+		}
+		
+	
+}
+
+@media (min-width: 568px) {
+    .info {
+        flex-flow: row wrap;
+        justify-content: space-between;
+    }
+
+    /* .info-item {
+        width: 50%;
+
+    } */
+}
+	
