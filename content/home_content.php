@@ -4,10 +4,10 @@
 		<div class="text-middle">
 			<div class="row">
 				<div class="col-lg-10 offset-lg-2" id="mobile-opening-padding">
-					<h1 id="opening-text" class="m-t-0">Expert, Neighborly Computer Repair Services</h1>
+					<h1 id="opening-text" class="m-t-0">Frontend Web Developer | Responsive Redesign Developer | Video Game Enthsuast </h1>
 				</div>
 				<div class="col-10 mx-auto">
-					<h4 id="opening-cite">By My Wire Guy</h4>
+					<h4 id="opening-cite">- Jeo</h4>
 				</div>
 			</div>
 		</div>

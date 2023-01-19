@@ -47,19 +47,6 @@ p, li, .ac-item {
 	color: #0fb7ff;
 }
 
-/* .phone_num {
-	color: #777777;
-}
-
-.phone_num:hover {
-	color: #2250fc;
-} */
-
-/* .widget {
-	margin-top: 25px;
-	margin-bottom: 0px;
-} */
-
 /* ~~~~~~~~ Page Layouts ~~~~~~~~ */
 /* Nav Bar */
 .header-logo-center #logo {
@@ -200,7 +187,7 @@ address p {
 /* ~~~~~~~~ Individual Pages ~~~~~~~~ */
 /* Home Page */
 section#section1.halfscreen {
-	background-image: url('../images/yellow-table-topdown-md.jpg');
+	background-image: url('../images/background.jpg');
 	background-size: cover;
 	background-position-y: 35%;
 }

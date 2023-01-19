@@ -46,6 +46,6 @@
         </section>
 	</div>
 	<div class="copyright-content">
-		<div class="copyright-text text-center">Copyright &copy; <?php echo date("Y");?> Jamieden Cabrigas AKA as Jeo</div>
+		<div class="copyright-text text-center">Copyright &copy; <?php echo date("Y");?> Jamieden Cabrigas. Once again I'm Jeo, Just Jeo.</div>
 	</div>
 </footer>
