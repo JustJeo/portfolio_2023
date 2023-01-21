@@ -1,0 +1,101 @@
+<!-- <header id="header" class="header-logo-center" data-fullwidth="true">
+    <div class="header-inner">
+        <div class="container">
+            Logo
+            <div id="logo">
+                <a href="index.php">
+                    <span class="logo">
+						<span class="logo text-center" style="color: #0fb7ff">Jamieden Cabrigas</span>
+					</span>
+                 </a>
+            </div>
+            End: Logo
+			Navigation Resposnive Trigger
+			<div id="mainMenu-trigger">
+				<a class="lines-button x"><span class="lines"></span></a>
+			</div>
+			end: Navigation Resposnive Trigger
+			Navigation
+			<div id="mainMenu">
+				<div class="container">
+					<nav>
+						 Left Nav 
+						<ul>
+							<li><a href="index.php">Home</a></li>
+							<li><a href="about.php">About</a></li>
+							<li class="dropdown"><a>Projects</a>
+								<ul class="dropdown-menu" style="padding: 0; min-width: 200px;">
+									<li><a href="computer_repair.php">School</a></li>
+									<li><a href="custom_built.php">Clients</a></li>
+								</ul>
+							</li>
+						</ul>
+						
+						 Right Nav 
+						<ul>
+							 FAQ 
+							<li style="padding: 0;"><a href="faq.php">FAQ</a></li>
+							 Contact 
+							<li><a href="contact.php"> Contact Me</a></li>
+							 Phone 
+							<li><a href="tel:8887352786"><i class="fa fa-phone"></i> 1-888-735-2786</a></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+			end: Navigation
+		</div>
+	</div>
+</header> -->
+
+<!-- Side Panel -->
+<div id="side-panel" class="text-center dark">
+    <div id="close-panel">
+        <i class="fa fa-times"></i>
+    </div>
+
+    <div class="side-panel-wrap">
+        <!--Logo-->
+        <div class="text-light text-left">
+            <h3>Hello, I am</h3>
+            <h1 class="text-medium">Jamieden Cabrigas</h1>
+            <!-- <h4>Professional Web designer/Developer</h4> -->
+        </div>
+        <hr class="space">
+        <!--Navigation-->
+        <div id="mainMenu" class="menu-onclick menu-vertical">
+            <div class="container">
+                <nav>
+                    <ul>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about.php">About</a></li>
+                        <li><a href="education.php">Education</a></li>
+                        <li><a href="live_websites.php">Live Websites</a></li>
+                        <li><a href="faq.php">FAQ</a></li>
+                        <li><a href="mailto:j.cabrigas.writer@gmail.com" class="link_click underline">j.cabrigas.writer@gmail.com</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <!--end: Navigation-->
+
+
+        <hr class="space">
+        <hr class="space">
+        <!--social icons-->
+        <!-- <div class="social-icons social-icons-colored text-center">
+            <ul>
+                <li class="social-facebook"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                <li class="social-twitter"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                <li class="social-google"><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                <li class="social-pinterest"><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                <li class="social-vimeo"><a href="#"><i class="fab fa-vimeo"></i></a></li>
+            </ul>
+        </div> -->
+
+        <!-- Copyright -->
+        <div class="copyright-content">
+            <div class="copyright-text text-center">Copyright &copy; <?php echo date("Y");?> Jamieden Cabrigas. AKA JustJeo.</div>
+        </div>
+    </div>
+</div>
