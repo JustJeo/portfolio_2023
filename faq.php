@@ -14,7 +14,7 @@
             <?php include 'sections/header.php';?>
 
             <!-- Content -->
-            <?php include 'content/home_content.php';?>
+            <?php include 'content/faq_content.php';?>
 
             <!-- Footer -->
             <?php include 'sections/footer.php';?>
