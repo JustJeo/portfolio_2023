@@ -193,7 +193,7 @@ section#section1.halfscreen {
 }
 
 #opening-text {
-	color: #0fb7ff;
+	/* color: #0fb7ff; */
 	line-height: 1.75em;
 	font-size: 90px;
 	font-weight: 800;
