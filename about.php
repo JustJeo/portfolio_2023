@@ -5,7 +5,7 @@
         <?php include 'sections/html_head.php';?>
     </head>
 
-    <body>
+    <body class="side-panel side-panel-static">
 
         <!-- Body Inner -->
         <div class="body-inner">
