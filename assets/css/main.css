@@ -48,7 +48,13 @@ p, li, .ac-item {
 }
 
 /* ~~~~~~~~ Page Layouts ~~~~~~~~ */
-/* Nav Bar */
+/* Side Panel */
+#side-panel .side-panel-wrap {
+    padding: 15px;
+}
+
+
+
 .header-logo-center #logo {
 	width: 95%;
 }
@@ -193,11 +199,9 @@ section#section1.halfscreen {
 }
 
 #opening-text {
-	color: #0fb7ff;
+	color: white;
 	line-height: 1.75em;
-	font-size: 90px;
 	font-weight: 800;
-	letter-spacing: -.02em;
 }
 
 #opening-cite {
