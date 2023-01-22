@@ -3,20 +3,30 @@
 	<div class="container">
 		<div class="text-middle text-light">
 			<div class="row">
-                <div class="col-4">
-                    <h3 data-animate="fadeInDown" data-animate-delay="0">Hello, I am</h3>
+                <div class="col-lg-4">
+                    <h3 data-animate="fadeInDown" data-animate-delay="0">Hello, my name is</h3>
                 </div>
             </div>
             <div class="row">
-                <div class="col-6 text-center">
-                    <h1  data-animate="fadeInDown" data-animate-delay="500" class="text-medium">Jamieden Cabrigas</h1>
+                <div class="col-lg-6 text-center">
+                    <h1  data-animate="fadeInDown" data-animate-delay="1000" class="text-medium">Jamieden Cabrigas</h1>
                 </div>
-				<!-- <div class="col-lg-9">
-					<h1 id="opening-text" class="m-t-0">Frontend Web Developer <br> Software Engineer <br> Responsive Redesign Developer <br> Video Game Enthusiast</h1>
-				</div>
-				<div class="col-10 mx-auto">
-					<h4 id="opening-cite">- Jeo</h4>
-				</div> -->
+			</div>
+
+            <hr class="small_space">
+
+            <div class="row">
+                <div class="col-lg-2 text-right" id="home-im-a-text">
+                    <h3  data-animate="fadeInDown" data-animate-delay="2000">I'm a</h3>
+                </div>
+			</div>
+            <div class="row">
+                <div class="col-lg-6 offset-lg-1">
+                    <h3 data-animate="fadeInDown" data-animate-delay="2800" class="big_bold">Frontend Web Developer</h3>
+                    <h3 data-animate="fadeInDown" data-animate-delay="3300" class="big_bold">Software Engineer</h3>
+                    <h3 data-animate="fadeInDown" data-animate-delay="3800" class="big_bold">Responsive Redesign Developer</h3>
+                    <h3 data-animate="fadeInDown" data-animate-delay="4300" class="big_bold">Video Game Enthusiast</h3>
+                </div>
 			</div>
 		</div>
 	</div>
@@ -30,7 +40,7 @@
 			<div class="col-12">
 				<div class="row">
 					<div class="col-12 .page_header">
-						<h2  data-animate="fadeInDown" data-animate-delay="1500">Welcome to my portfolio.</h2>
+						<h2  data-animate="fadeInDown" data-animate-delay="5000">Welcome to my portfolio.</h2>
 					</div>
 				</div>
 			</div>
@@ -47,6 +57,18 @@
 			</div>
 			<div class="col-lg-5">
 				<div class="row">
+                    <!-- Live Websites -->
+                    <div class="col-lg-12 col-md-6 col-12">
+						<div class="row" id="home-live-websites">
+							<div class="col-3" id="colorful-keyboard">
+								<img src="https://i.pinimg.com/736x/1f/b9/9a/1fb99ab6500e9dda3babd8aac32b93d3.jpg">
+							</div>
+							<div class="col-9" id="home-live-websites-text">
+								<h3 id="home-page-build"><a href="live_websites_content.php"><strong class="blue">Live Websites</strong><br>I Worked On</a></h3>
+							</div>
+						</div>
+					</div>
+
                     <!-- Technical Education & Projects -->
 					<div class="col-lg-12 col-md-6 col-12">
 						<div class="row" id="home-education-projects">
@@ -55,18 +77,6 @@
 							</div>
 							<div class="col-9" id="home-education-projects-text">
 								<h3 id="home-page-repair"><a href="computer_repair.php"><strong class="orange">Technical Education</strong><br>and School Projects</a></h3>
-							</div>
-						</div>
-					</div>
-
-                    <!-- Live Websites -->
-					<div class="col-lg-12 col-md-6 col-12">
-						<div class="row" id="home-live-websites">
-							<div class="col-3" id="colorful-keyboard">
-								<img src="https://i.pinimg.com/736x/1f/b9/9a/1fb99ab6500e9dda3babd8aac32b93d3.jpg">
-							</div>
-							<div class="col-9" id="home-live-websites-text">
-								<h3 id="home-page-build"><a href="live_websites_content.php"><strong class="blue">Live Websites</strong><br>I Worked On</a></h3>
 							</div>
 						</div>
 					</div>

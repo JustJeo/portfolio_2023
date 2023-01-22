@@ -28,11 +28,11 @@ p, li, .ac-item {
 }
 
 .bg-primary, .call-to-action.call-to-action-colored {
-	background-color: #024fde;
+	background-color: dodgerblue
 }
 
 .text-primary {
-	color: #024fde;
+	color: dodgerblue
 }
 
 .icon_column {
@@ -48,7 +48,15 @@ p, li, .ac-item {
 }
 
 .link_click:hover, a:not(.btn):not(.badge):hover {
-	color: #024fde;
+	color: dodgerblue
+}
+
+.small_space {
+    height: 25px;
+}
+
+.big_bold {
+    font-weight: 900;
 }
 
 /* ~~~~~~~~ Page Layouts ~~~~~~~~ */
@@ -115,7 +123,7 @@ p, li, .ac-item {
 } */
 
 /* .list_links a:not(.btn):not(.badge):hover {
-	color: #024fde;
+	color: dodgerblue
 } */
 
 /* .contact_paragraph a {
@@ -124,7 +132,7 @@ p, li, .ac-item {
 } */
 
 /* .contact_paragraph a:not(.btn):not(.badge):hover {
-	color: #024fde;
+	color: dodgerblue
 } */
 
 #mainMenu nav > ul > li:hover > a,
@@ -214,7 +222,7 @@ address p {
 section#home-halfscreen-section.halfscreen {
 	background-image: url('../images/background.jpg');
 	background-size: cover;
-	background-position-y: 35%;
+	background-position-y: 10%;
 }
 
 #home-halfscreen-section .text-middle {
@@ -225,17 +233,16 @@ section#home-halfscreen-section.halfscreen {
     bottom: 0;
 }
 
-/* #home-intro a {
-	text-decoration: underline;
-	color: #777777;
-} */
+#home-halfscreen-section .text-middle #home-im-a-text {
+    padding-right: 120px;
+}
 
 #home-text-section {
 	padding-top: 20px;
 }
 
 #home-intro a:not(.btn):not(.badge):hover {
-	color: #024fde;
+	color: dodgerblue
 }
 
 #home-page-repair a, #home-page-build a {
@@ -247,12 +254,12 @@ section#home-halfscreen-section.halfscreen {
 }
 
 #home-page-repair a .orange:hover, #home-page-repair a:hover {
-	color: #024fde;
+	color: dodgerblue;
 	transition: color 0.5s;
 }
 
 .blue {
-	color: #024fde;
+	color: dodgerblue
 }
 
 #home-page-build a .blue:hover, #home-page-build a:hover {
@@ -260,12 +267,12 @@ section#home-halfscreen-section.halfscreen {
 	transition: color 0.5s;
 }
 
-#home-education-projects {
+#home-live-websites {
 	padding-bottom: 30px;
 }
 
 #home-education-projects:hover {
-	color: #024fde;
+	color: dodgerblue
 }
 
 #colorful-keyboard, #repair-img {
@@ -278,7 +285,8 @@ section#home-halfscreen-section.halfscreen {
 	border-radius: 50%;
 }
 
-#home-education-projects-text, #home-live-websites-text {
+#home-live-websites-text,
+#home-education-projects-text {
 	margin-top: 10px;
 }
 
