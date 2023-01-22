@@ -1,7 +1,7 @@
 <!-- FULLSCREEN IMAGE -->
 <section id="section1" class="halfscreen">
 	<div class="container">
-		<div class="text-middle">
+		<div class="text-middle text-light">
 			<div class="row">
 				<div class="col-lg-9">
 					<h1 id="opening-text" class="m-t-0">Frontend Web Developer <br> Software Engineer <br> Responsive Redesign Developer <br> Video Game Enthusiast</h1>
@@ -22,7 +22,7 @@
 			<div class="col-12">
 				<div class="row">
 					<div class="col-12 .page_header">
-						<h2>Professional Computer Services</h2>
+						<h2  data-animate="fadeInDown" data-animate-delay="1500">Welcome to my portfolio.</h2>
 					</div>
 				</div>
 			</div>
@@ -31,13 +31,9 @@
 			<div class="col-lg-7">
 				<div class="row">
 					<div class="col-12" id="home-intro">
-						<p>My Wire Guy Computer Services is your complete computer solution for notebook/laptop and desktop computers. We offer <a href="computer_repair.php" class="click_link">computer repair</a>, <a href="networking.php" class="click_link">networking</a>, <a href="data_recovery.php" class="click_link">data recovery</a>, <a href="custom_built.php" class="click_link">custom-built computers,</a> and much more!</p>
+						<p>From video games to coding, I have always loved technology.</p>
 
-						<p>We repair ALL brands of computers running Microsoft Windows ® including: Sony, Dell, Toshiba, Lenovo, HP, Gateway, Asus, and more. We also repair Macs!</p>
-
-						<p><a href="contact.php" class="click_link">Visit our store</a> in Rocklin, California, conveniently located at the corner of Pacific Street and Sunset Blvd. We proudly serve the greater Sacramento and Placer area including Rocklin, Roseville, Lincoln, Auburn, Loomis, Penryn and Granite Bay.</p>
-
-						<p>Call us today at <a href="tel:9166250141" class="click_link">(916) 625-0141</a>, email us, or bring in your computer for repair Monday-Friday, 9:30 am to 6:00 pm. With our friendly staff of expert technicians, you too will want to call My Wire Guy your “computer repair guy”.</p>
+                        <p>I'm a Software Engineer with an understanding of languages such as Bootstrap, PHP, JavaScript, and AJAX. My previous and current job has taught me how to work and communicate heavily in teams and to accomplish the task at hand in time sensitive situations while staying consistent and accurate. I excel individually with frontend development and collectively with a team that is willing to harmonize and work together despite the different job specifications. I fell in love with technology through video games when I was a child and since then it has only grown into a burning passion where I am determined to make it my career and showcase my frontend power up.</p>
 					</div>
 				</div>
 			</div>
@@ -49,7 +45,7 @@
 								<img src="https://images.cellphonerepair.com/leesville-la/wp-content/uploads/2017/06/hardware-repair.jpg">
 							</div>
 							<div class="col-9" id="home-service-1-text">
-								<h3 id="home-page-repair"><a href="computer_repair.php"><strong class="orange">Professional</strong><br>Computer Repair</a></h3>
+								<h3 id="home-page-repair"><a href="computer_repair.php"><strong class="orange">Technical Education</strong><br>and School Projects</a></h3>
 							</div>
 						</div>
 					</div>
@@ -59,7 +55,7 @@
 								<img src="https://i.pinimg.com/736x/1f/b9/9a/1fb99ab6500e9dda3babd8aac32b93d3.jpg">
 							</div>
 							<div class="col-9" id="home-service-2-text">
-								<h3 id="home-page-build"><a href="custom_built.php"><strong class="blue">Custom Built</strong><br>Computers</a></h3>
+								<h3 id="home-page-build"><a href="live_websites_content.php"><strong class="blue">Live Websites</strong><br>I Worked On</a></h3>
 							</div>
 						</div>
 					</div>

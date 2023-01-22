@@ -1,7 +1,7 @@
-::selection {
+/* ::selection {
   background: #3297FD;
   color: white;
-}
+} */
 
 /* ~~~~~~~~ General Tags ~~~~~~~~ */
 section {
@@ -12,7 +12,7 @@ section {
 }
 
 h1, h2 {
-	color: #db7700;
+	color: dodgerblue;
 }
 
 b, p {
@@ -38,12 +38,12 @@ p, li, .ac-item {
 	padding-top: 4px;
 }
 
-.click_link {
+.link_click {
 	color: black;
 	text-decoration: underline;
 }
 
-.click_link:hover, a:not(.btn):not(.badge):hover {
+.link_click:hover, a:not(.btn):not(.badge):hover {
 	color: #024fde;
 }
 
@@ -61,6 +61,10 @@ p, li, .ac-item {
     color: dodgerblue;
 }
 
+#side-panel.dark .side-panel-wrap .copyright-content {
+    color: #777;
+}
+
 
 .header-logo-center #logo {
 	width: 95%;
@@ -75,10 +79,6 @@ p, li, .ac-item {
 	margin-top: 0;
     width: 1000px;
 }
-
-/* #right-nav {
-	justify-content: end;
-} */
 
 #contact-nav {
 	padding-left: 0;
@@ -206,7 +206,6 @@ section#section1.halfscreen {
 }
 
 #opening-text {
-	color: white;
 	line-height: 1.75em;
 	font-weight: 800;
 }
