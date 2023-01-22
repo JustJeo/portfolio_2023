@@ -24,11 +24,11 @@ p, li, .ac-item {
 }
 
 .bg-primary, .call-to-action.call-to-action-colored {
-	background-color: #0fb7ff;
+	background-color: #024fde;
 }
 
 .text-primary {
-	color: #0fb7ff;
+	color: #024fde;
 }
 
 .icon_column {
@@ -44,15 +44,22 @@ p, li, .ac-item {
 }
 
 .click_link:hover, a:not(.btn):not(.badge):hover {
-	color: #0fb7ff;
+	color: #024fde;
 }
 
 /* ~~~~~~~~ Page Layouts ~~~~~~~~ */
 /* Side Panel */
+#side-panel {
+    transition: 0;
+}
+
 #side-panel .side-panel-wrap {
     padding: 15px;
 }
 
+#side-panel.dark #mainMenu nav > ul > li:hover > a {
+    color: dodgerblue;
+}
 
 
 .header-logo-center #logo {
@@ -96,7 +103,7 @@ p, li, .ac-item {
 } */
 
 /* .list_links a:not(.btn):not(.badge):hover {
-	color: #0fb7ff;
+	color: #024fde;
 } */
 
 /* .contact_paragraph a {
@@ -105,7 +112,7 @@ p, li, .ac-item {
 } */
 
 /* .contact_paragraph a:not(.btn):not(.badge):hover {
-	color: #0fb7ff;
+	color: #024fde;
 } */
 
 #mainMenu nav > ul > li:hover > a,
@@ -218,7 +225,7 @@ section#section1.halfscreen {
 }
 
 #home-intro a:not(.btn):not(.badge):hover {
-	color: #0fb7ff;
+	color: #024fde;
 }
 
 #home-page-repair a, #home-page-build a {
@@ -230,12 +237,12 @@ section#section1.halfscreen {
 }
 
 #home-page-repair a .orange:hover, #home-page-repair a:hover {
-	color: #0fb7ff;
+	color: #024fde;
 	transition: color 0.5s;
 }
 
 .blue {
-	color: #0fb7ff;
+	color: #024fde;
 }
 
 #home-page-build a .blue:hover, #home-page-build a:hover {
@@ -248,7 +255,7 @@ section#section1.halfscreen {
 }
 
 #home-service-1:hover {
-	color: #0fb7ff;
+	color: #024fde;
 }
 
 #colorful-keyboard, #repair-img {
