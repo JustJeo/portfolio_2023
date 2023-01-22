@@ -1,5 +1,5 @@
 <!-- FULLSCREEN IMAGE -->
-<section id="section1" class="halfscreen">
+<section id="home-halfscreen-section" class="halfscreen">
 	<div class="container">
 		<div class="text-middle text-light">
 			<div class="row">
@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-7 text-right">
+                <div class="col-6 text-center">
                     <h1  data-animate="fadeInDown" data-animate-delay="500" class="text-medium">Jamieden Cabrigas</h1>
                 </div>
 				<!-- <div class="col-lg-9">
@@ -47,22 +47,25 @@
 			</div>
 			<div class="col-lg-5">
 				<div class="row">
+                    <!-- Technical Education & Projects -->
 					<div class="col-lg-12 col-md-6 col-12">
-						<div class="row" id="home-service-1">
+						<div class="row" id="home-education-projects">
 							<div class="col-3" id="repair-img">
 								<img src="https://images.cellphonerepair.com/leesville-la/wp-content/uploads/2017/06/hardware-repair.jpg">
 							</div>
-							<div class="col-9" id="home-service-1-text">
+							<div class="col-9" id="home-education-projects-text">
 								<h3 id="home-page-repair"><a href="computer_repair.php"><strong class="orange">Technical Education</strong><br>and School Projects</a></h3>
 							</div>
 						</div>
 					</div>
+
+                    <!-- Live Websites -->
 					<div class="col-lg-12 col-md-6 col-12">
-						<div class="row" id="home-service-2">
+						<div class="row" id="home-live-websites">
 							<div class="col-3" id="colorful-keyboard">
 								<img src="https://i.pinimg.com/736x/1f/b9/9a/1fb99ab6500e9dda3babd8aac32b93d3.jpg">
 							</div>
-							<div class="col-9" id="home-service-2-text">
+							<div class="col-9" id="home-live-websites-text">
 								<h3 id="home-page-build"><a href="live_websites_content.php"><strong class="blue">Live Websites</strong><br>I Worked On</a></h3>
 							</div>
 						</div>

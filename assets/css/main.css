@@ -11,6 +11,10 @@ section {
 	background-image: none;
 }
 
+body.side-panel-static .body-inner .container {
+    max-width: 95%;
+}
+
 h1, h2 {
 	color: dodgerblue;
 }
@@ -207,19 +211,18 @@ address p {
 
 /* ~~~~~~~~ Individual Pages ~~~~~~~~ */
 /* Home Page */
-section#section1.halfscreen {
+section#home-halfscreen-section.halfscreen {
 	background-image: url('../images/background.jpg');
 	background-size: cover;
 	background-position-y: 35%;
 }
 
-#opening-text {
-	line-height: 1.75em;
-	font-weight: 800;
-}
-
-#opening-cite {
-	text-align: right;
+#home-halfscreen-section .text-middle {
+	position: absolute;
+    top: 150px;
+    left: 50px;
+    right: 0;
+    bottom: 0;
 }
 
 /* #home-intro a {
@@ -257,11 +260,11 @@ section#section1.halfscreen {
 	transition: color 0.5s;
 }
 
-#home-service-1 {
+#home-education-projects {
 	padding-bottom: 30px;
 }
 
-#home-service-1:hover {
+#home-education-projects:hover {
 	color: #024fde;
 }
 
@@ -275,7 +278,7 @@ section#section1.halfscreen {
 	border-radius: 50%;
 }
 
-#home-service-1-text, #home-service-2-text {
+#home-education-projects-text, #home-live-websites-text {
 	margin-top: 10px;
 }
 
