@@ -57,6 +57,11 @@ p, li, .ac-item {
     padding: 15px;
 }
 
+#side-panel .side-panel-wrap  #logo-img {
+    width: 100%;
+    border-radius: 50%
+}
+
 #side-panel.dark #mainMenu nav > ul > li:hover > a {
     color: dodgerblue;
 }

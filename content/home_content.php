@@ -3,12 +3,14 @@
 	<div class="container">
 		<div class="text-middle text-light">
 			<div class="row">
-				<div class="col-lg-9">
+                <h3 data-animate="fadeInDown" data-animate-delay="0">Hello, I am</h3>
+                <h1  data-animate="fadeInDown" data-animate-delay="500" class="text-medium">Jamieden Cabrigas</h1>
+				<!-- <div class="col-lg-9">
 					<h1 id="opening-text" class="m-t-0">Frontend Web Developer <br> Software Engineer <br> Responsive Redesign Developer <br> Video Game Enthusiast</h1>
 				</div>
 				<div class="col-10 mx-auto">
 					<h4 id="opening-cite">- Jeo</h4>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
