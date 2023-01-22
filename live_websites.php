@@ -14,7 +14,7 @@
         <div class="body-inner">
 
             <!-- Content -->
-            <?php include 'content/home_content.php';?>
+            <?php include 'content/live_websites_content.php';?>
 
             <!-- Footer -->
             <?php include 'sections/footer.php';?>
