@@ -12,10 +12,10 @@
 		</div>
 		<!-- Technology -->
 		<div class="row" id="technology-faq">
-			<div class="col-12">
+			<div class="col-lg-10 col-12 mx-auto">
 				<h4>The Tech Industry</h4>
 			</div>
-			<div class="col-lg-10 col-12 faq_padding">
+			<div class="col-lg-10 col-12 mx-auto faq_padding">
 				<!-- Accordion -->
 				<div class="accordion">
 					<div class="ac-item">
@@ -45,10 +45,10 @@
 		
 		<!-- Journey -->
 		<div class="row" id="journey-faq">
-			<div class="col-12">
+			<div class="col-lg-10 col-12 mx-auto">
 				<h4>The Journey</h4>
 			</div>
-			<div class="col-lg-10 col-12 faq_padding">
+			<div class="col-lg-10 col-12 mx-auto faq_padding">
 				<!-- Accordion -->
 				<div class="accordion">
 					<div class="ac-item">
@@ -80,10 +80,10 @@
 			
 		<!-- Miscellaneous -->
 		<div class="row" id="miscellaneous-faq">
-			<div class="col-12">
+			<div class="col-lg-10 col-12 mx-auto">
 				<h4>Miscellaneous</h4>
 			</div>
-			<div class="col-lg-10 col-12 faq_padding">
+			<div class="col-lg-10 col-12 mx-auto faq_padding">
 				<!-- Accordion -->
 				<div class="accordion">
 					<div class="ac-item">
