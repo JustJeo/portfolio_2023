@@ -41,12 +41,9 @@ end: Navigation
                 <img src="assets/images/jamie-headshot.jpg" id="logo-img">
             </a>
         </div>
-        <!-- <div class="text-light text-left">
-            <h3 data-animate="fadeInDown" data-animate-delay="0">Hello, I am</h3>
-            <h1  data-animate="fadeInDown" data-animate-delay="500" class="text-medium">Jamieden Cabrigas</h1>
-            <h4>Professional Web designer/Developer</h4>
-        </div> -->
-        
+
+        <hr class="space">
+
         <!--Navigation-->
         <div id="mainMenu" class="menu-onclick menu-vertical">
             <div class="container">
@@ -64,7 +61,10 @@ end: Navigation
         </div>
         <!--end: Navigation-->
 
+
         <hr class="space">
+        <hr class="space">
+        
         <!--social icons-->
         <!-- <div class="social-icons social-icons-colored text-center">
             <ul>
