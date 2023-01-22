@@ -7,11 +7,11 @@
 
     <body class="side-panel side-panel-static">
 
+        <!-- Side Panel -->
+        <?php include 'sections/side_panel.php';?>
+
         <!-- Body Inner -->
         <div class="body-inner">
-
-            <!-- Header -->
-            <?php include 'sections/header.php';?>
 
             <!-- Content -->
             <?php include 'content/faq_content.php';?>
