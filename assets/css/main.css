@@ -65,6 +65,11 @@ hr {
     font-weight: 900;
 }
 
+.project_title {
+    color: black;
+    font-size: 30px;
+}
+
 /* ~~~~~~~~ Page Layouts ~~~~~~~~ */
 /* Side Panel */
 #side-panel {
