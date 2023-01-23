@@ -41,6 +41,10 @@ hr {
 	color: dodgerblue
 }
 
+.row {
+    margin: 0;
+}
+
 .icon_column {
 	padding-left: 2px;
 	padding-right: 2px;
@@ -66,10 +70,14 @@ hr {
     font-weight: 900;
 }
 
+.side-panel.side-panel-static .body-inner > .page_header_section > .container {
+    max-width: 100%;
+    padding: 0;
+}
+
 .page_header {
     background-color: black;
-    padding: 15px;
-    margin-bottom: 15px;
+    padding: 15px 80px;
 }
 
 .page_header h2 {

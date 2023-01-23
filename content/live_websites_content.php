@@ -1,10 +1,15 @@
-<section id="live-websites-section">
-	<div class="container">
+<section class="page_header_section">
+	<div class="container page_header_container">
 		<div class="row">
 			<div class="col-12 page_header">
 				<h2>Live Websites</h2>
 			</div>
 		</div>
+    </div>
+</section>
+
+<section id="live-websites-section">
+	<div class="container">
 		<div class="row">
 			<div class="col-12">
                 <p>Here is a list of websites that I've worked on!</p>
