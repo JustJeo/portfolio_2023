@@ -9,7 +9,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 text-center">
-                    <h1  data-animate="fadeInDown" data-animate-delay="1000" class="text-medium">Jamieden Cabrigas</h1>
+                    <h1  data-animate="fadeInDown" data-animate-delay="500" class="text-medium">Jamieden Cabrigas</h1>
                 </div>
 			</div>
 
