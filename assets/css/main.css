@@ -85,7 +85,6 @@ p, li, .ac-item {
     color: #777;
 }
 
-
 .header-logo-center #logo {
 	width: 95%;
 }
@@ -94,47 +93,7 @@ p, li, .ac-item {
 	font-size: 35%;
 }
 
-#header.header-modern:not(.header-active) {
-    margin: 40px auto 0;
-	margin-top: 0;
-    width: 1000px;
-}
-
-#contact-nav {
-	padding-left: 0;
-	padding-right: 0;
-	text-align: right;
-}
-
-#mainMenu nav > ul > li > a {
-	padding: 10px;
-	font-size: 18px;
-}
-
-.social_list {
-	width: 5%;
-	padding-right: 20px;
-}
-
 /* Anchor Tags */
-/* .list_links a {
-	text-decoration: underline;
-	color: black;
-} */
-
-/* .list_links a:not(.btn):not(.badge):hover {
-	color: dodgerblue
-} */
-
-/* .contact_paragraph a {
-	text-decoration: underline;
-	color: #777777;
-} */
-
-/* .contact_paragraph a:not(.btn):not(.badge):hover {
-	color: dodgerblue
-} */
-
 #mainMenu nav > ul > li:hover > a,
 #mainMenu nav > ul > li .dropdown-menu > li:hover > a,
 #mainMenu nav > ul > li .dropdown-menu > li > span:hover {
@@ -158,19 +117,6 @@ button.btn, .btn:not(.close):not(.mfp-close) {
     bottom: 70px!important;
 }
 
-/* Call To Action */
-.newsletter_height {
-	margin-top: 5px;
-}
-
-#newsletter-btn {
-	padding-left: 0;
-}
-
-.call-to-action {
-	padding: 10px 35px;
-	margin-bottom: 5px;
-}
 
 /* Footer */
 #footer li {
@@ -290,41 +236,14 @@ section#home-halfscreen-section.halfscreen {
 	margin-top: 10px;
 }
 
-/* Computer Repair */
-#computer-repair-list li {
-	margin-bottom: 15px;
-}
+/* About */
 
-/* Networking */
-#networking-img {
-	width: 50%;
-	float: left;
-	margin-right: 20px;
-	border-radius: 15px;
-}
+/* Education */
 
-/* Data Recovery */
-#data-recovery-img {
-	width: 50%;
-	float: left;
-	margin-right: 20px;
-	border-radius: 15px;
+/* Live Websites */
+#live-websites-section .img {
+    width: 100%;
 }
-
-/* Custom PC */
-#custom-pc-list li {
-	margin-bottom: 15px;
-}
-
-/* About Us */
-/* #about-us-tech2u {
-	color: #484848;
-	text-decoration: underline;
-}
-
-#about-us-tech2u:hover {
-	color: #2250fc;
-} */
 
 /* FAQ */
 .ac-active {
@@ -337,52 +256,4 @@ section#home-halfscreen-section.halfscreen {
 
 #viruses-faq, #software-faq, #hardware-faq {
 	margin-bottom: 20px;
-}
-
-/* Reviews */
-.grid-item {
-	cursor: default;
-}
-
-.small_review_box {
-	height: 350px;
-}
-
-.big_review_box {
-	height: 480px;
-}
-
-.review_newsletter {
-	margin-top: 0;
-	margin-bottom: 33px;
-}
-
-#yelp a {
-	color: #e00707;
-}
-
-#yelp a:hover {
-	color: #2250fc;
-}
-
-/* Contact */
-#maps-card p {
-	margin-bottom: 0.25em;
-}
-
-#message-card.card .card-header {
-	padding: 1em 2em;
-}
-
-#message-form .form-control {
-	border-color: gray;
-}
-
-#contact-section .card {
-	border: 1px solid #777777;
-}
-
-#contact-section .card-body {
-	border-top: 1px solid #777777;
-	padding: 1.5rem;
 }

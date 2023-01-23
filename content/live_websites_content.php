@@ -1,4 +1,4 @@
-<section>
+<section id="live-websites-section">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 page_header">
@@ -21,7 +21,7 @@
                 <h3>Laptops Plus</h3>
             </div>
             <div class="col-lg-6 col-12">
-                <img src="assets/images/" alt="Landing page preview for Laptops Plus">
+                <img src="assets/images/laptops-plus.png" alt="Landing page preview for Laptops Plus">
             </div>
             <div class="col-lg-6 col-12">
                 
@@ -64,6 +64,19 @@
             </div>
             <div class="col-lg-6 col-12">
                 <img src="assets/images/" alt="Landing page preview for Bullard's Bar">
+            </div>
+        </div>
+
+        <!-- Sircles -->
+        <div class="row">
+            <div class="col-12">
+                <h3>Sircles</h3>
+            </div>
+            <div class="col-lg-6 col-12">
+
+            </div>
+            <div class="col-lg-6 col-12">
+                <img src="assets/images/" alt="Landing page preview for Sircles">
             </div>
         </div>
 
