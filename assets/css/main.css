@@ -6,7 +6,7 @@
 /* ~~~~~~~~ General Tags ~~~~~~~~ */
 section {
 	background-color: white;
-	padding-top: 10px;
+	padding-top: 0px;
 	padding-bottom: 10px;
 	background-image: none;
 }
@@ -59,10 +59,21 @@ hr {
 
 .small_space {
     height: 25px;
+    border: none;
 }
 
 .big_bold {
     font-weight: 900;
+}
+
+.page_header {
+    background-color: black;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.page_header h2 {
+    color: white;
 }
 
 .project_title {
@@ -194,9 +205,6 @@ section#home-halfscreen-section.halfscreen {
     padding-right: 120px;
 }
 
-#home-text-section {
-	padding-top: 20px;
-}
 
 #home-intro a:not(.btn):not(.badge):hover {
 	color: dodgerblue

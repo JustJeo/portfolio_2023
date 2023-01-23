@@ -1,33 +1,3 @@
-<!-- 	
-Navigation
-<div id="mainMenu">
-    <div class="container">
-        <nav>
-                Left Nav 
-            <ul>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="about.php">About</a></li>
-                <li class="dropdown"><a>Projects</a>
-                    <ul class="dropdown-menu" style="padding: 0; min-width: 200px;">
-                        <li><a href="computer_repair.php">School</a></li>
-                        <li><a href="custom_built.php">Clients</a></li>
-                    </ul>
-                </li>
-            </ul>
-            
-                Right Nav 
-            <ul>
-                    FAQ 
-                <li style="padding: 0;"><a href="faq.php">FAQ</a></li>
-                    Contact 
-                <li><a href="contact.php"> Contact Me</a></li>
-            </ul>
-        </nav>
-    </div>
-</div>
-end: Navigation
--->
-
 <!-- Side Panel -->
 <div id="side-panel" class="text-center dark">
     <div id="close-panel">

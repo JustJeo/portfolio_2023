@@ -39,8 +39,8 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="row">
-					<div class="col-12 .page_header">
-						<h2  data-animate="fadeInDown" data-animate-delay="5000">Welcome to my portfolio.</h2>
+					<div class="col-12 page_header">
+						<h2 data-animate="fadeInDown" data-animate-delay="5000">Welcome to my portfolio.</h2>
 					</div>
 				</div>
 			</div>
