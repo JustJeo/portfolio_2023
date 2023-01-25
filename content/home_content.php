@@ -52,8 +52,7 @@
 
                 <p>I'm a Software Engineer with an understanding of languages such as Bootstrap, PHP, JavaScript, and AJAX. My previous and current job has taught me how to work and communicate heavily in teams and to accomplish the task at hand in time sensitive situations while staying consistent and accurate. I excel individually with frontend development and collectively with a team that is willing to harmonize and work together despite the different job specifications. I fell in love with technology through video games when I was a child and since then it has only grown into a burning passion where I am determined to make it my career and showcase my frontend power up.</p>
 			</div>
-			<div class="col-lg-3 text-center">
-                
+			<div class="col-lg-3 text-center">                
                 <!-- Websites Card -->
                 <div class="card">
                     <div class="card-header">
@@ -65,21 +64,6 @@
                         <a href="websites.php" class="btn">See more</a>
                     </div>
                 </div>
-
-
-                <!-- Websites
-				<div class="row">     
-                    <div class="col-lg-12 col-md-6 col-12">
-						<div class="row align-items-center" id="home-websites">
-							<div class="col-lg-4" id="home-websites-img">
-								<img src="assets/images/coding-3d.jpg">
-							</div>
-							<div class="col-lg-8" id="home-live-websites-text">
-								<h3 id="home-websites-title"><a href="websites_content.php"><strong class="blue">Websites I Have</strong><br>Worked On</a></h3>
-							</div>
-						</div>
-					</div>
-                </div>-->
             </div>
 
             <div class="col-lg-3 text-center">
@@ -91,25 +75,9 @@
                     <div class="card-body">
                         <h3>Technical Education and School Projects</h3>
 
-                        <a href="websites.php" class="btn">Learn more</a>
+                        <a href="education.php" class="btn">Learn more</a>
                     </div>
                 </div>
-
-
-
-                <!-- Education & Projects 
-				<div class="row">
-					<div class="col-lg-12 col-md-6 col-12">
-						<div class="row align-items-center" id="home-education-projects">
-							<div class="col-lg-4" id="home-education-img">
-								<img src="assets/images/coding-book.jpg">
-							</div>
-							<div class="col-lg-8" id="home-education-projects-text">
-								<h3 id="home-education-title"><a href="education_content.php"><strong class="red">Technical Education</strong><br>and School Projects</a></h3>
-							</div>
-						</div>
-					</div>
-				</div>-->
 			</div>
 		</div>
 	</div>
