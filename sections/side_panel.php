@@ -21,7 +21,7 @@
                     <ul>
                         <li><a href="index.php">Home</a></li>
                         <li><a href="about.php">About</a></li>
-                        <li><a href="education.php">Education</a></li>
+                        <li><a href="technical_education.php">Tehcnical Education</a></li>
                         <li><a href="live_websites.php">Live Websites</a></li>
                         <li><a href="faq.php">FAQ</a></li>
                         <li><a href="mailto:j.cabrigas.writer@gmail.com" class="link_click underline">j.cabrigas.writer@gmail.com</a></li>
