@@ -46,42 +46,70 @@
 
 <section id="home-text-section">
 	<div class="container">
-		<div class="row">
-			<div class="col-lg-7">
-				<div class="row">
-					<div class="col-12" id="home-intro">
-						<p>From video games to coding, I have always loved technology.</p>
+		<div class="row align-items-center">
+			<div class="col-lg-6" id="home-intro">
+                <p>From video games to coding, I have always loved technology.</p>
 
-                        <p>I'm a Software Engineer with an understanding of languages such as Bootstrap, PHP, JavaScript, and AJAX. My previous and current job has taught me how to work and communicate heavily in teams and to accomplish the task at hand in time sensitive situations while staying consistent and accurate. I excel individually with frontend development and collectively with a team that is willing to harmonize and work together despite the different job specifications. I fell in love with technology through video games when I was a child and since then it has only grown into a burning passion where I am determined to make it my career and showcase my frontend power up.</p>
-					</div>
-				</div>
+                <p>I'm a Software Engineer with an understanding of languages such as Bootstrap, PHP, JavaScript, and AJAX. My previous and current job has taught me how to work and communicate heavily in teams and to accomplish the task at hand in time sensitive situations while staying consistent and accurate. I excel individually with frontend development and collectively with a team that is willing to harmonize and work together despite the different job specifications. I fell in love with technology through video games when I was a child and since then it has only grown into a burning passion where I am determined to make it my career and showcase my frontend power up.</p>
 			</div>
-			<div class="col-lg-5">
-				<div class="row">
-                    <!-- Live Websites -->
-                    <div class="col-lg-12 col-md-6 col-12">
-						<div class="row" id="home-live-websites">
-							<div class="col-3" id="colorful-keyboard">
-								<img src="https://i.pinimg.com/736x/1f/b9/9a/1fb99ab6500e9dda3babd8aac32b93d3.jpg">
-							</div>
-							<div class="col-9" id="home-live-websites-text">
-								<h3 id="home-page-build"><a href="live_websites_content.php"><strong class="blue">Live Websites</strong><br>I Worked On</a></h3>
-							</div>
-						</div>
-					</div>
+			<div class="col-lg-3 text-center">
+                
+                <!-- Websites Card -->
+                <div class="card">
+                    <div class="card-header">
+                        <img src="assets/images/coding-3d.jpg">
+                    </div>
+                    <div class="card-body">
+                        <h3>Websites I Have Worked On</h3>
 
-                    <!-- Technical Education & Projects -->
-					<div class="col-lg-12 col-md-6 col-12">
-						<div class="row" id="home-education-projects">
-							<div class="col-3" id="repair-img">
-								<img src="https://images.cellphonerepair.com/leesville-la/wp-content/uploads/2017/06/hardware-repair.jpg">
+                        <a href="websites.php" class="btn">See more</a>
+                    </div>
+                </div>
+
+
+                <!-- Websites
+				<div class="row">     
+                    <div class="col-lg-12 col-md-6 col-12">
+						<div class="row align-items-center" id="home-websites">
+							<div class="col-lg-4" id="home-websites-img">
+								<img src="assets/images/coding-3d.jpg">
 							</div>
-							<div class="col-9" id="home-education-projects-text">
-								<h3 id="home-page-repair"><a href="computer_repair.php"><strong class="orange">Technical Education</strong><br>and School Projects</a></h3>
+							<div class="col-lg-8" id="home-live-websites-text">
+								<h3 id="home-websites-title"><a href="websites_content.php"><strong class="blue">Websites I Have</strong><br>Worked On</a></h3>
 							</div>
 						</div>
 					</div>
-				</div>
+                </div>-->
+            </div>
+
+            <div class="col-lg-3 text-center">
+                <!-- Education & Projects Card -->
+                <div class="card">
+                    <div class="card-header">
+                        <img src="assets/images/coding-book.jpg">
+                    </div>
+                    <div class="card-body">
+                        <h3>Technical Education and School Projects</h3>
+
+                        <a href="websites.php" class="btn">Learn more</a>
+                    </div>
+                </div>
+
+
+
+                <!-- Education & Projects 
+				<div class="row">
+					<div class="col-lg-12 col-md-6 col-12">
+						<div class="row align-items-center" id="home-education-projects">
+							<div class="col-lg-4" id="home-education-img">
+								<img src="assets/images/coding-book.jpg">
+							</div>
+							<div class="col-lg-8" id="home-education-projects-text">
+								<h3 id="home-education-title"><a href="education_content.php"><strong class="red">Technical Education</strong><br>and School Projects</a></h3>
+							</div>
+						</div>
+					</div>
+				</div>-->
 			</div>
 		</div>
 	</div>

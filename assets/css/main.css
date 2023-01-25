@@ -23,7 +23,7 @@ b, p {
 	color: black;
 }
 
-li, .ac-item {
+p, li, .ac-item {
 	font-size: 1.2rem;
 }
 
@@ -210,25 +210,28 @@ section#home-halfscreen-section.halfscreen {
     padding-right: 120px;
 }
 
-
-#home-intro a:not(.btn):not(.badge):hover {
-	color: dodgerblue
+#home-text-section .card {
+    border: 2px solid black;
 }
 
-.orange {
-	color: #db7700;
+#home-text-section .card .card-header {
+    padding: 0;
+    border-bottom: 1px solid black;
 }
 
-.blue {
-	color: dodgerblue
+#home-text-section .card .card-body {
+    padding: 1.25rem 2rem;
 }
 
-#home-live-websites {
+#home-websites {
 	padding-bottom: 30px;
 }
 
-#home-education-projects:hover {
-	color: dodgerblue
+#home-text-section img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    margin-top: 0;
 }
 
 #home-live-websites-text,
