@@ -14,7 +14,7 @@
         <div class="body-inner">
 
             <!-- Content -->
-            <?php include 'content/technical_education_content.php';?>
+            <?php include 'content/education_content.php';?>
 
             <!-- Footer -->
             <?php include 'sections/footer.php';?>
