@@ -149,24 +149,36 @@ button.btn, .btn:not(.close):not(.mfp-close) {
 #footer li {
 	list-style-type: none;
 }
-#contact-footer {
-	padding-left: 150px;
+
+#footer .footer-content #footer-img {
+	background-image: url('../images/glass-city-twilight-skyline.jpg');
+	background-position-y: 15%;
 }
 
-#footer .footer-content #contact-img {
-	background-image: url('../images/blue-2d-circuit-md.jpg');
-	background-position-y: 43%;
+#footer #footer-title,
+#footer #email-footer {
+    margin-bottom: 5px;
+}
+
+#footer .footer_logo {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
 }
 
 #footer .footer-content section .container h2,
 #footer .footer-content section .container h4,
 #footer .footer-content section .container h5,
 #footer .footer-content section .container p {
-	color: white;
+	color: black;
 }
 
 #footer .footer-content section .container .footer_link h5 {
 	text-decoration: underline;
+}
+
+#footer a:not(.btn):not(:hover) {
+    color: black;
 }
 
 #footer .footer-content section .container .footer_link h5:hover {
