@@ -1,3 +1,4 @@
+<!-- Page Header -->
 <section class="page_header_section">
 	<div class="container page_header_container">
 		<div class="row">

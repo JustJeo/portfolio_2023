@@ -1,10 +1,16 @@
-<section id="faq-section">
-	<div class="container">
+<!-- Page Header -->
+<section class="page_header_section">
+	<div class="container page_header_container">
 		<div class="row">
-			<div class="col-12 page_header" id="faq-header">
+			<div class="col-12 page_header">
 				<h2>Frequently Asked Questions</h2>
 			</div>
 		</div>
+    </div>
+</section>
+
+<section id="faq-section">
+	<div class="container">
 		<div class="row">
 			<div class="col-12">
 				<p>Here's some questions that you might be wanting to know the answers to.</p>

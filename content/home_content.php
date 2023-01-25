@@ -33,18 +33,19 @@
 </section>
 <!-- end: FULLSCREEN IMAGE -->
 
-<!-- Business Explanation -->
-<section id="home-text-section">
-	<div class="container">
+<!-- Page Header -->
+<section class="page_header_section">
+	<div class="container page_header_container">
 		<div class="row">
-			<div class="col-12">
-				<div class="row">
-					<div class="col-12 page_header">
-						<h2 data-animate="fadeInDown" data-animate-delay="5000">Welcome to my portfolio.</h2>
-					</div>
-				</div>
+			<div class="col-12 page_header">
+				<h2 data-animate="fadeInDown" data-animate-delay="5000">Welcome to my portfolio</h2>
 			</div>
 		</div>
+    </div>
+</section>
+
+<section id="home-text-section">
+	<div class="container">
 		<div class="row">
 			<div class="col-lg-7">
 				<div class="row">
