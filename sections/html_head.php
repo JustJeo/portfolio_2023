@@ -14,4 +14,4 @@
 <link href="assets/css/media_queries.css" rel="stylesheet">
 
 <!-- Favicon icon -->
-<link rel="icon" type="image/png" href="assets/images/logo.png">  
+<link rel="icon" type="image/png" href="assets/images/favicon.png">  
