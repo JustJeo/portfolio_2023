@@ -23,14 +23,14 @@ b, p {
 	color: black;
 }
 
-p, li, .ac-item {
+li, .ac-item {
 	font-size: 1.2rem;
 }
 
 hr {
     margin-top: 25px;
     margin-bottom: 25px;
-    border: 3px solid dodgerblue;
+    border: 3px solid red;
 }
 
 .bg-primary, .call-to-action.call-to-action-colored {
@@ -239,6 +239,9 @@ section#home-halfscreen-section.halfscreen {
 /* About */
 
 /* Education */
+#school-projects-section .project_image {
+    width: 100%;
+}
 
 /* Live Websites */
 #live-websites-section img {
@@ -254,6 +257,8 @@ section#home-halfscreen-section.halfscreen {
 	padding-left: 50px;
 }
 
-#technology-faq, #journey-faq, #miscellaneous-faq {
+#technology-faq,
+#journey-faq,
+#miscellaneous-faq {
 	margin-bottom: 20px;
 }
