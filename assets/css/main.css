@@ -131,10 +131,7 @@ hr {
 }
 
 /* Background */
-#computer-repair-section, #custom-built-section, #about-us-section {
-	background-image: url('../images/white-hex-background-right.jpg');
-	background-size: cover;
-}
+
 
 /* Buttons */
 button.btn, .btn:not(.close):not(.mfp-close) {
@@ -218,26 +215,12 @@ section#home-halfscreen-section.halfscreen {
 	color: dodgerblue
 }
 
-#home-page-repair a, #home-page-build a {
-	color: black
-}
-
 .orange {
 	color: #db7700;
 }
 
-#home-page-repair a .orange:hover, #home-page-repair a:hover {
-	color: dodgerblue;
-	transition: color 0.5s;
-}
-
 .blue {
 	color: dodgerblue
-}
-
-#home-page-build a .blue:hover, #home-page-build a:hover {
-	color: #db7700;
-	transition: color 0.5s;
 }
 
 #home-live-websites {
@@ -246,16 +229,6 @@ section#home-halfscreen-section.halfscreen {
 
 #home-education-projects:hover {
 	color: dodgerblue
-}
-
-#colorful-keyboard, #repair-img {
-	padding-right: 0;
-}
-
-#colorful-keyboard img, #repair-img img {
-	width: 100%;
-	height: 10vh;
-	border-radius: 50%;
 }
 
 #home-live-websites-text,
@@ -281,6 +254,6 @@ section#home-halfscreen-section.halfscreen {
 	padding-left: 50px;
 }
 
-#viruses-faq, #software-faq, #hardware-faq {
+#technology-faq, #journey-faq, #miscellaneous-faq {
 	margin-bottom: 20px;
 }
