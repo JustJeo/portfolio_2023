@@ -9,7 +9,7 @@
     </div>
 </section>
 
-<section id="live-websites-section">
+<section id="websites-section">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
@@ -21,9 +21,60 @@
             </div>
 		</div>
 
+        <div id="portfolio" class="grid-layout portfolio-3-columns" data-margin="0">
+            <!-- portfolio item -->
+            <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                <div class="portfolio-item-wrap">
+                    <div class="portfolio-image">
+                        <a href="https://www.laptopspluswest.com/">
+                            <img src="assets/images/laptops-plus.png" alt="">
+                        </a>
+                    </div>
+                    <div class="portfolio-description">
+                        <a href="https://www.laptopspluswest.com/" target="_blank">
+                            <h3>Laptops Plus</h3>
+                            <span>Visit Website</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- portfolio item -->
+            <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                <div class="portfolio-item-wrap">
+                    <div class="portfolio-image">
+                        <a href="#"><img src="assets/images/solano-computer-guy.png" alt=""></a>
+                    </div>
+                    <div class="portfolio-description">
+                        <a href="portfolio-page-grid-gallery.html">
+                            <h3>Solano Computer Guy</h3>
+                            <span>Graphics</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- portfolio item -->
+            <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                <div class="portfolio-item-wrap">
+                    <div class="portfolio-image">
+                        <a href="#"><img src="assets/images/my-wire-guy.png" alt=""></a>
+                    </div>
+                    <div class="portfolio-description">
+                        <a href="portfolio-page-grid-gallery.html">
+                            <h3>My Wire Guy</h3>
+                            <span>Graphics</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- Keep until all code is transferred over
         <hr>
 
-        <!-- Laptops Plus -->
+        Laptops Plus 
         <div class="row">
             <div class="col-lg-6 col-12">
                 <img src="assets/images/laptops-plus.png" alt="Landing page preview for Laptops Plus">
@@ -37,7 +88,7 @@
 
         <hr>
 
-        <!-- Solano Computer Guy -->
+        Solano Computer Guy 
         <div class="row">
             <div class="col-lg-6 col-12">
                 <img src="assets/images/solano-computer-guy.png" alt="Landing page preview for Solano Computer Guy">
@@ -51,7 +102,7 @@
 
         <hr>
 
-        <!-- My Wire Guy -->
+        My Wire Guy 
         <div class="row">
             <div class="col-lg-6 col-12">
                 <img src="assets/images/my-wire-guy.png" alt="Landing page preview for My Wire Guy">
@@ -65,7 +116,7 @@
 
         <hr>
 
-        <!-- Bullard's Bar -->
+        Bullard's Bar 
         <div class="row">
             <div class="col-lg-6 col-12">
                 <img src="assets/images/bullards-bar.png" alt="Landing page preview for Bullard's Bar">
@@ -79,7 +130,7 @@
 
         <hr>
 
-        <!-- Sircles -->
+        Sircles 
         <div class="row">
             <div class="col-lg-6 col-12">
                 <img src="assets/images/sircles.png" alt="Landing page preview for Sircles">
@@ -93,7 +144,7 @@
 
         <hr>
 
-        <!-- Flight -->
+        Flight 
         <div class="row">
             <div class="col-lg-6 col-12">
                 <img src="assets/images/stealth-accelerated.png" alt="Landing page preview for Stealth Accelerated Flight School">
@@ -107,7 +158,7 @@
 
         <hr>
 
-        <!-- Madden Lawyer -->
+        Madden Lawyer 
         <div class="row">
             <div class="col-lg-6 col-12">
                 <img src="assets/images/madden-lawyer.png" alt="Landing page preview for Madden Lawyer">
@@ -121,7 +172,7 @@
 
         <hr>
 
-        <!-- TLC Computer Solutions -->
+        TLC Computer Solutions 
         <div class="row">
             <div class="col-lg-6 col-12">
                 <img src="assets/images/tlc-computer.png" alt="Landing page preview for TLC Computer Solutions">
@@ -135,7 +186,7 @@
 
         <hr>
 
-        <!-- SD Computer Help -->
+        SD Computer Help 
         <div class="row">
             <div class="col-lg-6 col-12">
                 <img src="assets/images/sd-computer-help.png" alt="Landing page preview for San Diego Computer Help">
@@ -145,6 +196,6 @@
 
                 <p>Volutpat lacus laoreet non curabitur gravida arcu. Mi tempus imperdiet nulla malesuada pellentesque elit. Ipsum a arcu cursus vitae congue mauris rhoncus. Massa massa ultricies mi quis hendrerit. Convallis aenean et tortor at risus viverra adipiscing at. Eu sem integer vitae justo eget magna. Adipiscing elit ut aliquam purus sit amet. Cras sed felis eget velit aliquet sagittis id consectetur.</p>
             </div>
-        </div>
+        </div> -->
 	</div>
 </section>

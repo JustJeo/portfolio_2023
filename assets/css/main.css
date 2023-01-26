@@ -262,9 +262,14 @@ section#home-halfscreen-section.halfscreen {
     width: 100%;
 }
 
-/* Live Websites */
-#live-websites-section img {
+/* Websites */
+#websites-section img {
     width: 100%;
+}
+
+.portfolio-item .portfolio-image img {
+    object-fit: cover;
+    height: 350px;
 }
 
 /* FAQ */
