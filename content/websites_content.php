@@ -232,7 +232,7 @@
                 <div class="portfolio-item-wrap">
                     <div class="portfolio-image">
                         <a href="https://www.laptopspluswest.com/">
-                            <img src="assets/images/laptops-plus.png" alt="">
+                            <img src="assets/images/fireup.png" alt="">
                         </a>
                     </div>
                     <div class="portfolio-description text-light">
@@ -251,7 +251,7 @@
                 <div class="portfolio-item-wrap">
                     <div class="portfolio-image">
                         <a href="https://www.laptopspluswest.com/">
-                            <img src="assets/images/laptops-plus.png" alt="">
+                            <img src="assets/images/tech2u-assist.png" alt="">
                         </a>
                     </div>
                     <div class="portfolio-description text-light">
