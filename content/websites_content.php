@@ -3,7 +3,7 @@
 	<div class="container page_header_container">
 		<div class="row">
 			<div class="col-12 page_header">
-				<h2>Live Websites</h2>
+				<h2>Websites</h2>
 			</div>
 		</div>
     </div>
@@ -22,7 +22,7 @@
 		</div>
 
         <div id="portfolio" class="grid-layout portfolio-3-columns" data-margin="0">
-            <!-- portfolio item -->
+            <!-- Laptops Plus -->
             <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
                 <div class="portfolio-item-wrap">
                     <div class="portfolio-image">
@@ -30,44 +30,241 @@
                             <img src="assets/images/laptops-plus.png" alt="">
                         </a>
                     </div>
-                    <div class="portfolio-description">
+                    <div class="portfolio-description text-light">
                         <a href="https://www.laptopspluswest.com/" target="_blank">
                             <h3>Laptops Plus</h3>
+                            <h4>2021</h4>
+                            <h5>Company Redesign</h5>
                             <span>Visit Website</span>
                         </a>
                     </div>
                 </div>
             </div>
 
-            <!-- portfolio item -->
+            <!-- Bullard's Bar -->
             <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
                 <div class="portfolio-item-wrap">
                     <div class="portfolio-image">
-                        <a href="#"><img src="assets/images/solano-computer-guy.png" alt=""></a>
+                        <a href="https://www.laptopspluswest.com/">
+                            <img src="assets/images/bullards-bar.png" alt="">
+                        </a>
                     </div>
-                    <div class="portfolio-description">
-                        <a href="portfolio-page-grid-gallery.html">
-                            <h3>Solano Computer Guy</h3>
-                            <span>Graphics</span>
+                    <div class="portfolio-description text-light">
+                        <a href="https://www.laptopspluswest.com/" target="_blank">
+                            <h3>Laptops Plus</h3>
+                            <h4>2021</h4>
+                            <h5>Company Redesign</h5>
+                            <span>Visit Website</span>
                         </a>
                     </div>
                 </div>
             </div>
 
-            <!-- portfolio item -->
+            <!-- Solano Computer Guy -->
+            <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                <div class="portfolio-item-wrap">
+                    <div class="portfolio-image">
+                        <a href="#"><img src="assets/images/solano-computer-guy.png" alt=""></a>
+                    </div>
+                    <div class="portfolio-description text-light">
+                        <a href="https://www.laptopspluswest.com/" target="_blank">
+                            <h3>Laptops Plus</h3>
+                            <h4>2021</h4>
+                            <h5>Company Redesign</h5>
+                            <span>Visit Website</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- My Wire Guy -->
             <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
                 <div class="portfolio-item-wrap">
                     <div class="portfolio-image">
                         <a href="#"><img src="assets/images/my-wire-guy.png" alt=""></a>
                     </div>
-                    <div class="portfolio-description">
-                        <a href="portfolio-page-grid-gallery.html">
-                            <h3>My Wire Guy</h3>
-                            <span>Graphics</span>
+                    <div class="portfolio-description text-light">
+                        <a href="https://www.laptopspluswest.com/" target="_blank">
+                            <h3>Laptops Plus</h3>
+                            <h4>2021</h4>
+                            <h5>Company Redesign</h5>
+                            <span>Visit Website</span>
                         </a>
                     </div>
                 </div>
             </div>
+
+            <!-- Sircles -->
+            <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                <div class="portfolio-item-wrap">
+                    <div class="portfolio-image">
+                        <a href="https://www.laptopspluswest.com/">
+                            <img src="assets/images/sircles.png" alt="">
+                        </a>
+                    </div>
+                    <div class="portfolio-description text-light">
+                        <a href="https://www.laptopspluswest.com/" target="_blank">
+                            <h3>Laptops Plus</h3>
+                            <h4>2021</h4>
+                            <h5>Company Redesign</h5>
+                            <span>Visit Website</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Scarlett's Cancerfree Community -->
+            <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                <div class="portfolio-item-wrap">
+                    <div class="portfolio-image">
+                        <a href="https://www.laptopspluswest.com/">
+                            <img src="assets/images/scarletts-cancerfree-community.png" alt="">
+                        </a>
+                    </div>
+                    <div class="portfolio-description text-light">
+                        <a href="https://www.laptopspluswest.com/" target="_blank">
+                            <h3>Laptops Plus</h3>
+                            <h4>2021</h4>
+                            <h5>Company Redesign</h5>
+                            <span>Visit Website</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Bice -->
+            <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                <div class="portfolio-item-wrap">
+                    <div class="portfolio-image">
+                        <a href="https://www.laptopspluswest.com/">
+                            <img src="assets/images/bice.png" alt="">
+                        </a>
+                    </div>
+                    <div class="portfolio-description text-light">
+                        <a href="https://www.laptopspluswest.com/" target="_blank">
+                            <h3>Laptops Plus</h3>
+                            <h4>2021</h4>
+                            <h5>Company Redesign</h5>
+                            <span>Visit Website</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Flight -->
+            <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                <div class="portfolio-item-wrap">
+                    <div class="portfolio-image">
+                        <a href="https://www.laptopspluswest.com/">
+                            <img src="assets/images/stealth-accelerated.png" alt="">
+                        </a>
+                    </div>
+                    <div class="portfolio-description text-light">
+                        <a href="https://www.laptopspluswest.com/" target="_blank">
+                            <h3>Laptops Plus</h3>
+                            <h4>2021</h4>
+                            <h5>Company Redesign</h5>
+                            <span>Visit Website</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Madden Lawyer -->
+            <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                <div class="portfolio-item-wrap">
+                    <div class="portfolio-image">
+                        <a href="https://www.laptopspluswest.com/">
+                            <img src="assets/images/madden-lawyer.png" alt="">
+                        </a>
+                    </div>
+                    <div class="portfolio-description text-light">
+                        <a href="https://www.laptopspluswest.com/" target="_blank">
+                            <h3>Laptops Plus</h3>
+                            <h4>2021</h4>
+                            <h5>Company Redesign</h5>
+                            <span>Visit Website</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- TLC Computer Solutions -->
+            <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                <div class="portfolio-item-wrap">
+                    <div class="portfolio-image">
+                        <a href="https://www.laptopspluswest.com/">
+                            <img src="assets/images/tlc-computer.png" alt="">
+                        </a>
+                    </div>
+                    <div class="portfolio-description text-light">
+                        <a href="https://www.laptopspluswest.com/" target="_blank">
+                            <h3>Laptops Plus</h3>
+                            <h4>2021</h4>
+                            <h5>Company Redesign</h5>
+                            <span>Visit Website</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- San Diego Computer Help -->
+            <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                <div class="portfolio-item-wrap">
+                    <div class="portfolio-image">
+                        <a href="https://www.laptopspluswest.com/">
+                            <img src="assets/images/sd-computer-help.png" alt="">
+                        </a>
+                    </div>
+                    <div class="portfolio-description text-light">
+                        <a href="https://www.laptopspluswest.com/" target="_blank">
+                            <h3>Laptops Plus</h3>
+                            <h4>2021</h4>
+                            <h5>Company Redesign</h5>
+                            <span>Visit Website</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- FireUp -->
+            <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                <div class="portfolio-item-wrap">
+                    <div class="portfolio-image">
+                        <a href="https://www.laptopspluswest.com/">
+                            <img src="assets/images/laptops-plus.png" alt="">
+                        </a>
+                    </div>
+                    <div class="portfolio-description text-light">
+                        <a href="https://www.laptopspluswest.com/" target="_blank">
+                            <h3>Laptops Plus</h3>
+                            <h4>2021</h4>
+                            <h5>Company Redesign</h5>
+                            <span>Visit Website</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tech 2U Assist -->
+            <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                <div class="portfolio-item-wrap">
+                    <div class="portfolio-image">
+                        <a href="https://www.laptopspluswest.com/">
+                            <img src="assets/images/laptops-plus.png" alt="">
+                        </a>
+                    </div>
+                    <div class="portfolio-description text-light">
+                        <a href="https://www.laptopspluswest.com/" target="_blank">
+                            <h3>Laptops Plus</h3>
+                            <h4>2021</h4>
+                            <h5>Company Redesign</h5>
+                            <span>Visit Website</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
         </div>
 
 
