@@ -155,15 +155,19 @@ button.btn, .btn:not(.close):not(.mfp-close) {
 	background-position-y: 15%;
 }
 
-#footer #footer-title,
+/* #footer #footer-title,
 #footer #email-footer {
     margin-bottom: 5px;
-}
+} */
 
 #footer .footer_logo {
     width: 50px;
     height: 50px;
     object-fit: cover;
+}
+
+#footer #github-footer-col {
+    padding-left: 25px;
 }
 
 #footer .footer-content section .container h2,

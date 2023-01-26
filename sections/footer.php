@@ -8,7 +8,7 @@
 					</div>
 
                     <!-- Github -->
-			        <div class="col-md-2 col-sm-5 col-12 offset-md-3">
+			        <div class="col-md-2 col-sm-5 col-12 offset-md-3" id="github-footer-col">
 				        <div class="row">
 							<div class="col-lg-12">
 								<div id="github-footer">
