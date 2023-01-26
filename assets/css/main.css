@@ -12,7 +12,7 @@ section {
 }
 
 body.side-panel-static .body-inner .container {
-    max-width: 95%;
+    max-width: 100%;
 }
 
 h1, h2 {
