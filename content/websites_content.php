@@ -21,12 +21,12 @@
             </div>
 		</div>
 
-        <div id="portfolio" class="grid-layout portfolio-3-columns" data-margin="0">
+        <div id="portfolio" class="grid-layout portfolio-3-columns" data-margin="10">
             <!-- Laptops Plus -->
             <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
                 <div class="portfolio-item-wrap">
                     <div class="portfolio-image">
-                        <a href="https://www.laptopspluswest.com/">
+                        <a href="#">
                             <img src="assets/images/laptops-plus.png" alt="">
                         </a>
                     </div>
