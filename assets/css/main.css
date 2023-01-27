@@ -41,11 +41,15 @@ hr {
 	color: dodgerblue
 }
 
+.blue_text {
+    color: #0073f7
+}
+
 .row {
     margin: 0;
 }
 
-.icon_column {
+.icon_spacing {
 	padding-left: 2px;
 	padding-right: 2px;
 	text-align: center;
