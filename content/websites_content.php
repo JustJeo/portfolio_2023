@@ -17,7 +17,7 @@
                 
                 <p>Some of the websites are modern redesigns while others were built completely from scratch. If a client never had a prior website, I would create a wireframe that would then be submitted to the Senior Web Developer. Upon the approval of the Senior Web Developer, they would reach out to the client for the final approval. Once everything was given the green light, the building process of the website would begin.</p>
                 
-                <p>Each website is live and readily available to be viewed by the general public.</p>
+                <p>The projects are organized from oldest to newest going left to right.</p>
             </div>
 		</div>
 
