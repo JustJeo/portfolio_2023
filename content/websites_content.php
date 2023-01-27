@@ -35,7 +35,7 @@
                             <h3>Laptops Plus</h3>
                             <h4>2021</h4>
                             <h5>Company Redesign</h5>
-                            <span>Visit Website</span>
+                            <button class="btn">Visit Website</button>
                         </a>
                     </div>
                 </div>
