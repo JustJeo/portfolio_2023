@@ -50,7 +50,9 @@
 			<div class="col-lg-6" id="home-intro">
                 <p>From video games to coding, I have always loved technology.</p>
 
-                <p>I'm a Software Engineer with an understanding of languages such as Bootstrap, PHP, JavaScript, and AJAX. My previous and current job has taught me how to work and communicate heavily in teams and to accomplish the task at hand in time sensitive situations while staying consistent and accurate. I excel individually with frontend development and collectively with a team that is willing to harmonize and work together despite the different job specifications. I fell in love with technology through video games when I was a child and since then it has only grown into a burning passion where I am determined to make it my career and showcase my frontend power up.</p>
+                <p> I'm a Software Engineer with an understanding of languages such as Bootstrap, PHP, JavaScript, and AJAX. My previous and current jobs have taught me how to work and communicate heavily in teams and accomplish the task at hand in time-sensitive situations while staying consistent and accurate. I excel individually with frontend development and collectively with a team willing to harmonize and work together despite the different job specifications.</p>
+                
+                <p>I fell in love with technology through video games when I was a child and since then, it has only grown into a burning passion where I am determined to make it my career and showcase my frontend power up.</p>
 			</div>
 			<div class="col-lg-3 text-center">                
                 <!-- Websites Card -->
