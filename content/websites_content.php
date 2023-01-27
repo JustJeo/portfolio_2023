@@ -31,10 +31,10 @@
                         </a>
                     </div>
                     <div class="portfolio-description text-light">
+                        <h3>Laptops Plus</h3>
+                        <h4>2021</h4>
+                        <h5>Company Redesign</h5>
                         <a href="https://www.laptopspluswest.com/" target="_blank">
-                            <h3>Laptops Plus</h3>
-                            <h4>2021</h4>
-                            <h5>Company Redesign</h5>
                             <button class="btn">Visit Website</button>
                         </a>
                     </div>
@@ -50,10 +50,10 @@
                         </a>
                     </div>
                     <div class="portfolio-description text-light">
+                        <h3>Bullards Bar</h3>
+                        <h4>2021</h4>
+                        <h5>New Website for Client</h5>
                         <a href="www.bullardsbar.com" target="_blank">
-                            <h3>Bullards Bar</h3>
-                            <h4>2021</h4>
-                            <h5>New Website for Client</h5>
                             <button class="btn">Visit Website</button>
                         </a>
                     </div>
@@ -67,10 +67,10 @@
                         <a href="#"><img src="assets/images/solano-computer-guy.png" alt=""></a>
                     </div>
                     <div class="portfolio-description text-light">
+                        <h3>Solano Computer Guy</h3>
+                        <h4>2022</h4>
+                        <h5>Company Redesign</h5>
                         <a href="www.compguyinc.com" target="_blank">
-                            <h3>Solano Computer Guy</h3>
-                            <h4>2022</h4>
-                            <h5>Company Redesign</h5>
                             <button class="btn">Visit Website</button>
                         </a>
                     </div>
@@ -84,10 +84,10 @@
                         <a href="#"><img src="assets/images/my-wire-guy.png" alt=""></a>
                     </div>
                     <div class="portfolio-description text-light">
+                        <h3>My Wire Guy</h3>
+                        <h4>2022</h4>
+                        <h5>Company Redesign</h5>
                         <a href="www.mywireguy.com" target="_blank">
-                            <h3>My Wire Guy</h3>
-                            <h4>2022</h4>
-                            <h5>Company Redesign</h5>
                             <button class="btn">Visit Website</button>
                         </a>
                     </div>
@@ -103,10 +103,10 @@
                         </a>
                     </div>
                     <div class="portfolio-description text-light">
+                        <h3>Sircles</h3>
+                        <h4>2022</h4>
+                        <h5>New Website for Client</h5>
                         <a href="www.sircles.com" target="_blank">
-                            <h3>Sircles</h3>
-                            <h4>2022</h4>
-                            <h5>New Website for Client</h5>
                             <button class="btn">Visit Website</button>
                         </a>
                     </div>
@@ -122,10 +122,10 @@
                         </a>
                     </div>
                     <div class="portfolio-description text-light">
+                        <h3>Scarlett's Cancer(free) Community</h3>
+                        <h4>2022</h4>
+                        <h5>New Website for Client</h5>
                         <a href="www.scarlettscancerfree.org" target="_blank">
-                            <h3>Scarlett's Cancer(free) Community</h3>
-                            <h4>2022</h4>
-                            <h5>New Website for Client</h5>
                             <button class="btn">Visit Website</button>
                         </a>
                     </div>
@@ -141,10 +141,10 @@
                         </a>
                     </div>
                     <div class="portfolio-description text-light">
+                        <h3>Bice Mobile Marine</h3>
+                        <h4>2022</h4>
+                        <h5>New Website for Client</h5>
                         <a href="" target="_blank">
-                            <h3>Bice Mobile Marine</h3>
-                            <h4>2022</h4>
-                            <h5>New Website for Client</h5>
                             <button class="btn">Visit Website</button>
                         </a>
                     </div>
@@ -160,10 +160,10 @@
                         </a>
                     </div>
                     <div class="portfolio-description text-light">
+                        <h3>Stealth Accelerated Flight Training</h3>
+                        <h4>2022</h4>
+                        <h5>New Website for Client</h5>
                         <a href="www.stealthacceleratedflight.com" target="_blank">
-                            <h3>Stealth Accelerated Flight Training</h3>
-                            <h4>2022</h4>
-                            <h5>New Website for Client</h5>
                             <button class="btn">Visit Website</button>
                         </a>
                     </div>
@@ -179,10 +179,10 @@
                         </a>
                     </div>
                     <div class="portfolio-description text-light">
+                        <h3>Madden & Associates LLP</h3>
+                        <h4>2022</h4>
+                        <h5>New Website for Client</h5>
                         <a href="www.maddenlawyer.com" target="_blank">
-                            <h3>Madden & Associates LLP</h3>
-                            <h4>2022</h4>
-                            <h5>New Website for Client</h5>
                             <button class="btn">Visit Website</button>
                         </a>
                     </div>
@@ -198,10 +198,10 @@
                         </a>
                     </div>
                     <div class="portfolio-description text-light">
+                        <h3>TLC Computer Solutions</h3>
+                        <h4>2022</h4>
+                        <h5>Company Redesign</h5>
                         <a href="www.tlcpcsolutions.com" target="_blank">
-                            <h3>TLC Computer Solutions</h3>
-                            <h4>2022</h4>
-                            <h5>Company Redesign</h5>
                             <button class="btn">Visit Website</button>
                         </a>
                     </div>
@@ -217,10 +217,10 @@
                         </a>
                     </div>
                     <div class="portfolio-description text-light">
+                        <h3>San Diego Computer Help</h3>
+                        <h4>2023</h4>
+                        <h5>Company Redesign</h5>
                         <a href="" target="_blank">
-                            <h3>San Diego Computer Help</h3>
-                            <h4>2023</h4>
-                            <h5>Company Redesign</h5>
                             <button class="btn">Visit Website</button>
                         </a>
                     </div>
@@ -236,10 +236,10 @@
                         </a>
                     </div>
                     <div class="portfolio-description text-light">
+                        <h3>Tech 2U Assist IT</h3>
+                        <h4>2023</h4>
+                        <h5>Company Redesign</h5>
                         <a href="" target="_blank">
-                            <h3>Tech 2U Assist IT</h3>
-                            <h4>2023</h4>
-                            <h5>Company Redesign</h5>
                             <button class="btn">Visit Website</button>
                         </a>
                     </div>
@@ -255,10 +255,10 @@
                         </a>
                     </div>
                     <div class="portfolio-description text-light">
+                        <h3>FireUp - Reservation</h3>
+                        <h4>2023</h4>
+                        <h5>New Website for Client</h5>
                         <a href="" target="_blank">
-                            <h3>FireUp - Reservation</h3>
-                            <h4>2023</h4>
-                            <h5>New Website for Client</h5>
                             <button class="btn">Visit Website</button>
                         </a>
                     </div>
