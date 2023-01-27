@@ -8,3 +8,14 @@
 		</div>
     </div>
 </section>
+
+<section id="about-section">
+    <div class="container">
+        <div class="row">
+            <!-- Intro -->
+            <div class="col-12">
+                <h3>My name is <span class="blue">Jamieden Cabrigas</span>. I also go by Jamie!</h3>
+            </div>
+        </div>
+    </div>
+</section>

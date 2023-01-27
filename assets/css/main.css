@@ -276,7 +276,11 @@ section#home-halfscreen-section.halfscreen {
 
 /* FAQ */
 .ac-active {
-	background-color: lightgray;
+	background-color: #e6e6e6;
+}
+
+#faq-section .ac-content img {
+    width: 100%;
 }
 
 .faq_padding {
