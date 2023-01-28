@@ -48,6 +48,7 @@
                         <a href="https://www.laptopspluswest.com/" target="_blank">
                             <button class="btn btn-sm">Visit Website</button>
                         </a>
+                        <button class="btn btn-sm" id="laptops-plus-btn">Learn More</button>
                     </div>
                 </div>
             </div>

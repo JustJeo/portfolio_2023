@@ -27,6 +27,7 @@
 
         <!--Plugins-->
         <?php include 'sections/js_end_scripts.php';?>
+        <?php include 'sections/js/websites_js.php';?>
         
     </body>
 
