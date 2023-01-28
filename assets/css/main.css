@@ -282,6 +282,10 @@ section#home-halfscreen-section.halfscreen {
     height: 265px;
 }
 
+.portfolio-item .portfolio-description h3 {
+    font-size: 24px;
+}
+
 /* Portal */
 #project-portal {
     position: fixed;
