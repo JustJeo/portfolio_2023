@@ -295,7 +295,16 @@ section#home-halfscreen-section.halfscreen {
 	margin: auto;
 	z-index: 999;
 	border-radius: 15px;
-	/* display: none; */
+	display: none;
+}
+
+#project-portal .card {
+    margin: 15px 0;
+}
+
+#project-portal .card .card-header,
+#project-portal .card .card-body {
+    padding: 1.5rem 2rem;
 }
 
 /* FAQ */
