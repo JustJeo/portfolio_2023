@@ -17,15 +17,15 @@
 
             <div class="row">
                 <div class="col-lg-2 text-right" id="home-im-a-text">
-                    <h3  data-animate="fadeInDown" data-animate-delay="2000">I'm a</h3>
+                    <h3  data-animate="fadeInDown" data-animate-delay="1500">I'm a</h3>
                 </div>
 			</div>
             <div class="row">
                 <div class="col-lg-6 offset-lg-1">
-                    <h3 data-animate="fadeInDown" data-animate-delay="2800" class="big_bold">Frontend Web Developer</h3>
-                    <h3 data-animate="fadeInDown" data-animate-delay="3300" class="big_bold">Software Engineer</h3>
-                    <h3 data-animate="fadeInDown" data-animate-delay="3800" class="big_bold">Responsive Redesign Developer</h3>
-                    <h3 data-animate="fadeInDown" data-animate-delay="4300" class="big_bold">Video Game Enthusiast</h3>
+                    <h3 data-animate="fadeInDown" data-animate-delay="2000" class="big_bold">Frontend Web Developer</h3>
+                    <h3 data-animate="fadeInDown" data-animate-delay="2500" class="big_bold">Software Engineer</h3>
+                    <h3 data-animate="fadeInDown" data-animate-delay="3000" class="big_bold">Responsive Redesign Developer</h3>
+                    <h3 data-animate="fadeInDown" data-animate-delay="3500" class="big_bold">Video Game Enthusiast</h3>
                 </div>
 			</div>
 		</div>
@@ -38,7 +38,7 @@
 	<div class="container page_header_container">
 		<div class="row">
 			<div class="col-12 page_header">
-				<h2 data-animate="fadeInDown" data-animate-delay="5000">Welcome to my portfolio</h2>
+				<h2 data-animate="fadeInDown" data-animate-delay="4500">Welcome to my portfolio</h2>
 			</div>
 		</div>
     </div>
