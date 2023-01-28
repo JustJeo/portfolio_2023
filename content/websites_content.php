@@ -35,7 +35,7 @@
                         <h4>2021</h4>
                         <h5>Company Redesign</h5>
                         <a href="https://www.laptopspluswest.com/" target="_blank">
-                            <button class="btn">Visit Website</button>
+                            <button class="btn btn-sm">Visit Website</button>
                         </a>
                     </div>
                 </div>
@@ -54,7 +54,7 @@
                         <h4>2021</h4>
                         <h5>New Website for Client</h5>
                         <a href="www.bullardsbar.com" target="_blank">
-                            <button class="btn">Visit Website</button>
+                            <button class="btn btn-sm">Visit Website</button>
                         </a>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                         <h4>2022</h4>
                         <h5>Company Redesign</h5>
                         <a href="www.compguyinc.com" target="_blank">
-                            <button class="btn">Visit Website</button>
+                            <button class="btn btn-sm">Visit Website</button>
                         </a>
                     </div>
                 </div>
@@ -88,7 +88,7 @@
                         <h4>2022</h4>
                         <h5>Company Redesign</h5>
                         <a href="www.mywireguy.com" target="_blank">
-                            <button class="btn">Visit Website</button>
+                            <button class="btn btn-sm">Visit Website</button>
                         </a>
                     </div>
                 </div>
@@ -107,7 +107,7 @@
                         <h4>2022</h4>
                         <h5>New Website for Client</h5>
                         <a href="www.sircles.com" target="_blank">
-                            <button class="btn">Visit Website</button>
+                            <button class="btn btn-sm">Visit Website</button>
                         </a>
                     </div>
                 </div>
@@ -126,7 +126,7 @@
                         <h4>2022</h4>
                         <h5>New Website for Client</h5>
                         <a href="www.scarlettscancerfree.org" target="_blank">
-                            <button class="btn">Visit Website</button>
+                            <button class="btn btn-sm">Visit Website</button>
                         </a>
                     </div>
                 </div>
@@ -145,7 +145,7 @@
                         <h4>2022</h4>
                         <h5>New Website for Client</h5>
                         <a href="" target="_blank">
-                            <button class="btn">Visit Website</button>
+                            <button class="btn btn-sm">Visit Website</button>
                         </a>
                     </div>
                 </div>
@@ -164,7 +164,7 @@
                         <h4>2022</h4>
                         <h5>New Website for Client</h5>
                         <a href="www.stealthacceleratedflight.com" target="_blank">
-                            <button class="btn">Visit Website</button>
+                            <button class="btn btn-sm">Visit Website</button>
                         </a>
                     </div>
                 </div>
@@ -183,7 +183,7 @@
                         <h4>2022</h4>
                         <h5>New Website for Client</h5>
                         <a href="www.maddenlawyer.com" target="_blank">
-                            <button class="btn">Visit Website</button>
+                            <button class="btn btn-sm">Visit Website</button>
                         </a>
                     </div>
                 </div>
@@ -202,7 +202,7 @@
                         <h4>2022</h4>
                         <h5>Company Redesign</h5>
                         <a href="www.tlcpcsolutions.com" target="_blank">
-                            <button class="btn">Visit Website</button>
+                            <button class="btn btn-sm">Visit Website</button>
                         </a>
                     </div>
                 </div>
@@ -221,7 +221,7 @@
                         <h4>2023</h4>
                         <h5>Company Redesign</h5>
                         <a href="" target="_blank">
-                            <button class="btn">Visit Website</button>
+                            <button class="btn btn-sm">Visit Website</button>
                         </a>
                     </div>
                 </div>
@@ -240,7 +240,7 @@
                         <h4>2023</h4>
                         <h5>Company Redesign</h5>
                         <a href="" target="_blank">
-                            <button class="btn">Visit Website</button>
+                            <button class="btn btn-sm">Visit Website</button>
                         </a>
                     </div>
                 </div>
@@ -259,7 +259,7 @@
                         <h4>2023</h4>
                         <h5>New Website for Client</h5>
                         <a href="" target="_blank">
-                            <button class="btn">Visit Website</button>
+                            <button class="btn btn-sm">Visit Website</button>
                         </a>
                     </div>
                 </div>
