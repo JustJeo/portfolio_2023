@@ -278,6 +278,22 @@ section#home-halfscreen-section.halfscreen {
     height: 265px;
 }
 
+/* Portal */
+#project-portal {
+    position: fixed;
+    top: 15vh;
+	right: 0;
+	left: 0;
+	background-color: rgba(148, 148, 148, 0.6);
+	width: 50%;
+	height: auto;
+	border: 3px solid black;
+	margin: auto;
+	z-index: 999;
+	border-radius: 15px;
+	/* display: none; */
+}
+
 /* FAQ */
 .ac-active {
 	background-color: #e6e6e6;
