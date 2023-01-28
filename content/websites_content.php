@@ -152,9 +152,6 @@
                     <div class="portfolio-description text-light">
                         <h3>Bice Mobile Marine (2022)</h3>
                         <h5>New Website for Client</h5>
-                        <a href="" target="_blank">
-                            <button class="btn btn-sm">Visit Website</button>
-                        </a>
                         <button class="btn btn-sm" id="bice-btn">Learn More</button>
                     </div>
                 </div>
@@ -229,8 +226,6 @@
                         <h3>San Diego Computer Help (2023)</h3>
                         <h5>Internal Company Redesign</h5>
                         <a href="" target="_blank">
-                            <button class="btn btn-sm">Visit Website</button>
-                        </a>
                         <button class="btn btn-sm" id="sd-computer-btn">Learn More</button>
                     </div>
                 </div>
@@ -246,11 +241,7 @@
                     </div>
                     <div class="portfolio-description text-light">
                         <h3>Tech 2U Assist IT (2023)</h3>
-                        <h4>2023</h4>
                         <h5>Company Redesign</h5>
-                        <a href="" target="_blank">
-                            <button class="btn btn-sm">Visit Website</button>
-                        </a>
                         <button class="btn btn-sm" id="assist-it-btn">Learn More</button>
                     </div>
                 </div>
@@ -267,9 +258,6 @@
                     <div class="portfolio-description text-light">
                         <h3>FireUp - Reservation Page (2023)</h3>
                         <h5>New Website for Client</h5>
-                        <a href="" target="_blank">
-                            <button class="btn btn-sm">Visit Website</button>
-                        </a>
                         <button class="btn btn-sm" id="fireup-btn">Learn More</button>
                     </div>
                 </div>

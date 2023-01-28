@@ -131,7 +131,7 @@ hr {
 #mainMenu nav > ul > li:hover > a,
 #mainMenu nav > ul > li .dropdown-menu > li:hover > a,
 #mainMenu nav > ul > li .dropdown-menu > li > span:hover {
-	color: #0fb7ff;
+	color: #0f6bff;
 }
 
 /* Background */
@@ -139,8 +139,8 @@ hr {
 
 /* Buttons */
 button.btn, .btn:not(.close):not(.mfp-close) {
-	background-color: #0fb7ff;
-	border-color: #0fb7ff;
+	background-color: #0f6bff;
+	border-color: #0f6bff;
 }
 
 /* Scroll To Top */
@@ -282,8 +282,13 @@ section#home-halfscreen-section.halfscreen {
     height: 265px;
 }
 
+.portfolio-item .portfolio-description {
+    width: 100%;
+}
+
 .portfolio-item .portfolio-description h3 {
     font-size: 24px;
+    line-height: 35px;
 }
 
 /* Portal */
