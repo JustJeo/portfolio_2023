@@ -157,7 +157,7 @@
                 </div>
             </div>
 
-            <!-- Flight -->
+            <!-- Flight Training -->
             <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
                 <div class="portfolio-item-wrap">
                     <div class="portfolio-image">
@@ -226,7 +226,7 @@
                         <h3>San Diego Computer Help (2023)</h3>
                         <h5>Internal Company Redesign</h5>
                         <a href="" target="_blank">
-                        <button class="btn btn-sm" id="sd-computer-btn">Learn More</button>
+                        <button class="btn btn-sm" id="sd-computer-help-btn">Learn More</button>
                     </div>
                 </div>
             </div>
