@@ -43,9 +43,9 @@
                         <h3>Laptops Plus (2021)</h3>
                         <h5>Internal Company Redesign</h5>
                         <a href="https://www.laptopspluswest.com/" target="_blank">
-                            <button class="btn btn-sm">Visit Website</button>
+                            <button class="btn btn-sm btn-dark">Visit Website</button>
                         </a>
-                        <button class="btn btn-sm" id="laptops-plus-btn">Learn More</button>
+                        <button class="btn btn-sm btn-dark" id="laptops-plus-btn">Learn More</button>
                     </div>
                 </div>
             </div>
@@ -62,9 +62,9 @@
                         <h3>Bullards Bar (2021)</h3>
                         <h5>New Website for Client</h5>
                         <a href="https://bullardsbar.com/index.php" target="_blank">
-                            <button class="btn btn-sm">Visit Website</button>
+                            <button class="btn btn-sm btn-dark">Visit Website</button>
                         </a>
-                        <button class="btn btn-sm" id="bullards-bar-btn">Learn More</button>
+                        <button class="btn btn-sm btn-dark" id="bullards-bar-btn">Learn More</button>
                     </div>
                 </div>
             </div>
@@ -79,9 +79,9 @@
                         <h3>Solano Computer Guy (2022)</h3>
                         <h5>Internal Company Redesign</h5>
                         <a href="https://compguyinc.com/" target="_blank">
-                            <button class="btn btn-sm">Visit Website</button>
+                            <button class="btn btn-sm btn-dark">Visit Website</button>
                         </a>
-                        <button class="btn btn-sm" id="solano-computer-btn">Learn More</button>
+                        <button class="btn btn-sm btn-dark" id="solano-computer-btn">Learn More</button>
                     </div>
                 </div>
             </div>
@@ -96,9 +96,9 @@
                         <h3>My Wire Guy (2022)</h3>
                         <h5>Internal Company Redesign</h5>
                         <a href="https://www.mywireguy.com/" target="_blank">
-                            <button class="btn btn-sm">Visit Website</button>
+                            <button class="btn btn-sm btn-dark">Visit Website</button>
                         </a>
-                        <button class="btn btn-sm" id="my-wire-guy-btn">Learn More</button>
+                        <button class="btn btn-sm btn-dark" id="my-wire-guy-btn">Learn More</button>
                     </div>
                 </div>
             </div>
@@ -115,9 +115,9 @@
                         <h3>Sircles (2022)</h3>
                         <h5>New Website for Client</h5>
                         <a href="https://www.sircles.com/" target="_blank">
-                            <button class="btn btn-sm">Visit Website</button>
+                            <button class="btn btn-sm btn-dark">Visit Website</button>
                         </a>
-                        <button class="btn btn-sm" id="sircles-btn">Learn More</button>
+                        <button class="btn btn-sm btn-dark" id="sircles-btn">Learn More</button>
                     </div>
                 </div>
             </div>
@@ -134,9 +134,9 @@
                         <h3>Scarlett's Cancer(free) Community (2022)</h3>
                         <h5>New Website for Client</h5>
                         <a href="https://www.scarlettscancerfree.org/" target="_blank">
-                            <button class="btn btn-sm">Visit Website</button>
+                            <button class="btn btn-sm btn-dark">Visit Website</button>
                         </a>
-                        <button class="btn btn-sm" id="scarlett-btn">Learn More</button>
+                        <button class="btn btn-sm btn-dark" id="scarlett-btn">Learn More</button>
                     </div>
                 </div>
             </div>
@@ -152,7 +152,7 @@
                     <div class="portfolio-description text-light">
                         <h3>Bice Mobile Marine (2022)</h3>
                         <h5>New Website for Client</h5>
-                        <button class="btn btn-sm" id="bice-btn">Learn More</button>
+                        <button class="btn btn-sm btn-dark" id="bice-btn">Learn More</button>
                     </div>
                 </div>
             </div>
@@ -169,9 +169,9 @@
                         <h3>Stealth Accelerated Flight Training (2022)</h3>
                         <h5>New Website for Client</h5>
                         <a href="https://www.stealthacceleratedflight.com/" target="_blank">
-                            <button class="btn btn-sm">Visit Website</button>
+                            <button class="btn btn-sm btn-dark">Visit Website</button>
                         </a>
-                        <button class="btn btn-sm" id="flight-training-btn">Learn More</button>
+                        <button class="btn btn-sm btn-dark" id="flight-training-btn">Learn More</button>
                     </div>
                 </div>
             </div>
@@ -188,9 +188,9 @@
                         <h3>Madden & Associates LLP (2022)</h3>
                         <h5>New Website for Client</h5>
                         <a href="https://www.maddenlawyer.com/" target="_blank">
-                            <button class="btn btn-sm">Visit Website</button>
+                            <button class="btn btn-sm btn-dark">Visit Website</button>
                         </a>
-                        <button class="btn btn-sm" id="madden-lawyer-btn">Learn More</button>
+                        <button class="btn btn-sm btn-dark" id="madden-lawyer-btn">Learn More</button>
                     </div>
                 </div>
             </div>
@@ -207,9 +207,9 @@
                         <h3>TLC Computer Solutions (2022)</h3>
                         <h5>Internal Company Redesign</h5>
                         <a href="https://www.tlcpcsolutions.com/" target="_blank">
-                            <button class="btn btn-sm">Visit Website</button>
+                            <button class="btn btn-sm btn-dark">Visit Website</button>
                         </a>
-                        <button class="btn btn-sm" id="tlc-computer-btn">Learn More</button>
+                        <button class="btn btn-sm btn-dark" id="tlc-computer-btn">Learn More</button>
                     </div>
                 </div>
             </div>
@@ -225,7 +225,7 @@
                     <div class="portfolio-description text-light">
                         <h3>San Diego Computer Help (2023)</h3>
                         <h5>Internal Company Redesign</h5>
-                        <button class="btn btn-sm" id="sd-computer-help-btn">Learn More</button>
+                        <button class="btn btn-sm btn-dark" id="sd-computer-help-btn">Learn More</button>
                     </div>
                 </div>
             </div>
@@ -241,7 +241,7 @@
                     <div class="portfolio-description text-light">
                         <h3>FireUp - Reservation Page (2023)</h3>
                         <h5>New Website for Client</h5>
-                        <button class="btn btn-sm" id="fireup-btn">Learn More</button>
+                        <button class="btn btn-sm btn-dark" id="fireup-btn">Learn More</button>
                     </div>
                 </div>
             </div>
