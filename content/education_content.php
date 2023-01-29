@@ -9,11 +9,43 @@
     </div>
 </section>
 
+<!-- Info About Schooling -->
+<section>
+    <div class="container">
+        <!-- Opening Text-->
+        <div class="row">
+            <div class="col-12">
 
+            </div>
+        </div>
+
+        <!-- Springboard -->
+        <div class="row">
+            <div class="col-12">
+                <p></p>
+            </div>
+        </div>
+
+        <!-- General Assembly -->
+        <div class="row">
+            <div class="col-12">
+                <p></p>
+            </div>
+        </div>
+
+        <!-- Scholarship -->
+        <div class="row">
+            <div class="col-12">
+                <p></p>
+            </div>
+        </div>
+    </div>
+</section>
 
 <!-- School Projects -->
 <section id="school-projects-section">
 	<div class="container">
+        <!-- Opening Text -->
 		<div class="row">
 			<div class="col-12">
                 <p>This list consists of projects I've made while I was enrolled in my coding bootcamp with General Assembly</p>

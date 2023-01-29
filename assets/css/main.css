@@ -23,7 +23,7 @@ b, p {
 	color: black;
 }
 
-p, li, .ac-item {
+li, .ac-item {
 	font-size: 1.2rem;
 }
 
@@ -237,7 +237,7 @@ section#home-halfscreen-section.halfscreen {
 
 #home-text-section .card .card-header {
     padding: 0;
-    border-bottom: 1px solid black;
+    border-bottom: 2px solid black;
 }
 
 #home-text-section .card .card-body {
