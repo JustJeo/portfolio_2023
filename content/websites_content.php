@@ -231,22 +231,6 @@
                 </div>
             </div>
 
-            <!-- Tech 2U Assist IT -->
-            <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
-                <div class="portfolio-item-wrap">
-                    <div class="portfolio-image">
-                        <a href="">
-                            <img src="assets/images/tech2u-assist.png" alt="">
-                        </a>
-                    </div>
-                    <div class="portfolio-description text-light">
-                        <h3>Tech 2U Assist IT (2023)</h3>
-                        <h5>Company Redesign</h5>
-                        <button class="btn btn-sm" id="assist-it-btn">Learn More</button>
-                    </div>
-                </div>
-            </div>
-
              <!-- FireUp -->
              <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
                 <div class="portfolio-item-wrap">
