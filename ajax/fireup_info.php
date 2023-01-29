@@ -4,13 +4,9 @@
         <button type="button" class="btn float-right " id="x-btn">X</button>
     </div>
     <div class="card-body">
-        <div class="row">
-            <div class="col-12">
-                <p>The CIO of Tech 2U has created another company called FireUp Esports Lounge. Although they already have a main website, I was tasked to help build the frontend of the reservation page. A booking system was created inside of a modal made from scratch/ It animates and highlights whenever a user makes a selection so they know what it is they are selecting.</p>
+        <p>The CIO of Tech 2U has created another company called FireUp Esports Lounge. Although they already have a main website, I was tasked to help build the frontend of the reservation page. A booking system was created inside of a modal made from scratch/ It animates and highlights whenever a user makes a selection so they know what it is they are selecting.</p>
 
-                <p>The website is in the final few stages before going live to the public.</p>
-            </div>
-        </div>
+        <p>The website is in the final few stages before going live to the public.</p>
     </div>
 </div>
 

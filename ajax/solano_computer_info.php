@@ -4,16 +4,11 @@
         <button type="button" class="btn float-right " id="x-btn">X</button>
     </div>
     <div class="card-body">
-        <div class="row">
-            <div class="col-12">
-                <p>After acquisitioning this company, Tech 2U assigned me my 2nd rebuild project. The website was to be built with a more modern look as the last website was created in the early 2000's. The initial look was made sleeker and simpler while also having a lot of hover over features. I also added a looping animation on one of the pages to test the waters.</p>
-            </div>
-        </div>
+        <p>After acquisitioning this company, Tech 2U assigned me my 2nd rebuild project. The website was to be built with a more modern look as the last website was created in the early 2000's. The initial look was made sleeker and simpler while also having a lot of hover over features. I also added a looping animation on one of the pages to test the waters.</p>
+
         <div class="row">
             <div class="col-12 text-center">
-                <a href="https://compguyinc.com/" target="_blank">
-                    <button class="btn">Visit Website</button>
-                </a>
+                <a href="https://compguyinc.com/" target="_blank" class="btn">Visit Website</a>
             </div>
         </div>
     </div>
