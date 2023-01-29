@@ -4,7 +4,18 @@
         <button type="button" class="btn float-right " id="x-btn">X</button>
     </div>
     <div class="card-body">
-        <p>This is a test portal.</p>
+        <div class="row">
+            <div class="col-12">
+                <p>This is another website redesign requested by Tech 2U after acquisitioning the company. There are plenty of cards and carousels included in this project. The frontend team tried our best to stick closely to the old website design. The layout was desired, but the photos and information on the website was very outdated.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 text-center">
+                <a href="https://www.tlcpcsolutions.com/" target="_blank">
+                    <button class="btn">Visit Website</button>
+                </a>
+            </div>
+        </div>
     </div>
 </div>
 

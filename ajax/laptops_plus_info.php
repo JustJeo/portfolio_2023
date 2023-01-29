@@ -4,7 +4,18 @@
         <button type="button" class="btn float-right " id="x-btn">X</button>
     </div>
     <div class="card-body">
-        <p>This is a test portal.</p>
+        <div class="row">
+            <div class="col-12">
+                <p>Not long after getting hired with Tech 2U, I was assigned the task of remaking one of the websites of a business they acquisitioned. This was a purely static and informational website that needed a more modern touch. Using Bootstrap, I was able to place rows, columns, and containers to set sections in place.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 text-center">
+                <a href="https://www.laptopspluswest.com/" target="_blank">
+                    <button class="btn">Visit Website</button>
+                </a>
+            </div>
+        </div>
     </div>
 </div>
 
