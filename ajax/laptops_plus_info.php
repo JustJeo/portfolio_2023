@@ -1,6 +1,6 @@
 <div class="card">
     <div class="card-header">
-        <h3 class="modal_header">Laptops Plus</h3>
+        <h3 class="modal_header">Laptops Plus (2021)</h3>
         <button type="button" class="btn float-right " id="x-btn">X</button>
     </div>
     <div class="card-body">
