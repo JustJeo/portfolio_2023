@@ -21,11 +21,18 @@
         <div class="row">
             <div class="col-12">
                 <p>During highschool, I knew that I wanted to have a career in the technical field. I wanted to graduate and go into college with a major in Computer Science. However, growing up in a strict Asian household, I was pushed more towards a medical career than a technical one. While I still lived under my parents' roof, I was told that I couldn't take any computer classes because they belived that I would only end up as an electrician. By the time I graduated from college with an Associate's Degree in an Interdisciplinary Studies of Math and Science, I had only 2 computer classes under my belt.</p>
-
-                <p>It wasn't until I moved out that I was able to send myself to school with a more technical goal in mind. My entire technical journey was completed without my parents' knowledge. Here is how I did it.</p>
             </div>
         </div>
         
+        <!-- Coding Bootcamp -->
+        <div class="row">
+            <div class="col-12">
+                <h3>Coding Bootcamp</h3>
+            </div>
+            <div class="col-12">
+                <p>It wasn't until I moved out that I was able to send myself to school with a more technical goal in mind. My entire technical journey was completed without my parents' knowledge. Here is how I did it.</p>
+            </div>
+        </div>
         <div class="row">
             <div class="col-10 mx-auto">
                 <!-- start: Timeline -->
@@ -121,6 +128,9 @@
 <!-- School Projects -->
 <section id="school-projects-section">
 	<div class="container">
+        
+        <hr>
+
         <!-- Opening Text -->
         <div class="row">
             <div class="col-12">

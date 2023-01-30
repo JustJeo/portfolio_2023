@@ -275,6 +275,10 @@ section#home-halfscreen-section.halfscreen {
 /* About */
 
 /* Education */
+#school-timeline-section .timeline .timeline-item {
+    margin: 0rem 4rem 2rem;
+}
+
 #school-timeline-section .timeline .timeline-item .timeline-icon {
     background-color: black;
 }
