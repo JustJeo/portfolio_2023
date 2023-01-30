@@ -105,10 +105,11 @@
                         <div class="timeline-icon">6</div>
                         <h4>Graduation</h4>
                         <div class="timeline-item-date">December 18th, 2020</div>
-                        <p>Lorem ipsum dolor sit amet, consectetur
-                            adipiscing elit. Quisque scelerisque diam non nisi semper, et elementum lorem
-                            ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales
-                            vehicula....</p>
+                        <p>After the intense 3-month long program, it was finally graduation day. One-by-one, students who were able to meet all of the requirements had their named read off in the last zoom meeting of the cohort. Certificates of completion were soon emailed to students as proof of finishing the course.</p>
+
+                        <p>In the coding bootcamp I learned many things. On the technical skills side, I was able to learn about Node.js, Express.js, EJS, React, and PostgreSQL. Along with object-oriented programming, product development fundamentals, and team collaborating strategies.</p>
+
+                        <p>On a personal level, I was able to prove not only to my parents, but myself, that I was absolutely capable to following my own dreams and reaching my goals. I knew that if I wanted it, if I desired it, then I can achieve it.</p>
                     </li>
                 </ul>
                 <!-- end: Timeline -->
