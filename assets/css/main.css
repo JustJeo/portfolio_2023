@@ -263,6 +263,10 @@ section#home-halfscreen-section.halfscreen {
 /* About */
 
 /* Education */
+#school-timeline-section .timeline .timeline-item .timeline-icon {
+    background-color: black;
+}
+
 #school-projects-section .project_image {
     width: 100%;
 }
