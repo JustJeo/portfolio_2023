@@ -45,6 +45,22 @@ hr {
     color: #0073f7
 }
 
+.green_text {
+    color: #00bd00;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.big_bold {
+    font-weight: 900;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
 .row {
     margin: 0;
 }
@@ -68,10 +84,6 @@ hr {
 .small_space {
     height: 25px;
     border: none;
-}
-
-.big_bold {
-    font-weight: 900;
 }
 
 .side-panel.side-panel-static .body-inner > .page_header_section > .container {
