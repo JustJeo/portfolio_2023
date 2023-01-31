@@ -139,7 +139,11 @@
 					<div class="ac-item">
 						<h5 class="ac-title">What is your dream job?</h5>
 						<div class="ac-content">
-							<p>I've always wanted to work in the video game industry.</p>
+							<p>My ultimate, absolute dream job is to work for a video game company, preferrably one of the big gaming companies like PlayStation, Nintendo, etc. Truthfully, I've always wanted to design an entire story-based game. As a kid, I grew up playing so many video games. I loved the feeling of escaping reality, getting immersed into the world, and feeling like I was truely the character that I was controlling. I feel like I've played so many games since I was a kid that I know what would make a great game - like, the dos and don'ts. Of course, that's all talk, because I've never created a video game aside from a project for my coding bootcamp. Still, to direct, create, and bring a whole world of my own to life? That's the <em>dream</em>.</p>
+                            
+                            <p>In fact, I believe that all the gaming that I've done is what's to blame for all of these stories I have in my head. When I was in elementary school, all the way up to college, I used to write short stories. None of them were ever published, of course, but I remember writing so many story lines and plot points down. I would have pages, upon pages of just rough drafts for these stories. Some of them would be half completed, others would have full fledged, beginning to end, story lines with characters and everything. I even had a sequel planned for one of them!</p>
+
+                            <p>So, to take one of those ideas, any one of them, and to turn that into a video game, that's my ultimate goal in life. Maybe it'll be achievable in the future, but for now that's just a dream. I know that things that grand aren't possible in a day, and I understand that. It's why it's important to have short term goals, long term goals, and an ultimate life goal.</p>
 						</div>
 					</div>
 				</div>
