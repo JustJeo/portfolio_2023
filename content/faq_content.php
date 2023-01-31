@@ -42,13 +42,19 @@
 					<div class="ac-item">
 						<h5 class="ac-title">Why did you want to be a web developer?</h5>
 						<div class="ac-content">
-							<p></p>
+							<p>Truthfully, being a web developer didn't cross my mind when I first wanted to work in the field of technology. I immediately wanted to work with video games and be a level designer or story director. I feel like I always have stories and plot lines in my head, so the thought of bringing that to life through a video games was my biggest dream.</p>
+
+                            <p>Still, I knew that if I wanted to work with video games, I had to start somewhere. When I was doing research for a coding bootcamp, I came across a lot of job titles that graduates would land and a common theme was a "Web Developer". After doing more research into what a web developer actually did, it seemed like a fit to me - particularly the frontend side of it, because I would be able to get my feet wet with technology while still giving me the sort of creative freedom that I desired.</p>
 						</div>
 					</div>
 					<div class="ac-item">
 						<h5 class="ac-title">What technical skills do you know with coding?</h5>
 						<div class="ac-content">
-							<p></p>
+							<p>In my coding bootcamp, we went over the most modern practices out there. At least, that's what my class instructor said. In a matter of days we learned HTML and CSS. For the rest of that week, we learned about functions and JavaScript, and how to build functions using JavaScript. We also went over GitHub and the importance of version control. We then went over Node.js and learned about Express.js and EJS. For the backend aspect, we learned about PostgreSQL and the imporance of making queries to a database to pull out information from APIs. Bringing the course to an end, the class became full stack developers when we were taught React. We were told that we were now PERN full stack developers.</p>
+
+                            <p>When I got hired at Tech 2U, I felt like I took a major step back in time. It turned out that the senior web developer coded in ways that my cohort was trying to replace. He comfortably coded with PHP and AJAX, which are much older coding languages compared to the Node.js and React that I had learned. Instead of postgreSQL, he used MySQL. While my cohort coded in VS Code, he would code in Notepad++. There were so many differences between what I had learned in my class to what I was actually applying in my work that I started wondering if I had made a mistake with my bootcamp because we weren't using any of that at all! Haha!</p>
+                                
+                            <p>It was honestly, really shocking, but in the end I knew that this would benefit me in the long run. I proved to myself that I could code with a modern stack, and if need be, I could adapt and code with older languages.</p>
 						</div>
 					</div>
 				</div>
