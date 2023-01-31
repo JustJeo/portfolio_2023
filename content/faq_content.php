@@ -30,9 +30,11 @@
                             <div class="row">
                                 <div class="col-lg-8">
 							        <p>I'm a huge fan of video games! In fact, I believe my addiction to them as a child helped solidify my love for technology as a whole. How could I ever forget the times where I held a Nintendo 64 controller at home while I played "Mario Party 3" and "Super Mario 64"? As I got older, I started to fancy more action packed games like the "Halo" series and the "Assassin's Creed" games. Now-a-days I can confidently say that I've played a wide range of games with various genres like action and adventure, role-playing games [RPGs], and even the casual mobile app. I knew it would only be a matter of time before I wanted to make video games as part of my career.</p>
+
+                                    <p>I love video games so much that I even added some photos from my favorite video game into my portfolio. If you love Mirror's Edge Catalyst as much as I do, then you'll notice that you've been on the rooftops of some of the buildings of Glass.</p>
                                 </div>
                                 <div class="col-lg-4">
-                                    <img src="assets/images/burger-builder.png" alt="Landing page preview for Burger Builder" class="project_image">
+                                    <img src="assets/images/glass-city-shard.jpg" alt="Landing page preview for Burger Builder" class="project_image">
                                 </div>
                             </div>
 						</div>
