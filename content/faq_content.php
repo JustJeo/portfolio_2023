@@ -15,7 +15,7 @@
             <div class="card-body">
                 <div class="row">
                     <div class="col-12">
-                        <p>Here are some questions that you might be wanting to know the answers to.</p>
+                        <h3>Here are some questions that you might be wanting to know the answers to.</h3>
                     </div>
                 </div>
                 <!-- Technology -->

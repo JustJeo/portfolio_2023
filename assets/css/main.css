@@ -401,5 +401,6 @@ body.side-panel-static .body-inner #home-container {
 #technology-faq,
 #journey-faq,
 #miscellaneous-faq {
+    margin-top: 30px;
 	margin-bottom: 20px;
 }
