@@ -158,7 +158,9 @@
                     <div class="col-lg-6 col-12">
                         <div class="row">
                             <div class="col-lg-12">
-                                <h3 class="project_title link_click">Burger Builder</h3>
+                                <a href="https://justjeo.github.io/Burger-Builder/" target="_blank">
+                                    <h3 class="project_title link_click">Burger Builder</h3>
+                                </a>
                             </div>
                             <div class="col-lg-12">
                                 <h4>October 9th, 2020</h4>

@@ -24,7 +24,7 @@
             <div class="card-body">
                 <div class="row">
                     <div class="col-12">
-                        <p>Here is a list of websites that I've worked on!</p>
+                        <h3>This is a list of websites that I've worked on.</h3>
                         
                         <p>Some of the websites are modern redesigns while others were built completely from scratch. If a client never had a prior website, I would create a wireframe that would then be submitted to the Senior Web Developer. Upon the approval of the Senior Web Developer, they would reach out to the client for the final approval. Once everything was given the green light, the building process of the website would begin.</p>
                         
