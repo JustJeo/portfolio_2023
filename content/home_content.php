@@ -45,10 +45,10 @@
 </section>
 
 <section id="home-text-section">
-	<div class="container">
-		<div class="row align-items-center">
+	<div class="container" id="home-container">
+		<div class="row">
 			<div class="col-lg-6" id="home-intro">
-                <p>From video games to coding, I have always loved technology.</p>
+                <h4>From video games to coding, I have always loved technology.</h4>
 
                 <p> I'm a Software Engineer with an understanding of languages such as Bootstrap, PHP, JavaScript, and AJAX. My previous and current jobs have taught me how to work and communicate heavily in teams and accomplish the task at hand in time-sensitive situations while staying consistent and accurate. I excel individually with frontend development and collectively with a team willing to harmonize and work together despite the different job specifications.</p>
                 
