@@ -5,9 +5,8 @@
 
 /* ~~~~~~~~ General Tags ~~~~~~~~ */
 section {
-	background-color: white;
-	padding-top: 0px;
-	padding-bottom: 10px;
+	background-color: #007aff;
+	padding: 0px;
 	background-image: none;
 }
 
@@ -107,6 +106,11 @@ hr {
 
 .text-light li {
     margin-bottom: 20px;
+}
+
+.card {
+    margin: 30px 0;
+    border-radius: 25px;
 }
 
 .card .card-header,
