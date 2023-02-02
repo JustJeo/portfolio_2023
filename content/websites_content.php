@@ -227,6 +227,9 @@
                             <div class="portfolio-description text-light">
                                 <h3>San Diego Computer Help (2023)</h3>
                                 <h5>Internal Company Redesign</h5>
+                                <a href="https://sandiegocomputerhelp.com/" target="_blank">
+                                    <button class="btn btn-sm btn-dark">Visit Website</button>
+                                </a>
                                 <button class="btn btn-sm btn-dark" id="sd-computer-help-btn">Learn More</button>
                             </div>
                         </div>
@@ -243,6 +246,9 @@
                             <div class="portfolio-description text-light">
                                 <h3>FireUp - Reservation Page (2023)</h3>
                                 <h5>New Website for Client</h5>
+                                <a href="https://booking.fireup.gg/" target="_blank">
+                                    <button class="btn btn-sm btn-dark">Visit Website</button>
+                                </a>
                                 <button class="btn btn-sm btn-dark" id="fireup-btn">Learn More</button>
                             </div>
                         </div>
