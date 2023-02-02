@@ -1,6 +1,6 @@
 <div class="card-header">
     <h3 class="modal_header">Bice [2022]</h3>
-    <button type="button" class="btn btn-light float-right" id="x-btn">X</button>
+    <button type="button" class="btn btn-light btn-sm float-right" id="x-btn">X</button>
 </div>
 <div class="card-body">
     <p>This website was built for a client who specifically wanted a booking system built in. Once a customer submitted an appointment, the calendar would gray out the requested time so that another customer could not book at the same time.</p>
