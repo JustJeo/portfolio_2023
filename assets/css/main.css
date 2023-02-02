@@ -363,16 +363,16 @@ body.side-panel-static .body-inner #home-container {
 /* Portal */
 #project-portal {
     position: fixed;
-    top: 10vh;
+    top: 15%;
 	right: 0;
-	left: 0;
-	background-color: rgba(148, 148, 148, 0.6);
+	left: 10%;
 	width: 50%;
 	height: auto;
-	border: 3px solid black;
+    background-color: black;
+	border: 3px solid lightgray;
+    border-radius: 15px;
 	margin: auto;
 	z-index: 999;
-	border-radius: 15px;
 	display: none;
 }
 

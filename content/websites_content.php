@@ -12,7 +12,7 @@
 <!-- Project Portal -->
 <div id="project-portal">
     <div class="row">
-        <div class="col-12" id="project-portal-contents">
+        <div class="col-12 text-light" id="project-portal-contents">
             <!-- AJAX in Code -->
         </div>
     </div>
@@ -42,7 +42,7 @@
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
-                                <h3>Laptops Plus (2021)</h3>
+                                <h3>Laptops Plus [2021]</h3>
                                 <h5>Internal Company Redesign</h5>
                                 <a href="https://www.laptopspluswest.com/" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
@@ -61,7 +61,7 @@
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
-                                <h3>Bullards Bar (2021)</h3>
+                                <h3>Bullards Bar [2021]</h3>
                                 <h5>New Website for Client</h5>
                                 <a href="https://bullardsbar.com/index.php" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
@@ -78,7 +78,7 @@
                                 <a href="#"><img src="assets/images/solano-computer-guy.png" alt=""></a>
                             </div>
                             <div class="portfolio-description text-light">
-                                <h3>Solano Computer Guy (2022)</h3>
+                                <h3>Solano Computer Guy [2022]</h3>
                                 <h5>Internal Company Redesign</h5>
                                 <a href="https://compguyinc.com/" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
@@ -95,7 +95,7 @@
                                 <a href="#"><img src="assets/images/my-wire-guy.png" alt=""></a>
                             </div>
                             <div class="portfolio-description text-light">
-                                <h3>My Wire Guy (2022)</h3>
+                                <h3>My Wire Guy [2022]</h3>
                                 <h5>Internal Company Redesign</h5>
                                 <a href="https://www.mywireguy.com/" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
@@ -114,7 +114,7 @@
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
-                                <h3>Sircles (2022)</h3>
+                                <h3>Sircles [2022]</h3>
                                 <h5>New Website for Client</h5>
                                 <a href="https://www.sircles.com/" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
@@ -133,7 +133,7 @@
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
-                                <h3>Scarlett's Cancer(free) Community (2022)</h3>
+                                <h3>Scarlett's Cancer(free) Community [2022]</h3>
                                 <h5>New Website for Client</h5>
                                 <a href="https://www.scarlettscancerfree.org/" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
@@ -152,7 +152,7 @@
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
-                                <h3>Bice Mobile Marine (2022)</h3>
+                                <h3>Bice Mobile Marine [2022]</h3>
                                 <h5>New Website for Client</h5>
                                 <button class="btn btn-dark" id="bice-btn">Learn More</button>
                             </div>
@@ -168,7 +168,7 @@
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
-                                <h3>Stealth Accelerated Flight Training (2022)</h3>
+                                <h3>Stealth Accelerated Flight Training [2022]</h3>
                                 <h5>New Website for Client</h5>
                                 <a href="https://www.stealthacceleratedflight.com/" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
@@ -187,7 +187,7 @@
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
-                                <h3>Madden & Associates LLP (2022)</h3>
+                                <h3>Madden & Associates LLP [2022]</h3>
                                 <h5>New Website for Client</h5>
                                 <a href="https://www.maddenlawyer.com/" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
@@ -206,7 +206,7 @@
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
-                                <h3>TLC Computer Solutions (2022)</h3>
+                                <h3>TLC Computer Solutions [2022]</h3>
                                 <h5>Internal Company Redesign</h5>
                                 <a href="https://www.tlcpcsolutions.com/" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
@@ -225,7 +225,7 @@
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
-                                <h3>San Diego Computer Help (2023)</h3>
+                                <h3>San Diego Computer Help [2023]</h3>
                                 <h5>Internal Company Redesign</h5>
                                 <a href="https://sandiegocomputerhelp.com/" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
@@ -244,7 +244,7 @@
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
-                                <h3>FireUp - Reservation Page (2023)</h3>
+                                <h3>FireUp - Reservation Page [2023]</h3>
                                 <h5>New Website for Client</h5>
                                 <a href="https://booking.fireup.gg/" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
