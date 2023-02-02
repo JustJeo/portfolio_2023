@@ -346,7 +346,7 @@ body.side-panel-static .body-inner #home-container {
 }
 
 .portfolio-item .portfolio-image img {
-    /* object-fit: cover; */
+    object-fit: cover;
     object-position: top;
     height: 265px;
 }
