@@ -35,7 +35,7 @@
                     <div class="col-lg-6 col-12">
                         <div class="row">
                             <div class="col-lg-12">
-                                <h3 class="project_title link_click">Burger Builder</h3>
+                                <h3 class="project_title">Burger Builder</h3>
                             </div>
                             <div class="col-lg-12">
                                 <h4>October 9th, 2020</h4>
@@ -49,6 +49,7 @@
                             </div>
                             <div class="col-lg-12">
                                 <a href="https://justjeo.github.io/Burger-Builder/" target="_blank" class="btn btn-dark school_projects_btn">Play Game</a>
+                                <a href="https://github.com/JustJeo/Burger-Builder" target="_blank" class="btn btn-dark school_projects_btn">View GitHub</a>
                             </div>
                         </div>
                     </div>
@@ -64,7 +65,7 @@
                     <div class="col-lg-6 col-12">
                         <div class="row">
                             <div class="col-12">
-                                <h3 class="project_title link_click">Better Boothang</h3>
+                                <h3 class="project_title">Better Boothang</h3>
                             </div>
                             <div class="col-12">
                                 <h4>October 30th, 2020</h4>
@@ -75,6 +76,9 @@
                             </div>
                             <div class="col-lg-12">
                                 <h5><span class="green_text bold underline">Technologies Used:</span> HTML, CSS, JavaScript, Node.js, PostgreSQL, Express.js, and Bootstrap.</h5>
+                            </div>
+                            <div class="col-lg-12">
+                                <a href="https://github.com/fostimus/better-boothang" target="_blank" class="btn btn-dark school_projects_btn">View GitHub</a>
                             </div>
                         </div>
                     </div>
@@ -97,7 +101,7 @@
                     <div class="col-lg-6">
                         <div class="row">
                             <div class="col-12">
-                                <h3 class="project_title link_click">Collabathon</h3>
+                                <h3 class="project_title">Collabathon</h3>
                             </div>
                             <div class="col-12">
                                 <h4>November 24th, 2020</h4>
@@ -108,6 +112,10 @@
                             </div>
                             <div class="col-lg-12">
                                 <h5><span class="green_text bold underline">Technologies Used:</span> PostgreSQL, Express.js, React, Node.js, React-Strap, and Sass.</h5>
+                            </div>
+                            <div class="col-lg-12">
+                                <a href="https://github.com/JustJeo/netflix-review-frontend" target="_blank" class="btn btn-dark school_projects_btn">View Frontend</a>
+                                <a href="https://github.com/JustJeo/netflix-reviews-backend" target="_blank" class="btn btn-dark school_projects_btn">View Backend</a>
                             </div>
                         </div>
                     </div>
@@ -123,7 +131,7 @@
                     <div class="col-lg-6 col-12">
                         <div class="row">
                             <div class="col-12">
-                                <h3 class="project_title link_click">Soul Sip'n</h3>
+                                <h3 class="project_title">Soul Sip'n</h3>
                             </div>
                             <div class="col-12">
                                 <h4>November 30th, 2020</h4>
@@ -134,6 +142,10 @@
                             </div>
                             <div class="col-lg-12">
                                 <h5><span class="green_text bold underline">Technologies Used:</span> HTML, CSS, JavaScript, PostgreSQL, Express.js, React, Node.js, React-Strap and React-Spring.</h5>
+                            </div>
+                            <div class="col-lg-12">
+                                <a href="https://github.com/laurennguyen395/soulsipn-pern-auth-frontend" target="_blank" class="btn btn-dark school_projects_btn">View Frontend</a>
+                                <a href="https://github.com/laurennguyen395/soulsipn-pern-auth-backend" target="_blank" class="btn btn-dark school_projects_btn">View Backend</a>
                             </div>
                         </div>
                     </div>
@@ -149,7 +161,7 @@
                     <div class="col-lg-6 col-12">
                         <div class="row">
                             <div class="col-12">
-                                <h3 class="project_title link_click">Heart of Blink</h3>
+                                <h3 class="project_title">Heart of Blink</h3>
                             </div>
                             <div class="col-12">
                                 <h4>December 17th, 2020</h4>
@@ -160,6 +172,9 @@
                             </div>
                             <div class="col-lg-12">
                                 <h5><span class="green_text bold underline">Technologies Used:</span> HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL, and Bootstrap.</h5>
+                            </div>
+                            <div class="col-lg-12">
+                                <a href="https://github.com/JustJeo/HeartOfBlink" target="_blank" class="btn btn-dark school_projects_btn">View GitHub</a>
                             </div>
                         </div>
                     </div>
