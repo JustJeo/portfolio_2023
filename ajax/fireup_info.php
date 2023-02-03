@@ -7,7 +7,7 @@
 
     <div class="row">
         <div class="col-12 text-center">
-            <a href="https://booking.fireup.gg/" target="_blank" class="btn btn-light">Visit Website</a>
+            <a href="https://booking.fireup.gg/" target="_blank" class="btn btn-light visit_website_portal_btn">Visit Website</a>
         </div>
     </div>
 </div>
