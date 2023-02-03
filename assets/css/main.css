@@ -22,6 +22,10 @@ h1, h2 {
 	color: dodgerblue;
 }
 
+p {
+    line-height: 1.5;
+}
+
 b, p {
 	color: black;
 }
@@ -340,6 +344,13 @@ body.side-panel-static .body-inner #home-container {
 
 #school-timeline-section .timeline .timeline-item .timeline-icon {
     background-color: black;
+}
+
+
+
+/* School Projects */
+#school-projects-section .school_projects_btn {
+    margin-top: 25px;
 }
 
 #school-projects-section .project_image {

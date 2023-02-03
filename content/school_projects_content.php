@@ -9,7 +9,7 @@
     </div>
 </section>
 
-<!-- School Projects -->
+<!-- Projects -->
 <section id="school-projects-section">
 	<div class="container">
         <div class="card">
@@ -17,13 +17,13 @@
                 <!-- Opening Text -->
                 <div class="row">
                     <div class="col-12">
-                        <h3>School Projects</h3>
+                        <h3>Coding Bootcamp Projects</h3>
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-12">
-                        <p>This list consists of projects I have made while I was enrolled in my coding bootcamp with General Assembly. In its entirety, there are 2 solo projects, 2 group projects with classmates within my cohort, and 1 group project involving another class.</p>
+                        <p>This list consists of projects I have made while I was enrolled in my coding bootcamp with General Assembly. In its entirety, there are 2 solo projects, 2 group projects with classmates within my cohort, and 1 group project involving another class. I give each project a short synopsis and the planning process of the project. I also list the technologies used in the project along with buttons to take you to the GitHub to view the code.</p>
                     </div>
                 </div>
 
@@ -35,9 +35,7 @@
                     <div class="col-lg-6 col-12">
                         <div class="row">
                             <div class="col-lg-12">
-                                <a href="https://justjeo.github.io/Burger-Builder/" target="_blank">
-                                    <h3 class="project_title link_click">Burger Builder</h3>
-                                </a>
+                                <h3 class="project_title link_click">Burger Builder</h3>
                             </div>
                             <div class="col-lg-12">
                                 <h4>October 9th, 2020</h4>
@@ -48,6 +46,9 @@
                             </div>
                             <div class="col-lg-12">
                                 <h5><span class="green_text bold underline">Technologies Used:</span> HTML, CSS and JavaScript.</h5>
+                            </div>
+                            <div class="col-lg-12">
+                                <a href="https://justjeo.github.io/Burger-Builder/" target="_blank" class="btn btn-dark school_projects_btn">Play Game</a>
                             </div>
                         </div>
                     </div>
