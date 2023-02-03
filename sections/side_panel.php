@@ -22,6 +22,7 @@
                         <li><a href="index.php">Home</a></li>
                         <li><a href="about.php">About</a></li>
                         <li><a href="education.php">Education</a></li>
+                        <li><a href="school_projects.php">School Projects</a></li>
                         <li><a href="websites.php">Websites</a></li>
                         <li><a href="faq.php">FAQ</a></li>
                         <li><a href="mailto:j.cabrigas.writer@gmail.com" class="link_click underline">j.cabrigas.writer@gmail.com</a></li>

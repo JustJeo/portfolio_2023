@@ -1,3 +1,13 @@
+<!-- Page Header -->
+<section class="page_header_section">
+	<div class="container page_header_container">
+		<div class="row">
+			<div class="col-12 page_header">
+				<h2>School Projects</h2>
+			</div>
+		</div>
+    </div>
+</section>
 
 <!-- School Projects -->
 <section id="school-projects-section">

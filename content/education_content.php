@@ -3,7 +3,7 @@
 	<div class="container page_header_container">
 		<div class="row">
 			<div class="col-12 page_header">
-				<h2>Technical Education</h2>
+				<h2>Education</h2>
 			</div>
 		</div>
     </div>
