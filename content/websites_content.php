@@ -22,7 +22,7 @@
 	<div class="container">
         <div class="card">
             <div class="card-body">
-                <div class="row">
+                <div class="row opening_text">
                     <div class="col-12">
                         <h3>This is a list of websites that I've worked on.</h3>
                         

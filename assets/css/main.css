@@ -107,9 +107,12 @@ hr {
     color: white;
 }
 
+.opening_text p {
+    margin-bottom: 0;
+}
+
 .project_title {
     color: black;
-    font-size: 30px;
 }
 
 .text-light li {

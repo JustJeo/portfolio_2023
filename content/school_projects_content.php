@@ -15,17 +15,17 @@
         <div class="card">
             <div class="card-body">
                 <!-- Opening Text -->
-                <div class="row">
+                <div class="row opening_text">
                     <div class="col-12">
                         <h3>Coding Bootcamp Projects</h3>
                     </div>
-                </div>
 
-                <div class="row">
                     <div class="col-12">
                         <p>This list consists of projects I have made while I was enrolled in my coding bootcamp with General Assembly. In its entirety, there are 2 solo projects, 2 group projects with classmates within my cohort, and 1 group project involving another class. I give each project a short synopsis and the planning process of the project. I also list the technologies used in the project along with buttons to take you to the GitHub to view the code.</p>
                     </div>
                 </div>
+
+                <hr>
 
                 <!-- Burger Builder -->
                 <div class="row">
@@ -35,14 +35,14 @@
                     <div class="col-lg-6 col-12">
                         <div class="row">
                             <div class="col-lg-12">
-                                <h3 class="project_title">Burger Builder</h3>
+                                <h2 class="project_title">Burger Builder</h2>
                             </div>
                             <div class="col-lg-12">
                                 <h4>October 9th, 2020</h4>
 
-                                <p>Burger Builder is my first-ever project. It was the first project assigned to students in the coding bootcamp program I had taken. The project was required to be frontend only and was required to be a game. All functionality for the game had to be done through DOM Manipulation.</p>
+                                <p>Burger Builder is my first-ever project. It was the first project assigned to students in the General Assembly coding bootcamp program I had taken. The project was required to be a game that was frontend only. All functionality for the game had to be done through vanilla JavaScript and DOM Manipulation. For this project I had drawn all of the game images using a basic drawing software. These images appear as the ketchup and mustard trails in the logo along with images that would appear at the click of a button while playing the game!</p>
 
-                                <p>The game placed players in the shoes of a chef where they are given one minute to build randomly picked orders from "customers". The burger must be built from the bottom up and sent for inspection. With every correct order, players will earn points and any wrong order will lose points.</p>
+                                <p>The game placed players in the shoes of a chef where they are given one minute to build randomly picked orders from "customers". The burger must be built from the bottom up and sent for inspection. With every correct order, players will earn points and any wrong order will lose points. This fast paced game was deemed as one of the class's favorites as everyone competed for the highest score.</p>
                             </div>
                             <div class="col-lg-12">
                                 <h5><span class="green_text bold underline">Technologies Used:</span> HTML, CSS and JavaScript.</h5>
@@ -65,7 +65,7 @@
                     <div class="col-lg-6 col-12">
                         <div class="row">
                             <div class="col-12">
-                                <h3 class="project_title">Better Boothang</h3>
+                                <h2 class="project_title">Better Boothang</h2>
                             </div>
                             <div class="col-12">
                                 <h4>October 30th, 2020</h4>
@@ -101,7 +101,7 @@
                     <div class="col-lg-6">
                         <div class="row">
                             <div class="col-12">
-                                <h3 class="project_title">Collabathon</h3>
+                                <h2 class="project_title">Collabathon</h2>
                             </div>
                             <div class="col-12">
                                 <h4>November 24th, 2020</h4>
@@ -131,7 +131,7 @@
                     <div class="col-lg-6 col-12">
                         <div class="row">
                             <div class="col-12">
-                                <h3 class="project_title">Soul Sip'n</h3>
+                                <h2 class="project_title">Soul Sip'n</h2>
                             </div>
                             <div class="col-12">
                                 <h4>November 30th, 2020</h4>
@@ -161,7 +161,7 @@
                     <div class="col-lg-6 col-12">
                         <div class="row">
                             <div class="col-12">
-                                <h3 class="project_title">Heart of Blink</h3>
+                                <h2 class="project_title">Heart of Blink</h2>
                             </div>
                             <div class="col-12">
                                 <h4>December 17th, 2020</h4>
