@@ -195,7 +195,8 @@ button.btn, .btn:not(.close):not(.mfp-close) {
 
 #footer .footer-content #footer-img {
 	background-image: url('../images/glass-city-twilight-skyline.jpg');
-	background-position-y: 15%;
+	background-position-y: 22%;
+    background-size: cover;
 }
 
 /* #footer #footer-title,
@@ -209,9 +210,9 @@ button.btn, .btn:not(.close):not(.mfp-close) {
     object-fit: cover;
 }
 
-#footer #github-footer-col {
+/* #footer #github-footer-col {
     padding-left: 25px;
-}
+} */
 
 #footer .footer-content section .container h2,
 #footer .footer-content section .container h4,
@@ -222,6 +223,7 @@ button.btn, .btn:not(.close):not(.mfp-close) {
 
 #footer .footer-content section .container .footer_link h5 {
 	text-decoration: underline;
+    height: 30px;
 }
 
 #footer a:not(.btn):not(:hover) {
@@ -232,20 +234,12 @@ button.btn, .btn:not(.close):not(.mfp-close) {
 	color: #0fb7ff;
 }
 
-/* .icon_column, .footer_num, .footer_email h5 {
-	line-height: 1.25em;
-} */
-
-.footer_num, .footer_email {
-	margin-top: 2px;
-}
-
 #footer .footer-content {
 	padding: 0;
 }
 
-address p {
-	margin-bottom: 0;
+#footer #email-footer {
+    margin-bottom: 20px;
 }
 
 
