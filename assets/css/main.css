@@ -275,7 +275,7 @@ section#home-halfscreen-section.halfscreen {
 }
 
 body.side-panel-static .body-inner #home-container {
-    max-width: 95%;
+    max-width: 100%;
 }
 
 #home-text-section #home-intro {

@@ -19,9 +19,11 @@
                         <h3>My name is <span class="blue_text">Jamieden Cabrigas</span>. I also go by Jamie!</h3>
                     </div>
                     <div class="col-12">
-                        <p>I'm a coding bootcamp graduate since December 2020 and am currently employed as a Frontend Web Developer. I have learned to adapt to the syntax and coding style of the company that uses PHP, AJAX and MySQL while I learned React, Node.js, and PostgreSQL in my bootcamp class. I have built many websites, both internally for the company and externally for clients that were referred to the company . Some of those projects were developed in a small team setting, while others were built completely by myself.</p>
+                        <p>I'm a coding bootcamp Software Engineer graduate since December 2020 and am currently employed as a Frontend Web Developer. I have learned to adapt to the syntax and coding style of a company that uses PHP, AJAX and MySQL while I learned React, Node.js, and PostgreSQL in my bootcamp class. I have built many websites, both internally for the company and externally for clients that were referred to the company. Some of those projects were developed in a small team setting, while others were built almost completely by myself.</p>
 
                         <p>My previous and current jobs have taught me how to work and communicate heavily in teams and accomplish the task at hand in time-sensitive situations while staying consistent and accurate. I excel individually with frontend development and collectively with a team willing to harmonize and work together despite the different job specifications.</p>
+
+                        <p>I fell in love with technology through video games when I was a child and since then, it has only grown into a burning passion where I am determined to make it my career and showcase my frontend power up.</p>
                     </div>
                 </div>
 
