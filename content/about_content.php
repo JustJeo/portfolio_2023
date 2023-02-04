@@ -22,16 +22,19 @@
                         <p>I'm a coding bootcamp Software Engineer graduate since December 2020 and am currently employed as a Frontend Web Developer. I have learned to adapt to the syntax and coding style of a company that uses PHP, AJAX and MySQL while I learned React, Node.js, and PostgreSQL in my bootcamp class. I have built many websites, both internally for the company and externally for clients that were referred to the company. Some of those projects were developed in a small team setting, while others were built almost completely by myself.</p>
 
                         <p>My previous and current jobs have taught me how to work and communicate heavily in teams and accomplish the task at hand in time-sensitive situations while staying consistent and accurate. I excel individually with frontend development and collectively with a team willing to harmonize and work together despite the different job specifications.</p>
-
-                        <!-- <p>I fell in love with technology through video games when I was a child and since then, it has only grown into a burning passion where I am determined to make it my career and showcase my frontend power up.</p> -->
                     </div>
                 </div>
 
                 <!-- Technologies & Skills -->
+                <div class="row">
+                    <div class="col-12">
+                        <h3>Technologies & Skills</h3>
+                    </div>
+                </div>
 
                 <!-- Strengths & Weaknesses -->
                 <div class="row" id="strengths-and-weaknesses">
-                    <div class="col-lg-12">
+                    <div class="col-12">
                         <h3>Strengths & Weaknesses</h3>
 
                         <p>Something that's really hard for people to reveal is their strengths and weaknesses. They may find themselves being too boastful if they name their positives. On the other hand, they don't like to point out the negatives within themselves. To me, every strength can have their weakness, and every weakness can have their lesson to learn from. It's all just a matter of seeing the silver lining that shines through.</p>
