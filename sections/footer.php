@@ -14,7 +14,7 @@
                             <!-- Github -->
                             <div class="col-md-2 text-center" id="github-footer-col">
                                 <div id="github-footer">
-                                    <a href="https://github.com/JustJeo" target="_blank" class="link_click underline">
+                                    <a href="https://github.com/JustJeo" target="_blank">
                                         <img src="assets/images/github-logo.png" id="github-logo-footer" class="footer_logo">
                                     </a>
                                 </div>
@@ -24,7 +24,7 @@
                             <!-- LinkedIn -->
                             <div class="col-md-2 text-center">
                                 <div id="linkedin-footer">
-                                    <a href="https://www.linkedin.com/in/j-cabrigas/" target="_blank" class="link_click underline">
+                                    <a href="https://www.linkedin.com/in/j-cabrigas/" target="_blank">
                                         <img src="assets/images/linkedin-logo-black.png" id="linkedin-logo-footer" class="footer_logo">
                                     </a>
                                 </div>

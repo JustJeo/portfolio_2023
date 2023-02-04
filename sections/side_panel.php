@@ -12,8 +12,6 @@
             </a>
         </div>
 
-        <hr class="space">
-
         <!--Navigation-->
         <div id="mainMenu" class="menu-onclick menu-vertical">
             <div class="container">
@@ -32,24 +30,29 @@
         </div>
         <!--end: Navigation-->
 
-
-        <hr class="space">
         <hr class="space">
         
-        <!--social icons-->
-        <!-- <div class="social-icons social-icons-colored text-center">
-            <ul>
-                <li class="social-facebook"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                <li class="social-twitter"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                <li class="social-google"><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                <li class="social-pinterest"><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                <li class="social-vimeo"><a href="#"><i class="fab fa-vimeo"></i></a></li>
-            </ul>
-        </div> -->
+        <!-- Socials -->
+        <div class="row justify-content-center" id="socials-side-panel">
+            <div class="col-lg-3">
+                <div id="github-side-panel">
+                    <a href="https://github.com/JustJeo" target="_blank">
+                        <img src="assets/images/github-logo.png" id="github-logo-side-panel" class="side_panel_logo">
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div id="linkedin-side-panel">
+                    <a href="https://www.linkedin.com/in/j-cabrigas/" target="_blank">
+                        <img src="assets/images/linkedin-logo-black.png" id="linkedin-logo-side-panel" class="side_panel_logo">
+                    </a>
+                </div>
+            </div>
+        </div>
 
         <!-- Copyright -->
         <div class="copyright-content">
-            <div class="copyright-text text-center">Copyright &copy; <?php echo date("Y");?> Jamieden Cabrigas. AKA JustJeo.</div>
+            <div class="copyright-text text-center">Copyright &copy; <?php echo date("Y");?> Jamieden Cabrigas.<br>AKA JustJeo.</div>
         </div>
     </div>
 </div>

@@ -154,8 +154,24 @@ hr {
     color: dodgerblue;
 }
 
+#mainMenu.menu-vertical:not(.menu-overlay) nav > ul > li > a {
+    font-size: 16px;
+}
+
 #side-panel.dark .side-panel-wrap .copyright-content {
     color: #777;
+}
+
+#side-panel.dark #socials-side-panel .side_panel_logo {
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: white;
+    padding: 3px;
+    border-radius: 10px;
+}
+
+#side-panel.dark #socials-side-panel .side_panel_logo:hover {
+    background-color: dodgerblue;
 }
 
 .header-logo-center #logo {
@@ -172,9 +188,6 @@ hr {
 #mainMenu nav > ul > li .dropdown-menu > li > span:hover {
 	color: #0f6bff;
 }
-
-/* Background */
-
 
 /* Buttons */
 button.btn, .btn:not(.close):not(.mfp-close) {
