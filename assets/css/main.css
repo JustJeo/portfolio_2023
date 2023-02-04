@@ -284,6 +284,7 @@ body.side-panel-static .body-inner #home-container {
 
 #home-text-section .card {
     border: 2px solid black;
+    min-height: 285px;
 }
 
 #home-text-section .card .card-header {

@@ -38,13 +38,13 @@
 	<div class="container page_header_container">
 		<div class="row">
 			<div class="col-12 page_header">
-				<h2 data-animate="fadeInDown" data-animate-delay="4500">Welcome to my portfolio</h2>
+				<h2 data-animate="fadeInDown" data-animate-delay="4500">Welcome to my portfolio.</h2>
 			</div>
 		</div>
     </div>
 </section>
 
-<section id="home-text-section">
+<section id="home-text-section" class="background-light">
 	<div class="container" id="home-container">
 		<div class="row">
 			<div class="col-lg-6" id="home-intro">
@@ -59,7 +59,7 @@
                         <img src="assets/images/coding-3d.jpg">
                     </div>
                     <div class="card-body">
-                        <h3>Websites I Have Worked On</h3>
+                        <h3>Websites I Worked On</h3>
 
                         <a href="websites.php" class="btn btn-dark">See more</a>
                     </div>
@@ -73,9 +73,9 @@
                         <img src="assets/images/coding-book.jpg">
                     </div>
                     <div class="card-body">
-                        <h3>Technical Education and School Projects</h3>
+                        <h3>School Projects</h3>
 
-                        <a href="education.php" class="btn btn-dark">Learn more</a>
+                        <a href="school_projects.php" class="btn btn-dark">Learn more</a>
                     </div>
                 </div>
 			</div>
