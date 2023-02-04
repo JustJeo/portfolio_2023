@@ -9,13 +9,13 @@
 
 /* ~~~~~~~~ General Tags ~~~~~~~~ */
 section {
-	background-color: #00b1ff;
+	/* background-color: #00b1ff; */
 	padding: 0px;
 	background-image: none;
 }
 
 body.side-panel-static .body-inner .container {
-    max-width: 90%;
+    max-width: 100%;
 }
 
 h1, h2 {
