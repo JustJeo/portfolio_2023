@@ -107,9 +107,13 @@ hr {
     color: white;
 }
 
-.opening_text p {
-    margin-bottom: 0;
+.opening_text {
+    margin-top: 25px;
 }
+
+/* .opening_text p {
+    margin-bottom: 0;
+} */
 
 .project_title {
     color: black;
