@@ -14,6 +14,10 @@ section {
 	background-image: none;
 }
 
+section.background-grey {
+    background-color: #cecece!important;
+}
+
 body.side-panel-static .body-inner .container {
     max-width: 100%;
 }
@@ -336,17 +340,17 @@ body.side-panel-static .body-inner #home-container {
     margin-bottom: 15px;
 }
 
-#about-section #strengths-and-weaknesses h3 {
+#strengths-and-weaknesses-section #strengths-and-weaknesses h3 {
     margin-bottom: 0;
 }
 
-#about-section #strengths-card,
-#about-section #weaknesses-card {
+#strengths-and-weaknesses-section #strengths-card,
+#strengths-and-weaknesses-section #weaknesses-card {
     border: 3px solid black;
 }
 
-#about-section #strengths-card .card-header,
-#about-section #weaknesses-card .card-header {
+#strengths-and-weaknesses-section #strengths-card .card-header,
+#strengths-and-weaknesses-section #weaknesses-card .card-header {
     border-radius: 20px 20px 0 0;
 }
 

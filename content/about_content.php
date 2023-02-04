@@ -22,15 +22,23 @@
                 <p>My previous and current jobs have taught me how to work and communicate heavily in teams and accomplish the task at hand in time-sensitive situations while staying consistent and accurate. I excel individually with frontend development and collectively with a team willing to harmonize and work together despite the different job specifications.</p>
             </div>
         </div>
+    </div>
+</section>
 
-        <!-- Technologies & Skills -->
+<!-- Technologies & Skills -->
+<section id="technologies-and-skills-section" class="background-grey">
+    <div class="container">
         <div class="row">
             <div class="col-12">
                 <h3>Technologies & Skills</h3>
             </div>
         </div>
+    </div>
+</section>
 
-        <!-- Strengths & Weaknesses -->
+<!-- Strengths & Weaknesses -->
+<section id="strengths-and-weaknesses-section">
+    <div class="container">
         <div class="row" id="strengths-and-weaknesses">
             <div class="col-12">
                 <h3>Strengths & Weaknesses</h3>
