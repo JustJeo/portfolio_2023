@@ -23,11 +23,13 @@
 
                         <p>My previous and current jobs have taught me how to work and communicate heavily in teams and accomplish the task at hand in time-sensitive situations while staying consistent and accurate. I excel individually with frontend development and collectively with a team willing to harmonize and work together despite the different job specifications.</p>
 
-                        <p>I fell in love with technology through video games when I was a child and since then, it has only grown into a burning passion where I am determined to make it my career and showcase my frontend power up.</p>
+                        <!-- <p>I fell in love with technology through video games when I was a child and since then, it has only grown into a burning passion where I am determined to make it my career and showcase my frontend power up.</p> -->
                     </div>
                 </div>
 
-                <!-- Cards -->
+                <!-- Technologies & Skills -->
+
+                <!-- Strengths & Weaknesses -->
                 <div class="row" id="strengths-and-weaknesses">
                     <div class="col-lg-12">
                         <h3>Strengths & Weaknesses</h3>
