@@ -18,7 +18,7 @@
                 <h3 class="underline">High School & College</h3>
             </div>
             <div class="col-12">
-                <p>During highschool, I knew that I wanted to have a career in the technical field. I wanted to graduate and go into college with a major in Computer Science. However, growing up in a strict Asian household, I was pushed more towards a medical career than a technical one. While I still lived under my parents' roof, I was told that I couldn't take any computer classes because they belived that I would only end up as an electrician. By the time I graduated from college with an Associate's Degree in an Interdisciplinary Studies of Math and Science, I had only 2 computer classes under my belt.</p>
+                <p>During high school, I knew that I wanted to have a career in the technical field. I wanted to graduate and go into college with a major in Computer Science. However, growing up in a strict Asian household, I was pushed more towards a medical career than a technical one. While I still lived under my parents' roof, I was told that I couldn't take any computer classes because they belived that I would only end up as an electrician. By the time I graduated from college with an Associate's Degree in an Interdisciplinary Studies of Math and Science, I had only 2 computer classes under my belt.</p>
             </div>
         </div>
         
