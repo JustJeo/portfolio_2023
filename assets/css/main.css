@@ -338,16 +338,29 @@ body.side-panel-static .body-inner #home-container {
 
 
 /* About */
+#about-section {
+    padding-bottom: 15px;
+}
+
 #about-section #about-intro h3 {
     margin-bottom: 15px;
 }
 
+#about-section #about-intro #name-link:hover {
+    color: gray;
+}
+
 #technologies-and-skills-section #tech-skills-card {
     background: black;
+    margin: 15px 0;
 }
 
 #technologies-and-skills-section #tech-skills-card h4 {
     color: #10f144;
+}
+
+#strengths-and-weaknesses-section {
+    padding-top: 15px;
 }
 
 #strengths-and-weaknesses-section #strengths-and-weaknesses h3 {
