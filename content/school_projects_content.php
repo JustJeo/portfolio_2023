@@ -43,7 +43,7 @@
                         <p>The game placed players in the shoes of a chef where they are given one minute to build randomly picked orders from "customers". The burger must be built from the bottom up and sent for inspection. With every correct order, players will earn points and any wrong order will lose points. This fast paced game was deemed as one of the class's favorites as everyone competed for the highest score.</p>
                     </div>
                     <div class="col-lg-12">
-                        <h5><span class="green_text bold underline">Technologies Used:</span> HTML, CSS and JavaScript.</h5>
+                        <p><span class="green_text bold underline">Technologies Used:</span> HTML, CSS and JavaScript.</p>
                     </div>
                     <div class="col-lg-12">
                         <a href="https://justjeo.github.io/Burger-Builder/" target="_blank" class="btn btn-dark school_projects_btn">Play Game</a>
@@ -73,7 +73,7 @@
                         <p>The app was created from one of our program instructors who jokingly pitched the idea. We, as a team, wanted to turn his silly thought into a reality. The app allowed users to store the numbers of their favorite people and send them pre-generated text messages from a list. It was meant to help individuals send messages with all of the right words when they couldn't think of what to say.</p>
                     </div>
                     <div class="col-lg-12">
-                        <h5><span class="green_text bold underline">Technologies Used:</span> HTML, CSS, JavaScript, Node.js, PostgreSQL, Express.js, and Bootstrap.</h5>
+                        <p><span class="green_text bold underline">Technologies Used:</span> HTML, CSS, JavaScript, Node.js, PostgreSQL, Express.js, and Bootstrap.</p>
                     </div>
                     <div class="col-lg-12">
                         <a href="https://github.com/fostimus/better-boothang" target="_blank" class="btn btn-dark school_projects_btn">View GitHub</a>
@@ -109,11 +109,11 @@
                         <p>The project was to have UX Designers come up with a prototype that Software Engineers had to replicate to the best of their abilities in the allotted time. In the pictures to the left, the prototype design created by the UX class is the first picture (shown on top), while the final version of the software engineer replica is the second (shown on bottom).</p>
                     </div>
                     <div class="col-lg-12">
-                        <h5><span class="green_text bold underline">Technologies Used:</span> PostgreSQL, Express.js, React, Node.js, React-Strap, and Sass.</h5>
+                        <p><span class="green_text bold underline">Technologies Used:</span> PostgreSQL, Express.js, React, Node.js, React-Strap, and Sass.</p>
                     </div>
                     <div class="col-lg-12">
-                        <a href="https://github.com/JustJeo/netflix-review-frontend" target="_blank" class="btn btn-dark school_projects_btn">View Frontend</a>
-                        <a href="https://github.com/JustJeo/netflix-reviews-backend" target="_blank" class="btn btn-dark school_projects_btn">View Backend</a>
+                        <a href="https://github.com/JustJeo/netflix-review-frontend" target="_blank" class="btn btn-dark school_projects_btn">GitHub Frontend</a>
+                        <a href="https://github.com/JustJeo/netflix-reviews-backend" target="_blank" class="btn btn-dark school_projects_btn">GitHub Backend</a>
                     </div>
                 </div>
             </div>
@@ -139,11 +139,11 @@
                         <p>The project we created was a tea informational app that allowed users to view many different types of teas, as well as see the benefits of each individual tea. Users were able to create a profile and save their favorite teas. A registered user could also save a specified benefit to only allow teas that fit those criteria to display in a search result.</p>
                     </div>
                     <div class="col-lg-12">
-                        <h5><span class="green_text bold underline">Technologies Used:</span> HTML, CSS, JavaScript, PostgreSQL, Express.js, React, Node.js, React-Strap and React-Spring.</h5>
+                        <p><span class="green_text bold underline">Technologies Used:</span> HTML, CSS, JavaScript, PostgreSQL, Express.js, React, Node.js, React-Strap and React-Spring.</p>
                     </div>
                     <div class="col-lg-12">
-                        <a href="https://github.com/laurennguyen395/soulsipn-pern-auth-frontend" target="_blank" class="btn btn-dark school_projects_btn">View Frontend</a>
-                        <a href="https://github.com/laurennguyen395/soulsipn-pern-auth-backend" target="_blank" class="btn btn-dark school_projects_btn">View Backend</a>
+                        <a href="https://github.com/laurennguyen395/soulsipn-pern-auth-frontend" target="_blank" class="btn btn-dark school_projects_btn">GitHub Frontend</a>
+                        <a href="https://github.com/laurennguyen395/soulsipn-pern-auth-backend" target="_blank" class="btn btn-dark school_projects_btn">GitHub Backend</a>
                     </div>
                 </div>
             </div>
@@ -169,7 +169,7 @@
                         <p>The game is based on the Korean pop group, BLACKPINK and is played as a fill-in-the-blank type of game. Players would be able to choose a song from the group's discography and will be faced with 10 questions. Players are then given blanks to type in the correct answer. After submitting their answers, the correct answers would be displayed with the player's guess.</p>
                     </div>
                     <div class="col-lg-12">
-                        <h5><span class="green_text bold underline">Technologies Used:</span> HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL, and Bootstrap.</h5>
+                        <p><span class="green_text bold underline">Technologies Used:</span> HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL, and Bootstrap.</p>
                     </div>
                     <div class="col-lg-12">
                         <a href="https://github.com/JustJeo/HeartOfBlink" target="_blank" class="btn btn-dark school_projects_btn">View GitHub</a>
