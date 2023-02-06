@@ -26,11 +26,11 @@
 </section>
 
 <!-- Technologies & Skills -->
-<section id="technologies-and-skills-section" class="background-grey">
+<section id="technologies-and-skills-section">
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h3>Technologies & Skills</h3>
+                <h3 class="underline">Technologies & Skills</h3>
 
                 <p>Here is a list of my technological skills I have aquired over the years. I have learned these technologies from my time as a coding bootcamp student to being employed at my current workplace. It is a mixture of old and new languages and I'm willing to add more to this list as time goes on.</p>
             </div>
@@ -107,7 +107,7 @@
     <div class="container">
         <div class="row" id="strengths-and-weaknesses">
             <div class="col-12">
-                <h3>Strengths & Weaknesses</h3>
+                <h3 class="underline">Strengths & Weaknesses</h3>
 
                 <p>Something that's really hard for people to reveal is their strengths and weaknesses. They may find themselves being too boastful if they name their positives. On the other hand, they don't like to point out the negatives within themselves. To me, every strength can have their weakness, and every weakness can have their lesson to learn from. It's all just a matter of seeing the silver lining that shines through.</p>
             </div>

@@ -15,7 +15,7 @@
         <!-- Opening Text -->
         <div class="row opening_text">
             <div class="col-12">
-                <h3>Coding Bootcamp Projects</h3>
+                <h3 class="underline">Coding Bootcamp Projects</h3>
             </div>
 
             <div class="col-12">
