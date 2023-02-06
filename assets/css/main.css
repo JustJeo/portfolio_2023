@@ -10,7 +10,7 @@
 /* ~~~~~~~~ General Tags ~~~~~~~~ */
 section {
 	/* background-color: #00b1ff; */
-	padding: 0px;
+	padding: 15px 0px;
 	background-image: none;
 }
 
@@ -104,18 +104,18 @@ hr {
     padding: 0;
 }
 
-.page_header {
+/* .page_header {
     background-color: black;
     padding: 15px 45px;
-}
+} */
 
-.page_header h2 {
+/* .page_header h2 {
     color: white;
 }
 
 .opening_text {
     margin-top: 25px;
-}
+} */
 
 /* .opening_text p {
     margin-bottom: 0;

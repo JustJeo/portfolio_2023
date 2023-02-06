@@ -1,8 +1,8 @@
 <!-- Page Header -->
-<section class="page_header_section">
-	<div class="container page_header_container">
+<section class="background-dark text-light">
+	<div class="container">
 		<div class="row">
-			<div class="col-12 page_header">
+			<div class="col-12">
 				<h2>School Projects</h2>
 			</div>
 		</div>
