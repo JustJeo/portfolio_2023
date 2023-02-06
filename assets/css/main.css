@@ -357,6 +357,7 @@ body.side-panel-static .body-inner #home-container {
 #strengths-and-weaknesses-section #strengths-card,
 #strengths-and-weaknesses-section #weaknesses-card {
     border: 3px solid black;
+    min-height: 330px;
 }
 
 #strengths-and-weaknesses-section #strengths-card .card-header,

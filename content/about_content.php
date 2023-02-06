@@ -120,9 +120,9 @@
                         <div class="row">
                             <div class="col-12">
                                 <ul>
-                                    <li><span class="bold underline">Problem-Solver:</span> I am able to solve problems quickly and efficiently by looking at the situation from multiple perspectives and thinking of multiple answers.</li>
-                                    <li><span class="bold underline">Detail-Oriented:</span> I pay close attention to detail and notice things that most people tend to miss, knowing that every little thing can mean a lot in the long run.</li>
-                                    <li><span class="bold underline">Collaborative:</span> I am confident in my ability to clearly and effectively communicate with a team to keep everyone on the same page while striving to reach the final product.</li>
+                                    <li><span class="bold underline">Problem-Solver:</span> I'm able to solve problems quickly and efficiently by looking at the situation from multiple perspectives and thinking of multiple answers. Sometimes all it takes is looking at things from a different point of view.</li>
+                                    <li><span class="bold underline">Detail-Oriented:</span> I pay close attention to detail and notice things that most people tend to miss. I know that even the smallest of things can make the biggest difference in the long run.</li>
+                                    <li><span class="bold underline">Collaborative:</span> I am confident in my ability to clearly and effectively communicate with a team. I always find it best to keep everyone on the same page while we all strive to reach the final product.</li>
                                 </ul>
                             </div>
                         </div>
