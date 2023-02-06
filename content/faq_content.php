@@ -19,10 +19,10 @@
         </div>
         <!-- Technology -->
         <div class="row" id="technology-faq">
-            <div class="col-lg-10 col-12 mx-auto">
+            <div class="col-12">
                 <h4>The Tech Industry</h4>
             </div>
-            <div class="col-lg-10 col-12 mx-auto faq_padding">
+            <div class="col-12 faq_padding">
                 <!-- Accordion -->
                 <div class="accordion">
                     <div class="ac-item">
@@ -63,10 +63,10 @@
         
         <!-- Journey -->
         <div class="row" id="journey-faq">
-            <div class="col-lg-10 col-12 mx-auto">
+            <div class="col-12">
                 <h4>The Journey</h4>
             </div>
-            <div class="col-lg-10 col-12 mx-auto faq_padding">
+            <div class="col-12 faq_padding">
                 <!-- Accordion -->
                 <div class="accordion">
                     <div class="ac-item">
@@ -102,10 +102,10 @@
             
         <!-- Miscellaneous -->
         <div class="row" id="miscellaneous-faq">
-            <div class="col-lg-10 col-12 mx-auto">
+            <div class="col-12">
                 <h4>Miscellaneous</h4>
             </div>
-            <div class="col-lg-10 col-12 mx-auto faq_padding">
+            <div class="col-12 faq_padding">
                 <!-- Accordion -->
                 <div class="accordion">
                     <div class="ac-item">
@@ -122,14 +122,14 @@
                         <h5 class="ac-title">What do you sell in your Etsy shop?</h5>
                         <div class="ac-content">
                             <div class="row">
-                                <div class="col-lg-8">
+                                <div class="col-lg-9">
                                     <p>Back in my early community college days, I discovered how to make figurines out of these nifty little beads called "Perler Beads". The whole premise of these types of beads was that you had arrange them on a board and then permanently iron them together. After a few of my friends stated that they would buy them as a keychain, the wheels began to spin. Not long after, I was being commissioned by a school club I was a member of, and my tiny business began to take off. However, after graduating from the college and moving out of the city to bigger and better things, I found myself wishing I could still sell those keychains.</p>
 
                                     <p>During the pandemic, after cleaning the clutter at home out of lockdown boredom, I rediscovered the numerous beads that have yet to be fused together. Once again, the joy of making bead keychains was back and I found myself creating items I had never made before. It felt as if I traveled back in time, but this time around, I found my online friends stating that they would purchase my keychains. After lots of brainstorming and planning, I decided to open an Etsy shop! Although I'm still a small shop, I can gladly say that I'm an official small business owner! The link to my shop is right below.</p>
 
-                                    <a href="https://www.etsy.com/shop/JustCraftyJeo" target="_blank" class="link_click underline">Etsy Shop</a>
+                                    <a href="https://www.etsy.com/shop/JustCraftyJeo" target="_blank" class="btn btn-dark">Etsy Shop</a>
                                 </div>
-                                <div class="col-lg-4">
+                                <div class="col-lg-3">
                                     <img src="assets/images/mario-piggy-bank.jpg" alt="A 3D piggy bank made out of melted beads based on the Mario video game series." class="project_image">
                                 </div>
                             </div>
