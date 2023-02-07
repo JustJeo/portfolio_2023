@@ -392,6 +392,7 @@ body.side-panel-static .body-inner #home-container {
 /* Websites */
 .modal_header {
     display: inline;
+    color: white;
 }
 
 #websites-section img {
@@ -450,7 +451,7 @@ body.side-panel-static .body-inner #home-container {
 }
 
 #project-portal-contents .card-body .visit_website_portal_btn {
-    margin-top: 25px;
+    margin-top: 5px;
 }
 
 
