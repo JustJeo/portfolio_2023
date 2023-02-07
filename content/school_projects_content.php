@@ -104,12 +104,16 @@
                     <div class="col-12">
                         <h4>November 24th, 2020</h4>
 
-                        <p>In order for students to understand what a work environment in the real world was like, a collaboration project between a Software Engineer class and a UX Designer class was made for a 24-hour sprint. Teams consisted of 2 students from each class to make a 4 member group. My Software Engineering partner was Jane Cho.</p>
+                        <p>In order for students to understand what a work environment in the real world was like, a collaboration project between a Software Engineering class and a UX Designer class was made for a 24-hour sprint. Teams consisted of 2 students from each class to make a 4 member group. My Software Engineering partner for this project was Jane Cho.</p>
 
-                        <p>The project was to have UX Designers come up with a prototype that Software Engineers had to replicate to the best of their abilities in the allotted time. In the pictures to the left, the prototype design created by the UX class is the first picture (shown on top), while the final version of the software engineer replica is the second (shown on bottom).</p>
+                        <p>There were a few requirements for this project. The first being that UX Designers had to come up with a prototype in an application called "Figma". Software Engineers had to then replicate it to the best of their abilities in the allotted time for their landing page. The second requirement was to have an admin page where the instructors of the classes were able to create a secure, admin account and view the data of other users from a table. The information in the table was simple mock data that had to be pulled from a database using a search query.</p>
+
+                        <p>Between the two of us, my teammate Jane had a stronger understanding of the backend. She volunteered to take care of the admin page and all of the functionality to have a user create an account. I, on the other hand, had a stronger understanding of the frontend, so I volunteered to duplicate the Figma prototype that the UX class would create for us. The only problem for me was that I had to wait for my UX teammates to create the prototype before I was able to even start replicating anything.</p>
+
+                        <p>After almost a 20-hour, non-stop, coding session, Jane and I pushed through and earned a passing grade. This project was, admittedly, very intense and it definitely pushed us to our limits. We faced many struggles, the most obvious one being that we only had 24 hours to complete it. In the pictures to the left, the prototype design created by the UX class is the first picture (shown on top), while the final version of the software engineer replica is the second (shown on bottom).</p>
                     </div>
                     <div class="col-lg-12">
-                        <p><span class="green_text bold underline">Technologies Used:</span> PostgreSQL, Express.js, React, Node.js, React-Strap, and Sass.</p>
+                        <p><span class="green_text bold underline">Technologies Used:</span> React, React-Strap, Sass, Npm, Node.js, Express.js, and PostgreSQL.</p>
                     </div>
                     <div class="col-lg-12">
                         <a href="https://github.com/JustJeo/netflix-review-frontend" target="_blank" class="btn btn-dark school_projects_btn">GitHub Frontend</a>
