@@ -91,15 +91,15 @@
                         <h5 class="ac-title">Do you see yourself working with technology for the rest of your life?</h5>
                         <div class="ac-content">
                             <div class="row">
-                                <div class="col-lg-8">
+                                <div class="col-lg-9">
                                     <p>In all honesty, yes, I absolutely do. Growing up, I was always so fascinated with technology, no matter what it was. Whether it was the latest video game, the newest cell phone model, brand new cars with digital center consoles, to even things like fridges with screens attached to them! Things like that always fascinated me and as I got older, I started to think things like, "Wouldn't it be cool to build that?" or "I wonder how they programmed that."</p>
 
                                     <p>As the years would go by, newer, more complicated gizmos and gadgets would be released and I would always want to be a part of a team that created those technical fascinations. I've never had a passion for something as much as I do with technology. The lights, the programming, the futuristic design of it all, it mesmerizes me and it makes me crave the future more. I absolutely want to work with technology for the rest of my life. It makes me happy.</p>
                                 </div>
-                                <div class="col-lg-4">
+                                <div class="col-lg-3">
                                     <img src="assets/images/binary-heart.jpg" alt="A red heart with a white background all made up of zeros and ones." class="project_image">
                                 </div>
-                            <div>
+                            </div>
                         </div>
                     </div>
                 </div>
