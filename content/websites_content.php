@@ -61,7 +61,7 @@
                             </div>
                             <div class="portfolio-description text-light">
                                 <h3>Bullards Bar [2021]</h3>
-                                <h5>New Website for Client</h5>
+                                <h5>Website Redesign for Client</h5>
                                 <a href="https://bullardsbar.com/index.php" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
                                 </a>

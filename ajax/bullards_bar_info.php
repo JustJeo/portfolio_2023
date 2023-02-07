@@ -9,7 +9,7 @@
 <div class="card-body">
     <div class="row">
         <div class="col-12 text-light">
-            <p>The website creation for Bullard's Bar was my first-ever client project. The owner of the company had reached out to Tech 2U from a recommendation and was hoping that we could help modernize their website for them. Their original website was a bit outdated with pixelated photos and info that needed to be revised. Thankfully the client was very cooperative and communicative. He was willing to take newer photos and provide the info that needed to be changed.</p>
+            <p>The website creation for Bullard's Bar was my first-ever client project. It was for a boating company that would allow visitors to rent out a variety of water vehicles ranging from giant Houseboats for the week, to jet skiis by the hour. The owner of the company had reached out to Tech 2U from a recommendation and was hoping that we could help modernize their website for them. Their original website was a bit outdated with pixelated photos and info that needed to be revised. Thankfully the client was very cooperative and communicative. He was willing to take newer photos and provide the info that needed to be changed.</p>
 
             <p>Since I had never worked with clients before, the Senior Web Developer walked me through the process that he had done with other clients. He told me that this website was going to primarily be static and informative, but that there was going to be a lot of content [mainly photos]. The more complicated functionality, he said he would take care of it.</p>
             
