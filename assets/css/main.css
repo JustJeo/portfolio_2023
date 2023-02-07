@@ -431,13 +431,9 @@ body.side-panel-static .body-inner #home-container {
 	display: none;
 }
 
-#project-portal .card {
-    margin: 15px 0;
-}
-
-#project-portal .card .card-header,
-#project-portal .card .card-body {
-    padding: 1.5rem 2rem;
+#project-portal .card-header,
+#project-portal .card-body {
+    padding: 1.5rem 0;
 }
 
 #project-portal-contents .card-header {
@@ -447,6 +443,10 @@ body.side-panel-static .body-inner #home-container {
 #project-portal-contents .card-header #x-btn {
     margin-top: 3px;
     margin-bottom: 0;
+}
+
+#project-portal-contents .card-body .tech_used_portal {
+    color: white;
 }
 
 #project-portal-contents .card-body .visit_website_portal_btn {

@@ -12,7 +12,7 @@
 <!-- Project Portal -->
 <div id="project-portal">
     <div class="row">
-        <div class="col-12 text-light" id="project-portal-contents">
+        <div class="col-12" id="project-portal-contents">
             <!-- AJAX in Code -->
         </div>
     </div>
