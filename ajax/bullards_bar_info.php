@@ -9,7 +9,13 @@
 <div class="card-body">
     <div class="row">
         <div class="col-12 text-light">
-            <p>The website creation for Bullard's Bar was my first ever client project. I was in charge of creating wireframes and all frontend responsibilities. The website consists of 6 main pages, many of which had multiple informational tabs that each contained image carousels. The landing page [pictured here] instantly loaded a video that would loop.</p>
+            <p>The website creation for Bullard's Bar was my first-ever client project. The owner of the company had reached out to Tech 2U from a recommendation and was hoping that we could help modernize their website for them. Their original website was a bit outdated with pixelated photos and info that needed to be revised. Thankfully the client was very cooperative and communicative. He was willing to take newer photos and provide the info that needed to be changed.</p>
+
+            <p>Since I had never worked with clients before, the Senior Web Developer walked me through the process that he had done with other clients. He told me that this website was going to primarily be static and informative, but that there was going to be a lot of content [mainly photos]. The more complicated functionality, he said he would take care of it.</p>
+            
+            <p>At first, my boss wanted to skip on creating a wireframe, stating that he usually doesn't make one, but I took the initiative to create one anyways. I found it easier to work if I had a rough outline of where content and sections were going to go. Using a web application called "Excalidraw" I was able to mock up a website in an hour. The General Manager and the Senior Web Developer were very impressed with my wireframes that they decided, from then on, that a wireframe would have to be included for clients to approve on. It was a great way of starting the process without going into the full build.</p>
+
+            <p>The website consisted of 6 main pages and was overall a hefty website in the media department. A majority of these pages had multiple informational tabs, and each tab contained image carousels with at least 3 images. The landing page [pictured here] instantly loaded a 20 second video, which was provided by the client, that would loop over and over again. It's probably my biggest project to date.</p>
         </div>
     </div>
 
