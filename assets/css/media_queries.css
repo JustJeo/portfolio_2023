@@ -58,7 +58,7 @@
 	}
 		
 	/* ~~~~~~~~~ Layouts ~~~~~~~~~~~ */
-	/* Nav */
+	/* Side Panel */
 	#mainMenu:not(.menu-overlay) nav > ul > li > a {
 		font-size: 24px;
 	}
@@ -76,15 +76,6 @@
 		text-align: left;
 	}
 	
-	.newsletter_height {
-		padding-left: 0;
-		padding-right: 0;
-	}
-	
-	#newsletter-btn {
-		padding-left: 0;
-	}
-	
 	/* Footer */
 	#contact-footer {
 		padding-left: 50px;
@@ -100,32 +91,6 @@
 	padding-left: 35px;
 	}
 	
-	#home-service-1, #home-service-2 {
-		align-items: center;
-	}
-
-	/* Networking */
-	#networking-img {
-		width: 50%;
-		float: left;
-		margin-right: 20px;
-	}
-
-	/* Data Recovery */
-	#data-recovery-img {
-		width: 50%;
-		float: left;
-		margin-right: 20px;
-	}
-	
-	/* Reviews */
-	.small_review_box {
-		min-height: 380px;
-	}
-	
-	.grid-4-columns .grid-item#last-small-box {
-		left: 33% !important;
-	}
 }
 
 
@@ -180,7 +145,7 @@
 	}
 		
 	/* ~~~~~~~~~~~~~~ Page Layouts ~~~~~~~~~~~~~~ */
-	/* Nav */
+	/* Side Panel */
 	#mainMenu:not(.menu-overlay) nav > ul > li > a {
 		font-size: 24px;
 	}
@@ -194,7 +159,7 @@
 		padding-right: 110%;
 	}
 	
-		/* Footer */
+	/* Footer */
 	#contact-footer {
 		padding-left: 0;
 	}
@@ -214,30 +179,6 @@
 	padding-left: 80px;
 	}
 	
-	#colorful-keyboard img, #repair-img img {
-	width: 100%;
-	height: 70px;
-	border-radius: 50%;
-	float: right;
-	}
-	
-	#home-service-1 {
-		padding-bottom: 10px;
-	}
-
-	/* Networking */
-	#networking-img {
-		width: 50%;
-		float: left;
-		margin-right: 20px;
-	}
-
-	/* Data Recovery */
-	#data-recovery-img {
-		width: 50%;
-		float: left;
-		margin-right: 20px;
-	}
 }
 
 
@@ -292,7 +233,7 @@
 	}
 		
 	/* ~~~~~~~~ Page Layouts ~~~~~~~~ */
-	/* Nav */
+	/* Side Panel */
 	#mainMenu:not(.menu-overlay) nav > ul > li > a {
 		font-size: 18px;
 	}
@@ -321,33 +262,6 @@
 	padding-left: 35px;
 	}
 	
-	#home-service-1, #home-service-2 {
-		align-items: center;
-	}
-
-	/* Networking */
-	#networking-img {
-		padding: 10px 0;
-	}
-
-	/* Data Recovery */
-	#data-recovery-img {
-		padding: 10px 0;
-	}
-		/* Web 15*/
-
-		#flyer-portal.flyer_portal {
-			position: absolute;
-			margin: auto;
-			z-index: 999;
-			left: 0;
-			right: 0px;
-			top: 303px;
-			bottom: 0;
-			height: 540px;
-			width: 390px;
-			/* display: none; */
-		}
 }
 
 
@@ -422,7 +336,7 @@
 		bottom: -30px;
 	}
 	
-	/* Nav */
+	/* Side Panel */
 	#mainMenu:not(.menu-overlay) nav > ul > li > a {
 		font-size: 18px;
 	}
@@ -445,20 +359,6 @@
 		background-image: none;
 	}
 	
-	/* Call To Action */
-	[class*="col-"] > .call-to-action {
-		padding: 0 13px;
-	}
-	
-	.newsletter_height {
-		height: 150px;
-		margin-top: 0;
-		margin-bottom: 15px;
-	}
-	
-	#newsletter-btn {
-		padding-left: 10px;
-	}
 	
 	/* Footer */
 	#contact-footer {
@@ -478,46 +378,9 @@
 	letter-spacing: -.02em;
 	padding-left: 40px;
 	}
-
-	#opening-cite {
-		text-align: right;
-	}
 	
 	#section1 {
 		background-position: 55% 50%;
-	}
-	
-	#home-service-1 {
-		margin-top: 10px;
-		padding-bottom: 0;
-	}
-	
-	#home-service-2 {
-		margin-top: 25px;
-	}
-	
-	#home-service-1-text, #home-service-2-text {
-		margin-top: 5px;
-	}
-	
-	/* #mobile-opening-padding, */ #repair-img, #colorful-keyboard {
-		padding-right: 0;
-		padding-left: 0;
-	}
-
-	/* Networking */
-	#networking-img {
-		padding: 10px 0;
-	}
-
-	/* Data Recovery */
-	#data-recovery-img {
-		padding: 10px 0;
-	}
-	
-	/* Custom PC */
-	#mobile-custom-top {
-		margin-top: 15px;
 	}
 	
 	/* FAQ */
@@ -532,75 +395,5 @@
 	.accordion .ac-item .ac-title {
 		padding-right: 20px;
 	}
-	
-	/* Reviews */
-	.testimonial.testimonial-box .testimonial-item {
-		padding: 25px;
-	}
-	
-	.grid-item {
-		padding: 0;
-		padding-right: 20px;
-	}
-	
-	.small_review_box, .big_review_box {
-		height: auto;
-	}
-	
-	.review_newsletter {
-		margin-bottom: 50px;
-	}
-	
-	/* Contact */
-	#under-address {
-		height: 50px;
-	}
-	
-	#address-phone {
-		margin-top: 10px;
-	}
-	
-	#direction-btn {
-		margin-top: 10px;
-	}
-
-		/* Web 15*/
-
-		#flyer-portal .card {
-			/* border: 1px solid #e6e8eb; */
-			border-radius: 5px;
-			background-color: #ffffff;
-			margin-bottom: 20px;
-			box-shadow: 0 0 35px 0 rgb(154 161 171 / 15%);
-			width: 80%;
-			
-		}
-		#flyer-portal.flyer_portal {
-			position: absolute;
-			margin: auto;
-			z-index: 999;
-			left: -8px;
-			right: 0px;
-			top: 0;
-			bottom: 64px;
-			height: 550px;
-			width: 450px;
-			display: none;
-			padding: 25px;
-		}
-		
-	
 }
 
-@media (min-width: 568px) {
-    .info {
-        flex-flow: row wrap;
-        justify-content: space-between;
-    }
-
-    /* .info-item {
-        width: 50%;
-
-    } */
-}
-	
