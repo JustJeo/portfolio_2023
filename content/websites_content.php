@@ -42,7 +42,7 @@
                             </div>
                             <div class="portfolio-description text-light">
                                 <h3>Laptops Plus [2021]</h3>
-                                <h5>Internal Company Redesign</h5>
+                                <h5>Internal Company Website Redesign</h5>
                                 <a href="https://www.laptopspluswest.com/" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
                                 </a>
@@ -78,7 +78,7 @@
                             </div>
                             <div class="portfolio-description text-light">
                                 <h3>Solano Computer Guy [2022]</h3>
-                                <h5>Internal Company Redesign</h5>
+                                <h5>Internal Company Website Redesign</h5>
                                 <a href="https://compguyinc.com/" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
                                 </a>
@@ -95,7 +95,7 @@
                             </div>
                             <div class="portfolio-description text-light">
                                 <h3>My Wire Guy [2022]</h3>
-                                <h5>Internal Company Redesign</h5>
+                                <h5>Internal Company Website Redesign</h5>
                                 <a href="https://www.mywireguy.com/" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
                                 </a>
@@ -206,7 +206,7 @@
                             </div>
                             <div class="portfolio-description text-light">
                                 <h3>TLC Computer Solutions [2022]</h3>
-                                <h5>Internal Company Redesign</h5>
+                                <h5>Internal Company Website Redesign</h5>
                                 <a href="https://www.tlcpcsolutions.com/" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
                                 </a>
@@ -225,7 +225,7 @@
                             </div>
                             <div class="portfolio-description text-light">
                                 <h3>San Diego Computer Help [2023]</h3>
-                                <h5>Internal Company Redesign</h5>
+                                <h5>Internal Company Website Redesign</h5>
                                 <a href="https://sandiegocomputerhelp.com/" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
                                 </a>
