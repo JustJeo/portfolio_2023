@@ -1,12 +1,3 @@
-* {
-    font-family: 'Play', sans-serif!important;
-}
-
-/* ::selection {
-  background: #3297FD;
-  color: white;
-} */
-
 /* ~~~~~~~~ General Tags ~~~~~~~~ */
 section {
 	/* background-color: #00b1ff; */
@@ -21,6 +12,10 @@ section {
 
 body.side-panel-static .body-inner .container {
     max-width: 100%;
+}
+
+h1, h2, h3, h4, p {
+    font-family: 'Play', sans-serif!important;
 }
 
 h1, h2 {
