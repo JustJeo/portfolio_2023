@@ -14,7 +14,9 @@ body.side-panel-static .body-inner .container {
     max-width: 100%;
 }
 
-h1, h2, h3, h4, p {
+h1, h2, h3, h4, h5, p, footer,
+#mainMenu nav > ul > li > a,
+.btn:not(.close):not(.mfp-close) {
     font-family: 'Play', sans-serif!important;
 }
 
