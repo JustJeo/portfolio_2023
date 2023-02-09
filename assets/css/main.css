@@ -357,6 +357,12 @@ body.side-panel-static .body-inner #home-container {
     min-height: 330px;
 }
 
+#strengths-and-weaknesses-section #strengths-card:hover,
+#strengths-and-weaknesses-section #weaknesses-card:hover {
+    box-shadow: 8px 8px grey
+}
+
+
 #strengths-and-weaknesses-section #strengths-card .card-header,
 #strengths-and-weaknesses-section #weaknesses-card .card-header {
     border-radius: 20px 20px 0 0;
