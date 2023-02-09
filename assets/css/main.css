@@ -355,6 +355,7 @@ body.side-panel-static .body-inner #home-container {
 #strengths-and-weaknesses-section #weaknesses-card {
     border: 3px solid black;
     min-height: 330px;
+    transition: 0.5s ease-in-out;
 }
 
 #strengths-and-weaknesses-section #strengths-card:hover,
