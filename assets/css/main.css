@@ -423,7 +423,7 @@ body.side-panel-static .body-inner #home-container {
 /* Portal */
 #project-portal {
     position: fixed;
-    top: 15%;
+    top: auto;
 	right: 0;
 	left: 10%;
 	width: 50%;
