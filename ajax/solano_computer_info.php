@@ -9,7 +9,11 @@
 <div class="card-body">
     <div class="row">
         <div class="col-12 text-light">
-            <p>After acquisitioning this company, Tech 2U assigned me my 2nd rebuild project. The website was to be built with a more modern look as the last website was created in the early 2000's. The initial look was made sleeker and simpler while also having a lot of hover over features. I also added a looping animation on one of the pages to test the waters.</p>
+            <p>After acquisitioning this company, Tech 2U assigned me my 2nd internal rebuild project. The newly obtained company's last website was created in the early 2000's. It was very obviously outdated and was filled with pixelated pictures. It was time to put my frontend specialty to the test.</p>
+
+            <p>Personally, I really like a monochrome look, so when I saw the original website was filled with black, white, and gray colors, I wanted to stick to it. Again I was told to practice on this internal website using new features. On one page I used text tiles that changed colors as a gradient. On another, I added a looping text animation to test the waters. The initial look was made sleeker and simpler while also having a lot of hover over features.</p>
+
+            <p>Upon submitting the monochrome website to my Senior Web Developer, he made the call to change the main color scheme to blue.</p>
         </div>
     </div>
 
