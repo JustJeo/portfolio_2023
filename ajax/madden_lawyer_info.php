@@ -13,7 +13,7 @@
             
             <p>My frontend co-worker and I were given a challenge to complete the entire website in 3 days, but the official deadline was in a week. We had worked our butts off for the next few days to complete the website's layout and to get ready to input all given content. We had even implemented "Read More" portals that were made from scratch. They would pop up in the middle of the page to display the history of each lawyer at the firm.</p>
 
-            <p>Despite being able to complete the website within the 3-day challenge time frame, we were unable to mark the project as complete until day four as we had to wait for the client to provide us the rest of the content. Regardless, the website was finished before the official deadline and made a grand debut at the company's opening event.</p>
+            <p>Despite being able to complete the website within the 3-day challenge time frame, we were unable to mark the project as complete until day four as we had to wait for the client to provide us with the rest of the content. Regardless, the website was finished before the official deadline and it had made a grand debut at the company's opening event.</p>
         </div>
     </div>
 
