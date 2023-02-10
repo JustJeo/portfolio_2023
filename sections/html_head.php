@@ -13,7 +13,7 @@
 <link href="assets/css/main.css" rel="stylesheet">
 <link href="assets/css/media_queries.css" rel="stylesheet">
 
-<!-- Font -->
+<!-- Custom Font -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Play&display=swap" rel="stylesheet">

@@ -20,7 +20,6 @@
             <?php include 'sections/footer.php';?>
 
         </div>
-        <!-- end: Body Inner -->
 
         <!-- Scroll top -->
         <a id="scrollTop"><i class="icon-chevron-up"></i><i class="icon-chevron-up"></i></a>

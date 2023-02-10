@@ -28,7 +28,6 @@
                 </nav>
             </div>
         </div>
-        <!--end: Navigation-->
 
         <hr class="space">
         

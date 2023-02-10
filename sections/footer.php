@@ -5,8 +5,8 @@
 		        <div class="row align-items-center">
 					<div class="col-md-8">
                         <div class="row">
+                            <!-- Email -->
                             <div class="col-md-4 text-center footer_link" id="email-footer">
-						        <!-- Email -->
                                 <h4><a href="mailto:j.cabrigas.writer@gmail.com" class="link_click underline">j.cabrigas.writer@gmail.com</a></h4>
                             </div>
                         </div>
@@ -35,8 +35,8 @@
 
                     <div class="col-md-4">
                         <div class="row">
+                            <!-- Copyright -->
                             <div class="col-md-7 text-center">
-                                <!-- Copyright -->
                                 <div class="copyright-text">Copyright &copy; <?php echo date("Y");?> Jamieden Cabrigas.<br>Once again I'm Jeo, Just Jeo.</div>
                             </div>
                         </div>
