@@ -37,6 +37,7 @@
                 <ul class="timeline">
                     <!-- Timeline Item -->
                     <li class="timeline-item">
+                        <!-- Bubble -->
                         <div class="timeline-icon">1</div>
                         <h4>Planning and Research</h4>
                         <div class="timeline-item-date">Early June 2020</div>
@@ -51,6 +52,7 @@
 
                     <!-- Timeline Item -->
                     <li class="timeline-item">
+                        <!-- Bubble -->
                         <div class="timeline-icon">2</div>
                         <h4>Course Application Interview</h4>
                         <div class="timeline-item-date">Late June 2020</div>
@@ -65,6 +67,7 @@
 
                     <!-- Timeline Item -->
                     <li class="timeline-item">
+                        <!-- Bubble -->
                         <div class="timeline-icon">3</div>
                         <h4>Springboard</h4>
                         <div class="timeline-item-date">Early July 2020 - Early August 2020</div>
@@ -79,6 +82,7 @@
 
                     <!-- Timeline Item -->
                     <li class="timeline-item">
+                        <!-- Bubble -->
                         <div class="timeline-icon">4</div>
                         <h4>Assessment Test, Website Evaluation & Scholarship</h4>
                         <div class="timeline-item-date">August 12th, 2020</div>
@@ -95,6 +99,7 @@
 
                     <!-- Timeline Item -->
                     <li class="timeline-item">
+                        <!-- Bubble -->
                         <div class="timeline-icon">5</div>
                         <h4>General Assembly</h4>
                         <div class="timeline-item-date">September 21, 2020</div>
@@ -107,6 +112,7 @@
 
                     <!-- Timeline Item -->
                     <li class="timeline-item">
+                        <!-- Bubble -->
                         <div class="timeline-icon">6</div>
                         <h4>Graduation</h4>
                         <div class="timeline-item-date">December 18th, 2020</div>
@@ -114,7 +120,7 @@
                         
                         <p>In the coding bootcamp, I learned many things. On the technical skills side, I was able to learn about Node.js, Express.js, EJS, React, and PostgreSQL. Along with object-oriented programming, product development fundamentals, and team collaborating strategies.</p>
                         
-                        <p>On a personal level, I was able to prove not only to my parents but to myself, that I was absolutely capable of following my own dreams and reaching my goals. I knew that if I wanted it, if I desired it, then I could achieve it.</p>
+                        <p>On a personal level, I was able to prove not only to my parents, but to myself, that I was absolutely capable of following my own dreams and reaching my goals. I knew that if I wanted it, if I desired it, then I could achieve it.</p>
                     </li>
                 </ul>
                 <!-- end: Timeline -->

@@ -37,7 +37,7 @@
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="#">
-                                    <img src="assets/images/laptops-plus.png" alt="">
+                                    <img src="assets/images/laptops-plus.png" alt="Landing page preview for Laptops Plus website.">
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
@@ -56,7 +56,7 @@
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="#">
-                                    <img src="assets/images/bullards-bar.png" alt="">
+                                    <img src="assets/images/bullards-bar.png" alt="Landing page preview for Bullards Bar website.">
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
@@ -74,7 +74,7 @@
                     <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="#"><img src="assets/images/solano-computer-guy.png" alt=""></a>
+                                <a href="#"><img src="assets/images/solano-computer-guy.png" alt="Landing page preview for Solano Computer Guy website."></a>
                             </div>
                             <div class="portfolio-description text-light">
                                 <h3>Solano Computer Guy [2022]</h3>
@@ -91,7 +91,7 @@
                     <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
-                                <a href="#"><img src="assets/images/my-wire-guy.png" alt=""></a>
+                                <a href="#"><img src="assets/images/my-wire-guy.png" alt="Landing page preview for My Wire Guy website."></a>
                             </div>
                             <div class="portfolio-description text-light">
                                 <h3>My Wire Guy [2022]</h3>
@@ -109,7 +109,7 @@
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
-                                    <img src="assets/images/sircles.png" alt="">
+                                    <img src="assets/images/sircles.png" alt="Landing page preview for Sircles website.">
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
@@ -128,7 +128,7 @@
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
-                                    <img src="assets/images/scarletts-cancerfree-community.png" alt="">
+                                    <img src="assets/images/scarletts-cancerfree-community.png" alt="Landing page preview for Scarlett's Cancerfree Community website.">
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
@@ -147,7 +147,7 @@
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
-                                    <img src="assets/images/bice.png" alt="">
+                                    <img src="assets/images/bice.png" alt="Landing page preview for Bice Mobile Marine website.">
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
@@ -163,7 +163,7 @@
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
-                                    <img src="assets/images/stealth-accelerated.png" alt="">
+                                    <img src="assets/images/stealth-accelerated.png" alt="Landing page preview for Stealth Accelerated Flight Training website.">
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
@@ -182,7 +182,7 @@
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
-                                    <img src="assets/images/madden-lawyer.png" alt="">
+                                    <img src="assets/images/madden-lawyer.png" alt="Landing page preview for Madden & Associates website.">
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
@@ -201,7 +201,7 @@
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
-                                    <img src="assets/images/tlc-computer.png" alt="">
+                                    <img src="assets/images/tlc-computer.png" alt="Landing page preview for TLC Computer Solutions website.">
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
@@ -220,7 +220,7 @@
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
-                                    <img src="assets/images/sd-computer-help.png" alt="">
+                                    <img src="assets/images/sd-computer-help.png" alt="Landing page preview for San Diego Computer Help website.">
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
@@ -239,7 +239,7 @@
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
-                                    <img src="assets/images/fireup.png" alt="">
+                                    <img src="assets/images/fireup.png" alt="Landing page preview for FireUp Room Reservation page.">
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">

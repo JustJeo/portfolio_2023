@@ -35,7 +35,7 @@
                                     <p>I love video games so much that I even incorporated some photos from my favorite video game into my portfolio. If you love Mirror's Edge Catalyst as much as I do, then you'll notice that you've been on the rooftops of some of the buildings from the city of Glass.</p>
                                 </div>
                                 <div class="col-lg-4">
-                                    <img src="assets/images/glass-city-shard.jpg" alt="City skyline screenshot from Mirror's Edge Catalyst" class="project_image">
+                                    <img src="assets/images/glass-city-shard.jpg" alt="City skyline screenshot from Mirror's Edge Catalyst video game." class="project_image">
                                 </div>
                             </div>
                         </div>

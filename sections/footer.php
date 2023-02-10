@@ -15,7 +15,7 @@
                             <div class="col-md-2 text-center" id="github-footer-col">
                                 <div id="github-footer">
                                     <a href="https://github.com/JustJeo" target="_blank">
-                                        <img src="assets/images/github-logo.png" id="github-logo-footer" class="footer_logo">
+                                        <img src="assets/images/github-logo.png" id="github-logo-footer" class="footer_logo" alt="Black GitHub logo">
                                     </a>
                                 </div>
                                 <h4 class="m-t-0">Github</h4>
@@ -25,7 +25,7 @@
                             <div class="col-md-2 text-center">
                                 <div id="linkedin-footer">
                                     <a href="https://www.linkedin.com/in/j-cabrigas/" target="_blank">
-                                        <img src="assets/images/linkedin-logo-black.png" id="linkedin-logo-footer" class="footer_logo">
+                                        <img src="assets/images/linkedin-logo-black.png" id="linkedin-logo-footer" class="footer_logo" alt="Black LinkedIn logo">
                                     </a>
                                 </div>
                                 <h4 class="m-t-0">LinkedIn</h4>

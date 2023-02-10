@@ -1,6 +1,7 @@
-<!-- FULLSCREEN IMAGE -->
+<!-- Landing Image -->
 <section id="home-halfscreen-section" class="halfscreen">
 	<div class="container">
+        <!-- Text Animations -->
 		<div class="text-middle text-light">
 			<div class="row">
                 <div class="col-lg-4">
@@ -31,7 +32,6 @@
 		</div>
 	</div>
 </section>
-<!-- end: FULLSCREEN IMAGE -->
 
 <!-- Page Header -->
 <section class="background-dark text-light">
@@ -67,7 +67,7 @@
             </div>
 
             <div class="col-lg-3 text-center">
-                <!-- Education & Projects Card -->
+                <!-- School Projects Card -->
                 <div class="card">
                     <div class="card-header">
                         <img src="assets/images/coding-book.jpg" alt="A stack of coding books.">
@@ -82,4 +82,3 @@
 		</div>
 	</div>
 </section>
-<!-- end: Business Explanation -->

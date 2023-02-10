@@ -8,7 +8,7 @@
         <!--Logo-->
         <div class="logo">
             <a href="index.php">
-                <img src="assets/images/jamie-headshot.jpg" id="logo-img">
+                <img src="assets/images/jamie-headshot.jpg" id="logo-img" alt="Smiling face of portfolio creator.">
             </a>
         </div>
 
@@ -37,14 +37,14 @@
             <div class="col-lg-3">
                 <div id="github-side-panel">
                     <a href="https://github.com/JustJeo" target="_blank">
-                        <img src="assets/images/github-logo.png" id="github-logo-side-panel" class="side_panel_logo">
+                        <img src="assets/images/github-logo.png" id="github-logo-side-panel" class="side_panel_logo" alt="Black GitHub logo">
                     </a>
                 </div>
             </div>
             <div class="col-lg-3">
                 <div id="linkedin-side-panel">
                     <a href="https://www.linkedin.com/in/j-cabrigas/" target="_blank">
-                        <img src="assets/images/linkedin-logo-black.png" id="linkedin-logo-side-panel" class="side_panel_logo">
+                        <img src="assets/images/linkedin-logo-black.png" id="linkedin-logo-side-panel" class="side_panel_logo" alt="Black LinkedIn logo">
                     </a>
                 </div>
             </div>
