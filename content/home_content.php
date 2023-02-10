@@ -56,7 +56,7 @@
                 <!-- Websites Card -->
                 <div class="card">
                     <div class="card-header">
-                        <img src="assets/images/coding-3d.jpg">
+                        <img src="assets/images/coding-3d.jpg" alt="Desktop computer with floating programming languages around it and binary code behind it.">
                     </div>
                     <div class="card-body">
                         <h3>Websites I've Worked On</h3>
@@ -70,7 +70,7 @@
                 <!-- Education & Projects Card -->
                 <div class="card">
                     <div class="card-header">
-                        <img src="assets/images/coding-book.jpg">
+                        <img src="assets/images/coding-book.jpg" alt="A stack of coding books.">
                     </div>
                     <div class="card-body">
                         <h3>School Projects</h3>

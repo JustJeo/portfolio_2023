@@ -343,6 +343,10 @@ body.side-panel-static .body-inner #home-container {
     color: #10f144;
 }
 
+#technologies-and-skills-section #tech-skills-card h4:hover {
+    color: #16c33e;
+}
+
 #strengths-and-weaknesses-section {
     padding-top: 15px;
 }
