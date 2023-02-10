@@ -9,7 +9,7 @@
 <div class="card-body">
     <div class="row">
         <div class="col-12 text-light">
-            <p>This client website was absolutely jam packed with content, but my frontend co-worker and I made sure to keep our heads above the clouds and follow the client's requests to the tee. We had constant contact with the client and would utilize every bit of information and resource given to us. He had also given us much feedback and suggestions to improve the website to his liking in the final version.</p>
+            <p>This client website was absolutely jam packed with content, but my frontend co-worker and I made sure to keep our heads above the clouds and follow the client's requests to the T. We had constant contact with the client and would utilize every bit of information and resource given to us. He had also given us much feedback and suggestions to improve the website to his liking in the final version.</p>
         </div>
     </div>
 

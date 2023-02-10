@@ -9,9 +9,9 @@
 <div class="card-body">
     <div class="row">
         <div class="col-12 text-light">
-            <p>As Tech 2U acquisitioned another company, another internal website redesign was in order. Compared to the two other rebuild projects I have worked on, this website was the one most recently created. The original website had many mentions of the previous owner throughout its content. Not long after the owner passed, his widowed wife requested that all mentions of her late husband be removed from the redesign. We complied and replaced all of his images with stock photos and rewrote all sentences that spoke of him.</p>
+            <p>As Tech 2U obtained another company, another internal website redesign was in order. Compared to the two other rebuild projects I have worked on, this website was the one most recently created. The original website had many mentions of the previous owner throughout its content. Not long after the owner passed, his widowed wife requested that all mentions of her late husband be removed from the redesign. We complied and replaced all of his images with stock photos and rewrote all sentences that spoke of him.</p>
             
-            <p>With so much content being cut from the original website, I decided to go with a very simplistic look. This project has the least amount of flashy features and distracting photos, and got straight to the point of what the company offered. I liked the light blue and orange colors from the original website and made the decision to stick with that color scheme for the rebuild. I wanted the sleek and simple look to speak for itself.</p>
+            <p>With so much content being cut from the original website, I decided to go with a very simplistic look. This project has the least amount of flashy features and distracting photos and got straight to the point of what the company offered. I liked the light blue and orange colors from the original website and made the decision to stick with that color scheme for the rebuild. I wanted the sleek and simple look to speak for itself.</p>
         </div>
     </div>
 
