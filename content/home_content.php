@@ -23,7 +23,7 @@
             <div class="row" id="intro-skills">
                 <div class="col-lg-11 offset-lg-1">
                     <div class="row">
-                        <div class="col-lg-2 text-right" id="home-im-a-text">
+                        <div class="col-lg-2" id="home-im-a-text">
                             <h3  data-animate="fadeInDown" data-animate-delay="1500">I'm a</h3>
                         </div>
                     </div>
