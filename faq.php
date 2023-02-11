@@ -12,6 +12,9 @@
 
         <!-- Body Inner -->
         <div class="body-inner">
+            
+            <!-- Header -->
+            <?php include 'sections/header.php';?>
 
             <!-- Content -->
             <?php include 'content/faq_content.php';?>
