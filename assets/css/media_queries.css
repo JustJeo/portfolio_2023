@@ -118,13 +118,10 @@
 	
 	/* ~~~~~~~~~ Individual Pages ~~~~~~~~~~~ */
 	/* Home Page */
-	#opening-text {
-	line-height: 1.5em;
-	font-size: 65px;
-	font-weight: 800;
-	letter-spacing: -.02em;
-	padding-left: 35px;
-	}
+	#home-halfscreen-section .text-middle {
+        top: 100px;
+        left: 0;
+    }
 }
 
 
@@ -199,18 +196,11 @@
 	
 	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
 	/* Home Page */
-	.fullscreen .container {
-		margin-top: 0;
-		margin-bottom: 70px;
-	}
 	
-	#opening-text {
-	line-height: 1.5em;
-	font-size: 80px;
-	font-weight: 800;
-	letter-spacing: -.02em;
-	padding-left: 80px;
-	}
+	#home-halfscreen-section .text-middle {
+        top: 100px;
+        left: 0;
+    }
 }
 
 
@@ -280,18 +270,10 @@
 	
 	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
 	/* Home Page */
-	.fullscreen .container {
-		margin: 0 175px;
-		margin-top: 50px;
-	}
-	
-	#opening-text {
-	line-height: 1.5em;
-	font-size: 40px;
-	font-weight: 800;
-	letter-spacing: -.02em;
-	padding-left: 35px;
-	}
+	#home-halfscreen-section .text-middle {
+        top: 100px;
+        left: 0;
+    }
 	
 }
 
@@ -386,13 +368,10 @@
 	
 	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
 	/* Home Page */
-	#opening-text {
-	line-height: 1.5em;
-	font-size: 30px;
-	font-weight: 800;
-	letter-spacing: -.02em;
-	padding-left: 40px;
-	}
+	#home-halfscreen-section .text-middle {
+        top: 100px;
+        left: 0;
+    }
 	
 	/* FAQ */
 	#faq-header {

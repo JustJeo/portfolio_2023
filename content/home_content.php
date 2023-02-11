@@ -3,32 +3,40 @@
 	<div class="container">
         <!-- Text Animations -->
 		<div class="text-middle text-light">
-			<div class="row">
-                <div class="col-lg-4">
-                    <h3 data-animate="fadeInDown" data-animate-delay="0">Hello, my name is</h3>
+            <div class="row" id="name-intro">
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <h3 data-animate="fadeInDown" data-animate-delay="0">Hello, my name is</h3>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 text-center">
+                            <h1  data-animate="fadeInDown" data-animate-delay="500" class="text-medium">Jamieden Cabrigas</h1>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-6 text-center">
-                    <h1  data-animate="fadeInDown" data-animate-delay="500" class="text-medium">Jamieden Cabrigas</h1>
-                </div>
-			</div>
 
             <hr class="small_space">
 
-            <div class="row">
-                <div class="col-lg-2 text-right" id="home-im-a-text">
-                    <h3  data-animate="fadeInDown" data-animate-delay="1500">I'm a</h3>
+            <div class="row" id="intro-skills">
+                <div class="col-lg-11 offset-lg-1">
+                    <div class="row">
+                        <div class="col-lg-2 text-right" id="home-im-a-text">
+                            <h3  data-animate="fadeInDown" data-animate-delay="1500">I'm a</h3>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 offset-lg-1">
+                            <h3 data-animate="fadeInDown" data-animate-delay="2000" class="big_bold">Frontend Web Developer</h3>
+                            <h3 data-animate="fadeInDown" data-animate-delay="2500" class="big_bold">Software Engineer</h3>
+                            <h3 data-animate="fadeInDown" data-animate-delay="3000" class="big_bold">Responsive Redesign Developer</h3>
+                            <h3 data-animate="fadeInDown" data-animate-delay="3500" class="big_bold">Video Game Enthusiast</h3>
+                        </div>
+                    </div>
                 </div>
-			</div>
-            <div class="row">
-                <div class="col-lg-6 offset-lg-1">
-                    <h3 data-animate="fadeInDown" data-animate-delay="2000" class="big_bold">Frontend Web Developer</h3>
-                    <h3 data-animate="fadeInDown" data-animate-delay="2500" class="big_bold">Software Engineer</h3>
-                    <h3 data-animate="fadeInDown" data-animate-delay="3000" class="big_bold">Responsive Redesign Developer</h3>
-                    <h3 data-animate="fadeInDown" data-animate-delay="3500" class="big_bold">Video Game Enthusiast</h3>
-                </div>
-			</div>
+            </div>
 		</div>
 	</div>
 </section>
