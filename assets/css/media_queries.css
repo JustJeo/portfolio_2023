@@ -1,7 +1,7 @@
 /* ~~~~~~~~~~~~~~ Generic Laptop ~~~~~~~~~~~~~~ */
 @media screen and (min-width: 1220px) and (max-width: 1460px) {
     /* ~~~~~~~~~ General ~~~~~~~~~~~ */
-    .container {
+    body.side-panel-static .body-inner #home-container {
 		max-width: 100%;
         padding: 0 30px;
 	}
@@ -25,7 +25,7 @@
 /* ~~~~~~~~~~~~~~ Small Laptop ~~~~~~~~~~~~~~ */
 @media screen and (min-width: 1025px) and (max-width: 1219px) {
     /* ~~~~~~~~~ General ~~~~~~~~~~~ */
-    .container {
+    body.side-panel-static .body-inner #home-container {
 		max-width: 100%;
         padding: 0 30px;
 	}
@@ -75,7 +75,7 @@
 		padding-bottom: 10px;
 	}
 	
-    .container {
+    body.side-panel-static .body-inner #home-container {
 		padding: 0;
 	}
 
@@ -157,7 +157,7 @@
 		padding-bottom: 10px;
 	}
 
-    .container {
+    body.side-panel-static .body-inner #home-container {
 		padding: 0;
 	}
 
@@ -236,7 +236,7 @@
 		padding-bottom: 10px;
 	}
 	
-    .container {
+    body.side-panel-static .body-inner #home-container {
 		padding: 0;
 	}
 
@@ -309,8 +309,8 @@
 		padding-bottom: 10px;
 	}
 
-	.container {
-		padding: 0 20px;
+	.side-panel.side-panel-static .body-inner > section > .container {
+		padding: 0;
 	}
 
     .header-extras {
@@ -371,6 +371,14 @@
 	#home-halfscreen-section .text-middle {
         top: 100px;
         left: 0;
+    }
+
+    #home-halfscreen-section .text-middle #home-fullname {
+        margin-top: 10px;
+    }
+
+    #home-halfscreen-section .text-middle #home-im-a-text {
+        padding-left: 0;
     }
 	
 	/* FAQ */
