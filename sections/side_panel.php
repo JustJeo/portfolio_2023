@@ -29,18 +29,18 @@
             </div>
         </div>
 
-        <hr class="space">
+        <hr class="space" id="side-panel-space">
         
         <!-- Socials -->
         <div class="row justify-content-center" id="socials-side-panel">
-            <div class="col-lg-3">
+            <div class="col-lg-3 col-4">
                 <div id="github-side-panel">
                     <a href="https://github.com/JustJeo" target="_blank">
                         <img src="assets/images/github-logo.png" id="github-logo-side-panel" class="side_panel_logo" alt="Black GitHub logo">
                     </a>
                 </div>
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-3 col-4">
                 <div id="linkedin-side-panel">
                     <a href="https://www.linkedin.com/in/j-cabrigas/" target="_blank">
                         <img src="assets/images/linkedin-logo-black.png" id="linkedin-logo-side-panel" class="side_panel_logo" alt="Black LinkedIn logo">

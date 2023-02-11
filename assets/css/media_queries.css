@@ -385,6 +385,10 @@
 	#contact-nav {
 		text-align: left;
 	}
+
+    #side-panel-space {
+        display: none;
+    }
 	
 	/* Background */
 	#networking-section, #data-recovery-section, #about-us-section {
