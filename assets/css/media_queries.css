@@ -16,6 +16,10 @@
     }
 }
 
+
+
+
+
 /* ~~~~~~~~~~~~~~ Small Laptop ~~~~~~~~~~~~~~ */
 @media screen and (min-width: 1025px) and (max-width: 1219px) {
     .container {
@@ -33,6 +37,8 @@
         padding: 5px 8px;
     }
 }
+
+
 
 
 
@@ -116,7 +122,6 @@
 	letter-spacing: -.02em;
 	padding-left: 35px;
 	}
-	
 }
 
 
@@ -204,7 +209,6 @@
 	letter-spacing: -.02em;
 	padding-left: 80px;
 	}
-	
 }
 
 
@@ -289,6 +293,8 @@
 	}
 	
 }
+
+
 
 
 
