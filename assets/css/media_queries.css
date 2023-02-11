@@ -320,6 +320,11 @@
 	.page_header h2 {
 		line-height: 1.25em;
 	}
+
+    .card {
+        margin: 15px 0;
+    }
+
 	
 	/* ~~~~~~~~ Page Layouts ~~~~~~~~ */
 	/* Logo */
@@ -379,6 +384,10 @@
 
     #home-halfscreen-section .text-middle #home-im-a-text {
         padding-left: 0;
+    }
+
+    #home-text-section #home-intro {
+        margin-top: 0;
     }
 	
 	/* FAQ */

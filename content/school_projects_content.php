@@ -1,5 +1,5 @@
 <!-- Page Header -->
-<section class="background-dark text-light">
+<section class="background-dark text-light page_header">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
