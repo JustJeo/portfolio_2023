@@ -1,14 +1,10 @@
 /* ~~~~~~~~~~~~~~ Generic Laptop ~~~~~~~~~~~~~~ */
 @media screen and (min-width: 1220px) and (max-width: 1460px) {
-    /* ~~~~~~~~~ General ~~~~~~~~~~~ */
+    /* ~~~~~~~~~ General / Multi-Page ~~~~~~~~~~~ */
     body.side-panel-static .body-inner #home-container {
 		max-width: 100%;
         padding: 0 30px;
 	}
-
-    #header .header-inner #logo a span {
-        font-size: 20px;
-    }
 
     #mainMenu nav > ul > li > a {
         text-decoration: none;
@@ -24,15 +20,11 @@
 
 /* ~~~~~~~~~~~~~~ Small Laptop ~~~~~~~~~~~~~~ */
 @media screen and (min-width: 1025px) and (max-width: 1219px) {
-    /* ~~~~~~~~~ General ~~~~~~~~~~~ */
+    /* ~~~~~~~~~ General / Multi-Page ~~~~~~~~~~~ */
     body.side-panel-static .body-inner #home-container {
 		max-width: 100%;
         padding: 0 30px;
 	}
-
-    #header .header-inner #logo a span {
-        font-size: 16px;
-    }
 
     #mainMenu nav > ul > li > a {
         text-decoration: none;
@@ -51,7 +43,7 @@
 	and (min-width: 768px)
 	and (max-width: 1024px)
 	and (orientation: landscape) {
-	/* ~~~~~~~~~ General ~~~~~~~~~~~ */
+	/* ~~~~~~~~~ General / Multi-Page ~~~~~~~~~~~ */
     /* Sizes */
 	h1 {
 		font-size: 2em;
@@ -107,10 +99,6 @@
 		padding-right: 110%;
 	}
 	
-	#contact-nav {
-		text-align: left;
-	}
-	
 	/* Footer */
 	#contact-footer {
 		padding-left: 50px;
@@ -133,7 +121,7 @@
 	and (min-width: 481px)
 	and (max-width: 768px)
 	and (orientation: portrait) {
-	/* ~~~~~~~~~ General ~~~~~~~~~~~ */
+	/* ~~~~~~~~~ General / Multi-Page ~~~~~~~~~~~ */
     /* Sizes */
 	h1 {
 		font-size: 2em;
@@ -196,7 +184,6 @@
 	
 	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
 	/* Home Page */
-	
 	#home-halfscreen-section .text-middle {
         top: 100px;
         left: 0;
@@ -212,7 +199,7 @@
 	and (max-height: 481px)
 	and (max-width: 926px)
 	and (orientation: landscape) {
-	/* ~~~~~~~~~ General ~~~~~~~~~~~ */
+	/* ~~~~~~~~~ General / Multi-Page ~~~~~~~~~~~ */
     /* Sizes */
 	h1 {
 		font-size: 2em;
@@ -274,7 +261,6 @@
         top: 100px;
         left: 0;
     }
-	
 }
 
 
@@ -285,7 +271,7 @@
 @media only screen
 	and (max-width: 480px) 
 	and (orientation: portrait) {
-	/* ~~~~~~~~~ General ~~~~~~~~~~~ */
+	/* ~~~~~~~~~ General / Multi-Page ~~~~~~~~~~~ */
     /* Sizes */
 	h1 {
 		font-size: 2em;
@@ -327,21 +313,6 @@
 
 	
 	/* ~~~~~~~~ Page Layouts ~~~~~~~~ */
-	/* Logo */
-	#header #logo {
-		margin-top: -10px!important;
-	}
-
-	#header .header-inner #logo a {
-		margin-left: -50px;
-	}
-	
-	#header .header-inner small {
-		position: absolute;
-		right: 110px;
-		bottom: -30px;
-	}
-	
 	/* Side Panel */
 	#mainMenu:not(.menu-overlay) nav > ul > li > a {
 		font-size: 18px;
