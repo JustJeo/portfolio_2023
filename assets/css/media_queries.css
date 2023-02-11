@@ -1,11 +1,37 @@
-/* ~~~~~~~~~~~~~~~~~~~  Generic Laptop ~~~~~~~~~~~~~~~~~~~ */
-@media screen
-	and (max-height: 950px)
-	and (max-width: 1280px) {
-	/* ~~~~~~~~~~~~~~ General ~~~~~~~~~~~~~~ */
-	#mainMenu nav > ul > li > a {
-		font-size: 16px;
+/* ~~~~~~~~~~~~~~ Generic Laptop ~~~~~~~~~~~~~~ */
+@media screen and (min-width: 1220px) and (max-width: 1460px) {
+    .container {
+		max-width: 100vw;
 	}
+
+    #header .header-inner #logo a span {
+        font-size: 20px;
+    }
+
+    #mainMenu nav > ul > li > a {
+        text-decoration: none;
+        color: white;
+        font-size: 16px;
+        padding: 5px 8px;
+    }
+}
+
+/* ~~~~~~~~~~~~~~ Small Laptop ~~~~~~~~~~~~~~ */
+@media screen and (min-width: 1025px) and (max-width: 1219px) {
+    .container {
+		max-width: 100vw;
+	}
+
+    #header .header-inner #logo a span {
+        font-size: 16px;
+    }
+
+    #mainMenu nav > ul > li > a {
+        text-decoration: none;
+        color: white;
+        font-size: 14px;
+        padding: 5px 8px;
+    }
 }
 
 
