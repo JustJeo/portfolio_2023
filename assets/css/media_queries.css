@@ -1,7 +1,9 @@
 /* ~~~~~~~~~~~~~~ Generic Laptop ~~~~~~~~~~~~~~ */
 @media screen and (min-width: 1220px) and (max-width: 1460px) {
+    /* ~~~~~~~~~ General ~~~~~~~~~~~ */
     .container {
-		max-width: 100vw;
+		max-width: 100%;
+        padding: 0 30px;
 	}
 
     #header .header-inner #logo a span {
@@ -22,8 +24,10 @@
 
 /* ~~~~~~~~~~~~~~ Small Laptop ~~~~~~~~~~~~~~ */
 @media screen and (min-width: 1025px) and (max-width: 1219px) {
+    /* ~~~~~~~~~ General ~~~~~~~~~~~ */
     .container {
-		max-width: 100vw;
+		max-width: 100%;
+        padding: 0 30px;
 	}
 
     #header .header-inner #logo a span {
@@ -48,11 +52,7 @@
 	and (max-width: 1024px)
 	and (orientation: landscape) {
 	/* ~~~~~~~~~ General ~~~~~~~~~~~ */
-	section {
-		padding-top: 10px;
-		padding-bottom: 10px;
-	}
-	
+    /* Sizes */
 	h1 {
 		font-size: 2em;
 	}
@@ -69,24 +69,27 @@
 		font-size: 1.25em;
 	}
 
+    /* Spacing */
+    section {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	
+    .container {
+		padding: 0;
+	}
+
+    /* Text */
+    p, li, .ac-item {
+        font-size: 1.25rem;
+    }
+
     .header-extras {
         float: right;
     }
 	
 	.page_header h2 {
 		line-height: 1.5em;
-	}
-	
-	.mobile_subheader h4 {
-		line-height: 1.5em;
-	}
-	
-	p, li, .ac-item {
-	font-size: 1.25rem;
-	}
-	
-	.container {
-		padding: 0;
 	}
 		
 	/* ~~~~~~~~~ Layouts ~~~~~~~~~~~ */
@@ -133,12 +136,8 @@
 	and (min-width: 481px)
 	and (max-width: 768px)
 	and (orientation: portrait) {
-	/* ~~~~~~~~ General Tags ~~~~~~~~ */
-	section {
-		padding-top: 10px;
-		padding-bottom: 10px;
-	}
-	
+	/* ~~~~~~~~~ General ~~~~~~~~~~~ */
+    /* Sizes */
 	h1 {
 		font-size: 2em;
 	}
@@ -155,6 +154,21 @@
 		font-size: 1.25em;
 	}
 
+    /* Spacing */
+    section {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+
+    .container {
+		padding: 0;
+	}
+
+    /* Text */
+    p, li, .ac-item {
+	font-size: 1.25rem;
+	}
+
     .header-extras {
         float: right;
     }
@@ -163,18 +177,6 @@
 		line-height: 1.5em;
 	}
 	
-	.mobile_subheader h4 {
-		line-height: 1.5em;
-	}
-	
-	p, li, .ac-item {
-	font-size: 1.25rem;
-	}
-	
-	.container {
-		padding: 0;
-	}
-		
 	/* ~~~~~~~~~~~~~~ Page Layouts ~~~~~~~~~~~~~~ */
 	/* Side Panel */
 	#mainMenu:not(.menu-overlay) nav > ul > li > a {
@@ -221,11 +223,7 @@
 	and (max-width: 926px)
 	and (orientation: landscape) {
 	/* ~~~~~~~~~ General ~~~~~~~~~~~ */
-	section {
-		padding-top: 10px;
-		padding-bottom: 10px;
-	}
-	
+    /* Sizes */
 	h1 {
 		font-size: 2em;
 	}
@@ -242,6 +240,21 @@
 		font-size: 1.25em;
 	}
 
+    /* Spacing*/
+    section {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	
+    .container {
+		padding: 0;
+	}
+
+    /* Text */
+    p, li, .ac-item {
+	font-size: 1rem;
+	}
+
     .header-extras {
         float: right;
     }
@@ -250,18 +263,6 @@
 		line-height: 1.25em;
 	}
 	
-	.mobile_subheader h4 {
-		line-height: 1.5em;
-	}
-	
-	p, li, .ac-item {
-	font-size: 1rem;
-	}
-	
-	.container {
-		padding: 0;
-	}
-		
 	/* ~~~~~~~~ Page Layouts ~~~~~~~~ */
 	/* Side Panel */
 	#mainMenu:not(.menu-overlay) nav > ul > li > a {
@@ -302,12 +303,8 @@
 @media only screen
 	and (max-width: 480px) 
 	and (orientation: portrait) {
-	/* ~~~~~~~~ General Tags ~~~~~~~~ */
-	section {
-		padding-top: 10px;
-		padding-bottom: 10px;
-	}
-	
+	/* ~~~~~~~~~ General ~~~~~~~~~~~ */
+    /* Sizes */
 	h1 {
 		font-size: 2em;
 	}
@@ -324,32 +321,22 @@
 		font-size: 1.25em;
 	}
 
+    /* Spacing */
+    section {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+
+	.container {
+		padding: 0 20px;
+	}
+
     .header-extras {
         float: right;
     }
 	
 	.page_header h2 {
 		line-height: 1.25em;
-	}
-	
-	.mobile_subheader h4 {
-		line-height: 1.5em;
-	}
-	
-	.container {
-		padding: 0 20px;
-	}
-	
-	.fullscreen {
-		min-height: 50vh;
-	}
-	
-	.fullscreen .container {
-		margin-top: 50px;
-	}
-	
-	section {
-		background-image: none;
 	}
 	
 	/* ~~~~~~~~ Page Layouts ~~~~~~~~ */
@@ -381,19 +368,11 @@
 	#mainMenu:not(.menu-overlay) nav > ul > li .dropdown-arrow {
 		padding-right: 110%;
 	}
-	
-	#contact-nav {
-		text-align: left;
-	}
 
-    #side-panel-space {
-        display: none;
+    #side-panel .side-panel-wrap #logo-img {
+        height: 200px;
+        width: 200px;
     }
-	
-	/* Background */
-	#networking-section, #data-recovery-section, #about-us-section {
-		background-image: none;
-	}
 	
 	
 	/* Footer */
@@ -413,10 +392,6 @@
 	font-weight: 800;
 	letter-spacing: -.02em;
 	padding-left: 40px;
-	}
-	
-	#section1 {
-		background-position: 55% 50%;
 	}
 	
 	/* FAQ */
