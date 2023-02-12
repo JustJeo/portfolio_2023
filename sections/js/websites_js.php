@@ -2,6 +2,7 @@
 $(document).ready(function() {
     /* Laptops Plus */
     $("#laptops-plus-btn").on('click', function() {
+        $("html, body").animate({ scrollTop: "0" });
         $("#project-portal").show();
         $.ajax({
             url: "ajax/laptops_plus_info.php",
@@ -15,6 +16,7 @@ $(document).ready(function() {
 
     /* Bullards Bar */
     $("#bullards-bar-btn").on('click', function() {
+        $("html, body").animate({ scrollTop: "0" });
         $("#project-portal").show();
         $.ajax({
             url: "ajax/bullards_bar_info.php",
@@ -28,6 +30,7 @@ $(document).ready(function() {
 
     /* Solano Computer Guy */
     $("#solano-computer-btn").on('click', function() {
+        $("html, body").animate({ scrollTop: "0" });
         $("#project-portal").show();
         $.ajax({
             url: "ajax/solano_computer_info.php",
@@ -41,6 +44,7 @@ $(document).ready(function() {
 
     /* My Wire Guy */
     $("#my-wire-guy-btn").on('click', function() {
+        $("html, body").animate({ scrollTop: "0" });
         $("#project-portal").show();
         $.ajax({
             url: "ajax/my_wire_guy_info.php",
@@ -54,6 +58,7 @@ $(document).ready(function() {
 
     /* Sircles */
     $("#sircles-btn").on('click', function() {
+        $("html, body").animate({ scrollTop: "0" });
         $("#project-portal").show();
         $.ajax({
             url: "ajax/sircles_info.php",
@@ -67,6 +72,7 @@ $(document).ready(function() {
 
     /* Scarlett's Cancerfree Community */
     $("#scarlett-btn").on('click', function() {
+        $("html, body").animate({ scrollTop: "0" });
         $("#project-portal").show();
         $.ajax({
             url: "ajax/scarlett_info.php",
@@ -80,6 +86,7 @@ $(document).ready(function() {
 
     /* Bice */
     $("#bice-btn").on('click', function() {
+        $("html, body").animate({ scrollTop: "0" });
         $("#project-portal").show();
         $.ajax({
             url: "ajax/bice_info.php",
@@ -93,6 +100,7 @@ $(document).ready(function() {
 
     /* Flight Training */
     $("#flight-training-btn").on('click', function() {
+        $("html, body").animate({ scrollTop: "0" });
         $("#project-portal").show();
         $.ajax({
             url: "ajax/flight_training_info.php",
@@ -106,6 +114,7 @@ $(document).ready(function() {
 
     /* Madden Lawyer */
     $("#madden-lawyer-btn").on('click', function() {
+        $("html, body").animate({ scrollTop: "0" });
         $("#project-portal").show();
         $.ajax({
             url: "ajax/madden_lawyer_info.php",
@@ -119,6 +128,7 @@ $(document).ready(function() {
 
     /* TLC Computer Solutions */
     $("#tlc-computer-btn").on('click', function() {
+        $("html, body").animate({ scrollTop: "0" });
         $("#project-portal").show();
         $.ajax({
             url: "ajax/tlc_computer_info.php",
@@ -132,6 +142,7 @@ $(document).ready(function() {
 
     /* San Diego Computer Help */
     $("#sd-computer-help-btn").on('click', function() {
+        $("html, body").animate({ scrollTop: "0" });
         $("#project-portal").show();
         $.ajax({
             url: "ajax/sd_computer_help_info.php",
@@ -145,6 +156,7 @@ $(document).ready(function() {
 
     /* FireUp */
     $("#fireup-btn").on('click', function() {
+        $("html, body").animate({ scrollTop: "0" });
         $("#project-portal").show();
         $.ajax({
             url: "ajax/fireup_info.php",

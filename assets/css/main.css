@@ -7,10 +7,6 @@ h1, h2, h3, h4, h5, p, #side-panel, footer,
 }
 
 /* Text */
-h1, h2 {
-	color: dodgerblue;
-}
-
 p {
     line-height: 1.5;
     font-size: 1.25rem;
@@ -348,6 +344,11 @@ body.side-panel-static .body-inner #home-container {
     width: 100%;
 }
 
+#school-projects-section .project_title {
+    margin-top: -10px;
+    margin-bottom: 0;
+}
+
 
 
 /* Websites */
@@ -420,6 +421,10 @@ body.side-panel-static .body-inner #home-container {
 /* FAQ */
 .ac-active {
 	background-color: #d9e9fd;
+}
+
+#faq-section .ac-content .accordion-text-img-col {
+    padding-left: 0;
 }
 
 #faq-section .ac-content img {

@@ -29,12 +29,12 @@
                         <h5 class="ac-title">What made you want to work in the tech field?</h5>
                         <div class="ac-content">
                             <div class="row">
-                                <div class="col-lg-8">
+                                <div class="col-lg-8 accordion-text-img-col">
                                     <p>I'm a huge fan of video games! In fact, I believe my addiction to them as a child helped solidify my love for technology as a whole. I can confidently say that I've played a wide range of games with various genres like action and adventure, role-playing games [RPGs], and even the casual mobile app. I knew it would only be a matter of time before I wanted to make video games as part of my career.</p>
 
                                     <p>I love video games so much that I even incorporated some photos from my favorite video game into my portfolio. If you love Mirror's Edge Catalyst as much as I do, then you'll notice that you've been on the rooftops of some of the buildings from the city of Glass.</p>
                                 </div>
-                                <div class="col-lg-4">
+                                <div class="col-lg-4 accordion-text-img-col">
                                     <img src="assets/images/glass-city-shard.jpg" alt="City skyline screenshot from Mirror's Edge Catalyst video game." class="project_image">
                                 </div>
                             </div>
@@ -91,12 +91,12 @@
                         <h5 class="ac-title">Do you see yourself working with technology for the rest of your life?</h5>
                         <div class="ac-content">
                             <div class="row">
-                                <div class="col-lg-9">
+                                <div class="col-lg-9 accordion-text-img-col">
                                     <p>In all honesty, yes, I absolutely do. Growing up, I was always so fascinated with technology, no matter what it was. Whether it was the latest video game, the newest cell phone model, brand new cars with digital center consoles, to even things like fridges with screens attached to them! Things like that always fascinated me and as I got older, I started to think things like, "Wouldn't it be cool to build that?" or "I wonder how they programmed that."</p>
 
                                     <p>As the years would go by, newer, more complicated gizmos and gadgets would be released and I would always want to be a part of a team that created those technical fascinations. I've never had a passion for something as much as I do with technology. The lights, the programming, the futuristic design of it all, it mesmerizes me and it makes me crave the future more. I absolutely want to work with technology for the rest of my life. It makes me happy.</p>
                                 </div>
-                                <div class="col-lg-3">
+                                <div class="col-lg-3 accordion-text-img-col">
                                     <img src="assets/images/binary-heart.jpg" alt="A red heart with a white background all made up of zeros and ones." class="project_image">
                                 </div>
                             </div>
@@ -129,14 +129,18 @@
                         <h5 class="ac-title">What do you sell in your Etsy shop?</h5>
                         <div class="ac-content">
                             <div class="row">
-                                <div class="col-lg-9">
+                                <div class="col-lg-9 accordion-text-img-col">
                                     <p>Back in my early community college days, I discovered how to make figurines out of these nifty little beads called "Perler Beads". The whole premise of these types of beads was that you had arrange them on a board and then permanently iron them together. After a few of my friends stated that they would buy them as a keychain, the wheels began to spin. Not long after, I was being commissioned by a school club I was a member of, and my tiny business began to take off. However, after graduating from the college and moving out of the city to bigger and better things, I found myself wishing I could still sell those keychains.</p>
 
                                     <p>During the pandemic, after cleaning the clutter at home out of lockdown boredom, I rediscovered the numerous beads that have yet to be fused together. Once again, the joy of making bead keychains was back and I found myself creating items I had never made before. It felt as if I traveled back in time, but this time around, I found my online friends stating that they would purchase my keychains. After lots of brainstorming and planning, I decided to open an Etsy shop! Although I'm still a small shop, I can gladly say that I'm an official small business owner! The link to my shop is right below.</p>
 
-                                    <a href="https://www.etsy.com/shop/JustCraftyJeo" target="_blank" class="btn btn-dark">Etsy Shop</a>
+                                    <div class="row">
+                                        <div class="col-12 text-center">
+                                            <a href="https://www.etsy.com/shop/JustCraftyJeo" target="_blank" class="btn btn-dark">Etsy Shop</a>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="col-lg-3">
+                                <div class="col-lg-3 accordion-text-img-col">
                                     <img src="assets/images/mario-piggy-bank.jpg" alt="A 3D piggy bank made out of melted beads based on the Mario video game series." class="project_image">
                                 </div>
                             </div>
