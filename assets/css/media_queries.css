@@ -312,6 +312,12 @@
 		line-height: 1.25em;
 	}
 
+    .small_space {
+        height: 0;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
     .mobile_break {
         display: block;
     }
@@ -369,6 +375,15 @@
 	
 	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
 	/* Home Page */
+    #header[data-transparent="true"] + .halfscreen {
+        top: 0;
+        margin-bottom: 0;
+    }
+
+    section#home-halfscreen-section.halfscreen {
+        background-position-x: 5%;
+    }
+
 	#home-halfscreen-section .text-middle {
         top: 100px;
         left: 0;
