@@ -410,6 +410,10 @@
         margin-top: 0;
     }
 
+    #home-text-section #home-intro h3 {
+        line-height: 2.5rem;
+    }
+
     /* About */
     #about-section h3 {
         line-height: 2rem;
