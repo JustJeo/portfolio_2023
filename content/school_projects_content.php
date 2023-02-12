@@ -35,9 +35,9 @@
                 
                 <h4>October 9th, 2020</h4>
 
-                <p>Burger Builder is my first-ever project. It was the first project assigned to students in the General Assembly coding bootcamp program I had taken. The project was required to be a game that was frontend only. All functionality for the game had to be done through vanilla JavaScript and DOM Manipulation. For this project I had drawn all of the game images using a basic drawing software. These images appear as the ketchup and mustard trails in the logo along with images that would appear at the click of a button while playing the game!</p>
+                <p>Burger Builder was my first-ever project. It was the first project assigned to students in the General Assembly coding bootcamp program I had taken. The project was required to be a game that was frontend only. All functionality for the game had to be done through vanilla JavaScript and DOM Manipulation. For this project, I had drawn all of the game images using a basic drawing software. These images appear as the ketchup and mustard trails in the logo, along with images that would appear at the click of a button while playing the game!</p>
 
-                <p>The game placed players in the shoes of a chef where they are given one minute to build randomly picked orders from "customers". The burger must be built from the bottom up and sent for inspection. With every correct order, players will earn points and any wrong order will lose points. This fast paced game was deemed as one of the class's favorites as everyone competed for the highest score.</p>
+                <p>The game placed players in the shoes of a chef where they are given one minute to build randomly picked orders from "customers". The burger must be built from the bottom up and sent for inspection. With every correct order, players will earn points and any wrong order will lose points. This fast-paced game was deemed one of the class's favorites as everyone competed for the highest score.</p>
                 
                 <p><span class="green_text bold underline">Technologies Used:</span> HTML, CSS and JavaScript.</p>
                 
