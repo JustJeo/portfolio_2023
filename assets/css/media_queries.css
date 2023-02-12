@@ -100,9 +100,9 @@
 	}
 	
 	/* Footer */
-	#contact-footer {
-		padding-left: 50px;
-	}
+	#footer .container {
+        padding: 0;
+    }
 	
 	/* ~~~~~~~~~ Individual Pages ~~~~~~~~~~~ */
 	/* Home Page */
@@ -178,9 +178,9 @@
 	}
 	
 	/* Footer */
-	#contact-footer {
-		padding-left: 0;
-	}
+    #footer .container {
+        padding: 0;
+    }	
 	
 	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
 	/* Home Page */
@@ -254,6 +254,11 @@
 	#mainMenu:not(.menu-overlay) nav > ul > li .dropdown-arrow {
 		padding-right: 110%;
 	}
+
+    /* Footer */
+    #footer .container {
+        padding: 0;
+    }
 	
 	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
 	/* Home Page */
@@ -331,12 +336,17 @@
         height: 200px;
         width: 200px;
     }
-	
-	
+
 	/* Footer */
-	#contact-footer {
-		padding-left: 15px;
-	}
+    #footer .container {
+        padding: 0;
+    }
+
+	#footer .footer-content #footer-img {
+        background-size: unset;
+        background-position-y: 15%;
+        background-position-x: 0;
+    }
 	
 	#footer .copyright-content {
 		padding: 15px 5px;

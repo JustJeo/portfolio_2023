@@ -185,12 +185,6 @@ button.btn, .btn:not(.close):not(.mfp-close) {
 	border-color: #0f6bff;
 }
 
-/* Scroll To Top */
-#scrollTop {
-    bottom: 70px!important;
-}
-
-
 /* Footer */
 #footer li {
 	list-style-type: none;
