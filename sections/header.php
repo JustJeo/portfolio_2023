@@ -2,13 +2,6 @@
 <header id="header" class="d-block d-md-none dark" data-transparent="true">
     <div class="header-inner">
         <div class="container">
-            <!--Logo-->
-            <div id="logo">
-                <a href="index.html" class="logo" data-src-dark="images/logo-sidebar-dark.png">
-                    <img src="images/logo-sidebar.png" alt="Polo Logo">
-                </a>
-            </div>
-
             <!--Header Extras-->
             <div class="header-extras">
                 <ul>
