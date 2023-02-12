@@ -14,7 +14,7 @@
         <div class="row opening_text" id="about-intro">
             <!-- Intro -->
             <div class="col-12">
-                <h3>My name is <a href="https://www.linkedin.com/in/j-cabrigas/" target="_blank"><span class="blue_text underline" id="name-link">Jamieden Cabrigas</span></a>. I also go by Jamie!</h3>
+                <h3>My name is <a href="https://www.linkedin.com/in/j-cabrigas/" target="_blank"><span class="blue_text underline" id="name-link">Jamieden Cabrigas</span></a>. <br class="mobile_break">I also go by Jamie!</h3>
             </div>
             <div class="col-12">
                 <p>I'm a coding bootcamp Software Engineer graduate since December 2020 and am currently employed as a Frontend Web Developer. I have learned to adapt to the syntax and coding style of a company that uses PHP, AJAX and MySQL while I learned React, Node.js, and PostgreSQL in my bootcamp class. I have built many websites, both internally for the company and externally for clients that were referred to the company. Some of those projects were developed in a small team setting, while others were built almost completely by myself.</p>

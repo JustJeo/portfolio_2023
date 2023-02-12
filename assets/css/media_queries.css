@@ -312,6 +312,10 @@
 		line-height: 1.25em;
 	}
 
+    .mobile_break {
+        display: block;
+    }
+
     .card {
         margin: 15px 0;
     }
