@@ -1,20 +1,12 @@
 /* ~~~~~~~~ General Tags ~~~~~~~~ */
-section {
-	/* background-color: #00b1ff; */
-	padding: 15px 0px;
-	background-image: none;
-}
-
-body.side-panel-static .body-inner .container {
-    max-width: 100%;
-}
-
+/* Font Family*/
 h1, h2, h3, h4, h5, p, #side-panel, footer,
 #mainMenu nav > ul > li > a,
 .btn:not(.close):not(.mfp-close) {
     font-family: 'Play', sans-serif!important;
 }
 
+/* Text */
 h1, h2 {
 	color: dodgerblue;
 }
@@ -32,20 +24,32 @@ li, .ac-item {
 	font-size: 1.2rem;
 }
 
+/* Spacing */
+section {
+	padding: 15px 0px;
+	background-image: none;
+}
+
+body.side-panel-static .body-inner .container {
+    max-width: 100%;
+}
+
+.side-panel.side-panel-static .body-inner > .page_header_section > .container {
+    max-width: 100%;
+    padding: 0;
+}
+
 hr {
     margin-top: 25px;
     margin-bottom: 25px;
     border: 3px solid red;
 }
 
-.bg-primary, .call-to-action.call-to-action-colored {
-	background-color: dodgerblue
+.row {
+    margin: 0;
 }
 
-.text-primary {
-	color: dodgerblue
-}
-
+/* Custom Classes */
 .blue_text {
     color: #0073f7
 }
@@ -70,17 +74,6 @@ hr {
     display: none;
 }
 
-.row {
-    margin: 0;
-}
-
-.icon_spacing {
-	padding-left: 2px;
-	padding-right: 2px;
-	text-align: center;
-	padding-top: 4px;
-}
-
 .link_click {
 	color: black;
 	text-decoration: underline;
@@ -95,9 +88,12 @@ hr {
     border: none;
 }
 
-.side-panel.side-panel-static .body-inner > .page_header_section > .container {
-    max-width: 100%;
-    padding: 0;
+.bg-primary, .call-to-action.call-to-action-colored {
+	background-color: dodgerblue
+}
+
+.text-primary {
+	color: dodgerblue
 }
 
 .project_title {
@@ -163,25 +159,11 @@ hr {
     background-color: dodgerblue;
 }
 
-.header-logo-center #logo {
-	width: 95%;
-}
-
-#header .header-inner #logo small {
-	font-size: 35%;
-}
-
 /* Anchor Tags */
 #mainMenu nav > ul > li:hover > a,
 #mainMenu nav > ul > li .dropdown-menu > li:hover > a,
 #mainMenu nav > ul > li .dropdown-menu > li > span:hover {
 	color: #0f6bff;
-}
-
-/* Buttons */
-button.btn, .btn:not(.close):not(.mfp-close) {
-	background-color: #0f6bff;
-	border-color: #0f6bff;
 }
 
 /* Footer */
@@ -195,20 +177,11 @@ button.btn, .btn:not(.close):not(.mfp-close) {
     background-size: cover;
 }
 
-/* #footer #footer-title,
-#footer #email-footer {
-    margin-bottom: 5px;
-} */
-
 #footer .footer_logo {
     width: 50px;
     height: 50px;
     object-fit: cover;
 }
-
-/* #footer #github-footer-col {
-    padding-left: 25px;
-} */
 
 #footer .footer-content section .container h2,
 #footer .footer-content section .container h4,
@@ -217,17 +190,8 @@ button.btn, .btn:not(.close):not(.mfp-close) {
 	color: black;
 }
 
-#footer .footer-content section .container .footer_link h5 {
-	text-decoration: underline;
-    height: 30px;
-}
-
 #footer a:not(.btn):not(:hover) {
     color: black;
-}
-
-#footer .footer-content section .container .footer_link h5:hover {
-	color: #0fb7ff;
 }
 
 #footer .footer-content {
@@ -236,6 +200,10 @@ button.btn, .btn:not(.close):not(.mfp-close) {
 
 #footer #email-footer {
     margin-bottom: 20px;
+}
+
+#footer a:hover{
+    color: #0f6bff;
 }
 
 
@@ -311,14 +279,6 @@ body.side-panel-static .body-inner #home-container {
 
 
 /* About */
-/* #about-section {
-    padding-bottom: 15px;
-}
-
-#about-section #about-intro h3 {
-    margin-bottom: 15px;
-} */
-
 #about-section #about-intro #name-link:hover {
     color: gray;
 }

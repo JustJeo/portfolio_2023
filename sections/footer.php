@@ -6,8 +6,10 @@
 					<div class="col-lg-8 col-10">
                         <div class="row">
                             <!-- Email -->
-                            <div class="col-md-4 col-12 text-center footer_link" id="email-footer">
-                                <h4><a href="mailto:j.cabrigas.writer@gmail.com" class="link_click underline">j.cabrigas.writer@gmail.com</a></h4>
+                            <div class="col-md-4 col-12 text-center" id="email-footer">
+                                <h4>
+                                    <a href="mailto:j.cabrigas.writer@gmail.com" class="link_click underline">j.cabrigas.writer@gmail.com</a>
+                                </h4>
                             </div>
                         </div>
                         <div class="row">
@@ -16,9 +18,9 @@
                                 <div id="github-footer">
                                     <a href="https://github.com/JustJeo" target="_blank">
                                         <img src="assets/images/github-logo.png" id="github-logo-footer" class="footer_logo" alt="Black GitHub logo">
+                                        <h4 class="m-t-0">Github</h4>
                                     </a>
                                 </div>
-                                <h4 class="m-t-0">Github</h4>
                             </div>
 
                             <!-- LinkedIn -->
@@ -26,9 +28,9 @@
                                 <div id="linkedin-footer">
                                     <a href="https://www.linkedin.com/in/j-cabrigas/" target="_blank">
                                         <img src="assets/images/linkedin-logo-black.png" id="linkedin-logo-footer" class="footer_logo" alt="Black LinkedIn logo">
+                                        <h4 class="m-t-0">LinkedIn</h4>
                                     </a>
                                 </div>
-                                <h4 class="m-t-0">LinkedIn</h4>
                             </div>
                         </div>
 					</div>
