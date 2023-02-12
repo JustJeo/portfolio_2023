@@ -1,5 +1,5 @@
 <!-- Header -->
-<header id="header" class="d-block d-md-none dark" data-transparent="true">
+<header id="header" class="d-block d-lg-none dark" data-transparent="true">
     <div class="header-inner">
         <div class="container">
             <!--Header Extras-->
