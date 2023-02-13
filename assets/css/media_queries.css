@@ -165,8 +165,8 @@
 		padding-bottom: 10px;
 	}
 
-    body.side-panel-static .body-inner #home-container {
-		padding: 0;
+    .side-panel.side-panel-static .body-inner > section > .container {
+		padding: 0 20px;
 	}
 
     /* Text */

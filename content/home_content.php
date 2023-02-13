@@ -60,7 +60,7 @@
 
                 <h4>I believe that the patience to test over and over again, the dedication to go from an idea to a final product, and a keen eye for detail, is what makes  a strong frontend developer. I strive to be the best frontend developer that I can be by always incorporating those skills into my work. With video games as my inspiration, I have a burning passion and constant determination to make beautiful pieces of technology and to showcase my frontend power up.</h4>
 			</div>
-			<div class="col-lg-3 text-center">
+			<div class="col-lg-3 col-md-6 text-center">
                 <!-- Websites Card -->
                 <div class="card">
                     <div class="card-header">
@@ -74,7 +74,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-3 text-center">
+            <div class="col-lg-3 col-md-6 text-center">
                 <!-- School Projects Card -->
                 <div class="card">
                     <div class="card-header">
