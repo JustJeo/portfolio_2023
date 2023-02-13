@@ -24,7 +24,7 @@
                             </div>
 
                             <!-- LinkedIn -->
-                            <div class="col-lg-2 col-md-3 col-6 text-center">
+                            <div class="col-xl-2 col-md-3 col-6 text-center">
                                 <div id="linkedin-footer">
                                     <a href="https://www.linkedin.com/in/j-cabrigas/" target="_blank">
                                         <img src="assets/images/linkedin-logo-black.png" id="linkedin-logo-footer" class="footer_logo" alt="Black LinkedIn logo">
