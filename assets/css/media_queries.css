@@ -158,6 +158,62 @@
         margin-top: 5px;
     } 
 
+    /* Websites */
+    .portfolio-item .portfolio-image img {
+        object-fit: contain;
+        object-position: center;
+        height: 150px;
+    }
+
+    .portfolio-item .portfolio-description {
+        padding: 3px;
+    }
+
+    .portfolio-item .portfolio-description a {
+        margin: 0;
+    }
+
+    .portfolio-item .portfolio-description h3 {
+        font-size: 18px;
+        line-height: 1.5rem;
+    }
+
+    .portfolio-item .portfolio-description h5 {
+        line-height: 1.5rem;
+    }
+
+    .portfolio-item .portfolio-description .btn.btn-dark {
+        padding: 5px 8px;
+    }
+
+    /* Portal */
+    #project-portal {
+        position: absolute;
+        top: auto;
+        right: 0;
+        left: 0;
+        width: 75%;
+        height: auto;
+        background-color: black;
+        border: 3px solid lightgray;
+        border-radius: 15px;
+        margin: auto;
+        z-index: 999;
+        display: none;
+    }
+
+    /* FAQ */
+	#faq-section h3 {
+        line-height: 2rem;
+    }
+
+    #faq-section .ac-content img {
+        width: 50%;
+    }
+
+    #faq-section .ac-content #etsy-img {
+        width: 35%;
+    }
 }
 
 
