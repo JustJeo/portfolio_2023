@@ -116,13 +116,13 @@
                 <!-- Accordion -->
                 <div class="accordion">
                     <div class="ac-item">
-                        <h5 class="ac-title">Why did you start streaming on Twitch?</h5>
+                        <h5 class="ac-title">What is your dream job?</h5>
                         <div class="ac-content">
-                            <p>Over the years I realized that I started collecting games that I've always wanted to play, but never got around to actually playing them. At one point, I wondered what I was going to do with all of these digital games. For those who may not know, digital games are locked to a single account and cannot be traded or exchanged like physical copies can. It was then that I remembered some of my favorite YouTubers saying things like, "I never got to play this before, so I'm finally able to now!" I then told myself I was going to have a gaming channel too. That way I could become a content creator while playing my favorite games - and if I were good enough, then I would could get paid to play games!</p>
+                            <p>My ultimate, absolute dream job is to work for a video game company, preferrably one of the big gaming companies like PlayStation or Nintendo. Truthfully, I've always wanted to design an entire story-based game since I grew up playing so many video games. I loved the feeling of escaping reality, getting immersed into the world, and feeling like I was truly the character that I was controlling. I feel like I've played so many games that I know what would make a great game. Of course, that's all talk, because I've never created a video game aside from a project for my coding bootcamp. Still, to direct, create, and bring a whole world of my own to life? That's the <em>dream</em>.</p>
+                            
+                            <p>In fact, I believe that all the gaming that I've done is what's to blame for all of these stories I have in my head. When I was in elementary school, all the way up to college, I used to write short stories. None of them were ever published, of course, but I remember writing so many story lines and plot points down. I would have pages, upon pages of just rough drafts for these stories. Some of them would be half completed, others would have full fledged, beginning to end, story lines with characters and everything. I even had a sequel planned for one of them!</p>
 
-                            <p>I heard a lot of people talking about live streaming their gaming sessions. They would stream live, save their streaming sessions, and then upload to YouTube if it were safe. I figured, since YouTube was so intimidating to me with all of their restrictions, I would just cut out the video portion of the plan and only stream live. Unless you were doing something absolutely inappropriate, you could play music and play games with almost no restrictions, as long as you didn't save the streaming session.</p>
-
-                            <p>I've been streaming ever since then. Not with a set schedule, but still with all the fun.</p>
+                            <p>To take any one of my story ideas and turn it into a video game, that would be my ultimate goal in life. Maybe it'll be achievable in the future, but for now, that's just a dream. I know things that grand aren't possible in a day, which is why it's important to have short term goals, long term goals, and an ultimate life goal.</p>
                         </div>
                     </div>
                     <div class="ac-item">
@@ -147,13 +147,13 @@
                         </div>
                     </div>
                     <div class="ac-item">
-                        <h5 class="ac-title">What is your dream job?</h5>
+                        <h5 class="ac-title">Why did you start streaming on Twitch?</h5>
                         <div class="ac-content">
-                            <p>My ultimate, absolute dream job is to work for a video game company, preferrably one of the big gaming companies like PlayStation or Nintendo. Truthfully, I've always wanted to design an entire story-based game since I grew up playing so many video games. I loved the feeling of escaping reality, getting immersed into the world, and feeling like I was truly the character that I was controlling. I feel like I've played so many games that I know what would make a great game. Of course, that's all talk, because I've never created a video game aside from a project for my coding bootcamp. Still, to direct, create, and bring a whole world of my own to life? That's the <em>dream</em>.</p>
-                            
-                            <p>In fact, I believe that all the gaming that I've done is what's to blame for all of these stories I have in my head. When I was in elementary school, all the way up to college, I used to write short stories. None of them were ever published, of course, but I remember writing so many story lines and plot points down. I would have pages, upon pages of just rough drafts for these stories. Some of them would be half completed, others would have full fledged, beginning to end, story lines with characters and everything. I even had a sequel planned for one of them!</p>
+                            <p>Over the years I realized that I started collecting games that I've always wanted to play, but never got around to actually playing them. At one point, I wondered what I was going to do with all of these digital games. For those who may not know, digital games are locked to a single account and cannot be traded or exchanged like physical copies can. It was then that I remembered some of my favorite YouTubers saying things like, "I never got to play this before, so I'm finally able to now!" and how much I enjoyed watching them play some of my favorite games. Using it as a productive motivator, I told myself that I was going to have a gaming channel too. That way I could become a content creator while playing my favorite games - and if I were big enough, then I could get paid to play games! What video game fan wouldn't want that?</p>
 
-                            <p>To take any one of my story ideas and turn it into a video game, that would be my ultimate goal in life. Maybe it'll be achievable in the future, but for now, that's just a dream. I know things that grand aren't possible in a day, which is why it's important to have short term goals, long term goals, and an ultimate life goal.</p>
+                            <p>It wasn't until I found out how intimidating YouTube was with all of their restrictions that I would just cut out the video uploading portion of the plan and only stream live. I wouldn't have to worry about editing videos, dealing with uploading times, and the strict copyright strikes. I would be able to interact with viewers right then and there and play the games I've always wanted to play. It was definitely scary at first, but after doing this as a hobby for a few years, I've come to make some great memories and even a couple of friends along the way.</p>
+
+                            <p>I've been streaming ever since then. Not with a set schedule, but still with all the fun.</p>
                         </div>
                     </div>
                 </div>
