@@ -40,58 +40,58 @@
                 <div class="card" id="tech-skills-card">
                     <div class="card-body text-center">
                         <div class="row">
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>HTML5</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>CSS3</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>JavaScript</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>Bootstrap</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>React</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>PHP</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>AJAX</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>Npm</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>Node.js</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>Express.js</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>EJS</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>phpMyAdmin</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>MySQL</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>PostgreSQL</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>Git</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>GitHub</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>Visual Studio</h4>
                             </div>
-                            <div class="col-lg-2 col-md-4 col-6">
+                            <div class="col-xl-2 col-md-4 col-6">
                                 <h4>Notepad++</h4>
                             </div>
                         </div>
