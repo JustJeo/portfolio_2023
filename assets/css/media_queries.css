@@ -415,9 +415,12 @@
     }
 
     #faq-section .ac-content img {
-        width: 80%;
+        width: 75%;
     }
 
+    #faq-section .ac-content #etsy-img {
+        width: 50%;
+    }
 }
 
 
