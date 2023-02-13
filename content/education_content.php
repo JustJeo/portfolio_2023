@@ -32,7 +32,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-10 mx-auto">
+            <div class="col-xl-10 col-lg-11 mx-auto">
                 <!-- start: Timeline -->
                 <ul class="timeline">
                     <!-- Timeline Item -->

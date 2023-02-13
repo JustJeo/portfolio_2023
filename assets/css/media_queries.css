@@ -172,9 +172,13 @@
     }
 
     /* School Projects */
+    #school-projects-section .project_image {
+        width: 75%;
+    }
+
     #school-projects-section .project_title {
         margin-top: 0;
-    }
+    }    
 
     /* Websites */
     #websites-section h3 {
