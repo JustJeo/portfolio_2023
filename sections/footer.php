@@ -14,7 +14,7 @@
                         </div>
                         <div class="row">
                             <!-- Github -->
-                            <div class="col-lg-2 col-md-3 col-6 text-center" id="github-footer-col">
+                            <div class="col-xl-2 col-md-3 col-6 text-center" id="github-footer-col">
                                 <div id="github-footer">
                                     <a href="https://github.com/JustJeo" target="_blank">
                                         <img src="assets/images/github-logo.png" id="github-logo-footer" class="footer_logo" alt="Black GitHub logo">

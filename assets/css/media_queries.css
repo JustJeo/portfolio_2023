@@ -54,7 +54,7 @@
 	}
 	
 	h3 {
-		font-size: 2rem;
+		font-size: 1.85rem;
 	}
 	
 	h4 {
@@ -157,11 +157,7 @@
 
 	#home-halfscreen-section .text-middle {
         top: 100px;
-        left: 0;
-    }
-
-    #home-text-section .mobile_break {
-        display: block;
+        left: 100px;
     }
 
     /* About */
@@ -231,7 +227,7 @@
 	}
 	
 	h3 {
-		font-size: 2rem;
+		font-size: 1.85rem;
 	}
 	
 	h4 {

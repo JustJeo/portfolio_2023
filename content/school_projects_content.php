@@ -27,10 +27,10 @@
 
         <!-- Burger Builder -->
         <div class="row">
-            <div class="col-lg-6 col-12">
+            <div class="col-xl-6 col-12">
                 <img src="assets/images/burger-builder.png" alt="Landing page preview for Burger Builder project." class="project_image">
             </div>
-            <div class="col-lg-6 col-12">
+            <div class="col-xl-6 col-12">
                 <h2 class="project_title bold">Burger Builder</h2>
                 
                 <h4>October 9th, 2020</h4>
@@ -50,10 +50,10 @@
 
         <!-- Better Boothang -->
         <div class="row">
-            <div class="col-lg-6 col-12">
+            <div class="col-xl-6 col-12">
                 <img src="assets/images/better-boothang.png" alt="Landing page preview for Better Boothang project." class="project_image">
             </div>
-            <div class="col-lg-6 col-12">
+            <div class="col-xl-6 col-12">
                 <h2 class="project_title bold">Better Boothang</h2>
                 
                 <h4>October 30th, 2020</h4>
@@ -72,7 +72,7 @@
 
         <!-- Collabathon -->
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-xl-6">
                 <div class="row">
                     <div class="col-12">
                         <img src="assets/images/figma-replica.png" alt="Figma prototype for Collabathon project." class="project_image">
@@ -82,7 +82,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-xl-6">
                 <h2 class="project_title bold">Collabathon</h2>
                 
                 <h4>November 24th, 2020</h4>
@@ -106,10 +106,10 @@
 
         <!-- Soul Sip'n -->
         <div class="row">
-            <div class="col-lg-6 col-12">
+            <div class="col-xl-6 col-12">
                 <img src="assets/images/soul-sipn.png" alt="Landing page preview for Soul Sip'n project." class="project_image">
             </div>
-            <div class="col-lg-6 col-12">
+            <div class="col-xl-6 col-12">
                 <h2 class="project_title bold">Soul Sip'n</h2>
                 
                 <h4>November 30th, 2020</h4>
@@ -129,10 +129,10 @@
 
         <!-- Heart of Blink -->
         <div class="row">
-            <div class="col-lg-6 col-12">
+            <div class="col-xl-6 col-12">
                 <img src="assets/images/heart-of-blink.png" alt="Landing page preview for Heart of Blink project." class="project_image">
             </div>
-            <div class="col-lg-6 col-12">
+            <div class="col-xl-6 col-12">
                 <h2 class="project_title bold">Heart of Blink</h2>
 
                 <h4>December 17th, 2020</h4>
