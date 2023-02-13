@@ -28,7 +28,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-lg-6 col-12 offset-lg-1">
+                        <div class="col-md-6 col-12 offset-lg-1 offset-md-2">
                             <h3 data-animate="fadeInDown" data-animate-delay="2000" class="big_bold">Frontend Web Developer</h3>
                             <h3 data-animate="fadeInDown" data-animate-delay="2500" class="big_bold">Software Engineer</h3>
                             <h3 data-animate="fadeInDown" data-animate-delay="3000" class="big_bold">Responsive Redesign Developer</h3>

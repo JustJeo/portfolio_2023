@@ -117,6 +117,15 @@
 	
 	/* ~~~~~~~~~ Individual Pages ~~~~~~~~~~~ */
 	/* Home Page */
+    #header[data-transparent="true"] + .halfscreen {
+        top: 0;
+        margin-bottom: 0;
+    }
+
+    section#home-halfscreen-section.halfscreen {
+        background-position-x: 5%;
+    }
+
 	#home-halfscreen-section .text-middle {
         top: 100px;
         left: 0;
@@ -172,6 +181,13 @@
 	.page_header h2 {
 		line-height: 1.5em;
 	}
+
+    /* Custom Classes */
+    .small_space {
+        height: 0;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
 	
 	/* ~~~~~~~~~~~~~~ Page Layouts ~~~~~~~~~~~~~~ */
 	/* Side Panel */
@@ -206,9 +222,13 @@
 	
 	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
 	/* Home Page */
-	#home-halfscreen-section .text-middle {
-        top: 100px;
-        left: 0;
+    #header[data-transparent="true"] + .halfscreen {
+        top: 0;
+        margin-bottom: 0;
+    }
+
+    section#home-halfscreen-section.halfscreen {
+        background-position-x: 5%;
     }
 }
 
@@ -295,6 +315,15 @@
 	
 	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
 	/* Home Page */
+    #header[data-transparent="true"] + .halfscreen {
+        top: 0;
+        margin-bottom: 0;
+    }
+
+    section#home-halfscreen-section.halfscreen {
+        background-position-x: 5%;
+    }
+
 	#home-halfscreen-section .text-middle {
         top: 100px;
         left: 0;

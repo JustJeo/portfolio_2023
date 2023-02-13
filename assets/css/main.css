@@ -221,6 +221,11 @@ section#home-halfscreen-section.halfscreen {
     bottom: 0;
 }
 
+#home-halfscreen-section .text-middle h1,
+#home-halfscreen-section .text-middle h3 {
+    text-shadow: 2px 2px 10px black;
+}
+
 #home-halfscreen-section .text-middle #home-im-a-text {
     padding-left: 50px;
 }
