@@ -11,7 +11,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-lg-11 offset-lg-1">
+                        <div class="col-11 offset-1">
                             <h1 data-animate="fadeInDown" data-animate-delay="500" id="home-fullname">Jamieden Cabrigas</h1>
                         </div>
                     </div>
