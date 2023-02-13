@@ -131,6 +131,7 @@
 	#footer .copyright-text {
 		padding: 5px;
         line-height: 1.75rem;
+        margin-top: -65px;
 	}
 	
 	/* ~~~~~~~~~ Individual Pages ~~~~~~~~~~~ */

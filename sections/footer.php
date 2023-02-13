@@ -38,7 +38,7 @@
                     <div class="col-lg-4 col-md-7">
                         <div class="row">
                             <!-- Copyright -->
-                            <div class="col-lg-7 col-md-8 col-10 text-center">
+                            <div class="col-xl-7 col-lg-12 col-md-8 col-10 text-center">
                                 <div class="copyright-text">Copyright &copy; <?php echo date("Y");?> Jamieden Cabrigas.<br>Once again I'm Jeo, Just Jeo.</div>
                             </div>
                         </div>
