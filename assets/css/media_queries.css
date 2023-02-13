@@ -580,6 +580,30 @@
 	#faq-section h3 {
         line-height: 2rem;
     }
+
+    #mobile-landscape {
+        position: fixed;
+        top: auto;
+        right: 15px;
+        left: 0;
+        width: 95%;
+        height: 97%;
+        background-color: black;
+        border: 3px solid lightgray;
+        border-radius: 15px;
+        margin: auto;
+        z-index: 999;
+        display: block;
+    }
+
+    #mobile-landscape h1 {
+        position: absolute;
+        top: 25vh;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        font-size: 4rem;
+    }
 }
 
 

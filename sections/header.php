@@ -17,3 +17,12 @@
         </div>
     </div>
 </header>
+
+<!-- Mobile Landscape -->
+<div id="mobile-landscape">
+    <div class="row">
+        <div class="col-12" id="mobile-landscape-contents">
+            <h1 class="text-center text-light">Please rotate your device to portrait mode to continue.</h1>
+        </div>
+    </div>
+</div>

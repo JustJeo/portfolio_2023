@@ -46,6 +46,21 @@ hr {
     margin: 0;
 }
 
+.text-light li {
+    margin-bottom: 20px;
+}
+
+.card {
+    margin: 30px 0;
+    border-radius: 25px;
+    border: 5px solid black;
+}
+
+.card .card-header,
+.card .card-body {
+    padding: 1rem 2rem;
+}
+
 /* Custom Classes */
 .blue_text {
     color: #0073f7
@@ -65,10 +80,6 @@ hr {
 
 .underline {
     text-decoration: underline;
-}
-
-.mobile_break {
-    display: none;
 }
 
 .link_click {
@@ -97,19 +108,9 @@ hr {
     color: black;
 }
 
-.text-light li {
-    margin-bottom: 20px;
-}
-
-.card {
-    margin: 30px 0;
-    border-radius: 25px;
-    border: 5px solid black;
-}
-
-.card .card-header,
-.card .card-body {
-    padding: 1rem 2rem;
+.mobile_break,
+#mobile-landscape {
+    display: none;
 }
 
 
