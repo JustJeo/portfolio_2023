@@ -1,17 +1,24 @@
 /* ~~~~~~~~~~~~~~ Generic Laptop ~~~~~~~~~~~~~~ */
 @media screen and (min-width: 1220px) and (max-width: 1460px) {
     /* ~~~~~~~~~ General / Multi-Page ~~~~~~~~~~~ */
+    /* Sizes */
+    p {
+        font-size: 1rem;
+    }
+
+    /* Spacing */
     .side-panel.side-panel-static .body-inner > section > .container {
 		padding: 0 10px;
 	}
-
-    #mainMenu nav > ul > li > a {
-        text-decoration: none;
-        color: white;
-        font-size: 16px;
-        padding: 5px 8px;
+    
+    /* Custom Classes */
+    .small_space {
+        height: 0;
+        margin-top: 15px;
+        margin-bottom: 15px;
     }
 
+    /* ~~~~~~~~~ Layouts ~~~~~~~~~~~ */
     /* Side Panel */
     #side-panel .side-panel-wrap #logo-img {
         height: 200px;
@@ -51,6 +58,11 @@
         left: 100px;
     }
 
+    #home-halfscreen-section #intro-skills .col-xl-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
     /* About */
     #technologies-and-skills-section .col-lg-10 {
         flex: 0 0 100%;
@@ -64,6 +76,23 @@
 
     #technologies-and-skills-section .card .card-body {
         padding: .25rem;
+    }
+
+    /* Education */
+    #school-timeline-section .timeline .timeline-item {
+        margin: 0rem 0rem 2rem 4rem;
+    }
+
+    /* School Projects */
+    #school-projects-section .row {
+        align-items: center;
+    }
+
+    /* Websites */
+    .portfolio-item .portfolio-image img {
+        object-fit: contain;
+        object-position: center;
+        height: 175px;
     }
 
     /* Portal */
@@ -88,11 +117,7 @@
     }
 
     #faq-section .ac-content img {
-        width: 50%;
-    }
-
-    #faq-section .ac-content #etsy-img {
-        width: 35%;
+        width: 100%;
     }
 }
 
@@ -143,6 +168,7 @@
         float: right;
     }
 
+    /* ~~~~~~~~~ Layouts ~~~~~~~~~~~ */
     /* Side Panel */
     #side-panel .side-panel-wrap #logo-img {
         height: 200px;
