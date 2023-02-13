@@ -270,6 +270,11 @@
         margin-left: 20px;
         line-height: 210px;
     }
+
+    /* Scroll To Top */
+    #scrollTo {
+        right: 35px;
+    }
 	
 	/* Footer */
     #footer .container {
@@ -278,7 +283,7 @@
 
     #footer .footer-content #footer-img {
         background-size: unset;
-        background-position-y: 15%;
+        background-position-y: 0;
         background-position-x: 0;
     }
 	
