@@ -205,6 +205,14 @@
 	#faq-section h3 {
         line-height: 2rem;
     }
+
+    #faq-section .ac-content img {
+        width: 50%;
+    }
+
+    #faq-section .ac-content #etsy-img {
+        width: 35%;
+    }
 }
 
 
@@ -410,9 +418,6 @@
         width: 80%;
     }
 
-    #faq-section .ac-content #etsy-img {
-        width: 50%;
-    }
 }
 
 
