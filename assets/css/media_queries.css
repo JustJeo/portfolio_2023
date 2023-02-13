@@ -223,7 +223,7 @@
 	}
 
     .side-panel.side-panel-static .body-inner > section > .container {
-		padding: 0 15px;
+		padding: 0 10px;
 	}
 
     .card {
@@ -331,7 +331,11 @@
     }
 
     #home-text-section #home-intro h4 {
-        margin-top: 50px;
+        margin-top: 45px;
+    }
+
+    #home-text-section .card {
+        min-height: 275px;
     }
 
     /* About */
@@ -347,12 +351,16 @@
 
     /* School Projects */
     #school-projects-section .project_title {
-        margin-top: 0;
+        margin-top: 10px;
     }
 
     /* Websites */
     #websites-section h3 {
         line-height: 2rem;
+    }
+
+    .portfolio-item .portfolio-description {
+        padding: 10px;
     }
 
     .portfolio-item .portfolio-image img {
@@ -378,6 +386,14 @@
     /* FAQ */
 	#faq-section h3 {
         line-height: 2rem;
+    }
+
+    #faq-section .ac-content img {
+        width: 80%;
+    }
+
+    #faq-section .ac-content #etsy-img {
+        width: 50%;
     }
 }
 

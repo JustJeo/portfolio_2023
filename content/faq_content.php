@@ -34,7 +34,7 @@
 
                                     <p>I love video games so much that I even incorporated some photos from my favorite video game into my portfolio. If you love Mirror's Edge Catalyst as much as I do, then you'll notice that you've been on the rooftops of some of the buildings from the city of Glass.</p>
                                 </div>
-                                <div class="col-lg-4 accordion-text-img-col">
+                                <div class="col-lg-4 accordion-text-img-col text-center">
                                     <img src="assets/images/glass-city-shard.jpg" alt="City skyline screenshot from Mirror's Edge Catalyst video game." class="project_image">
                                 </div>
                             </div>
@@ -96,7 +96,7 @@
 
                                     <p>As the years would go by, newer, more complicated gizmos and gadgets would be released and I would always want to be a part of a team that created those technical fascinations. I've never had a passion for something as much as I do with technology. The lights, the programming, the futuristic design of it all, it mesmerizes me and it makes me crave the future more. I absolutely want to work with technology for the rest of my life. It makes me happy.</p>
                                 </div>
-                                <div class="col-lg-3 accordion-text-img-col">
+                                <div class="col-lg-3 accordion-text-img-col text-center">
                                     <img src="assets/images/binary-heart.jpg" alt="A red heart with a white background all made up of zeros and ones." class="project_image">
                                 </div>
                             </div>
@@ -140,8 +140,8 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 accordion-text-img-col">
-                                    <img src="assets/images/mario-piggy-bank.jpg" alt="A 3D piggy bank made out of melted beads based on the Mario video game series." class="project_image">
+                                <div class="col-lg-3 accordion-text-img-col text-center">
+                                    <img src="assets/images/mario-piggy-bank.jpg" alt="A 3D piggy bank made out of melted beads based on the Mario video game series." class="project_image" id="etsy-img">
                                 </div>
                             </div>
                         </div>
