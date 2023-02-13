@@ -12,6 +12,23 @@
         font-size: 16px;
         padding: 5px 8px;
     }
+
+    /* Side Panel */
+    #side-panel .side-panel-wrap #logo-img {
+        height: 200px;
+        width: 200px;
+    }
+
+    hr.space {
+        display: none;
+    }
+
+    /* ~~~~~~~~~ Individual Pages ~~~~~~~~~~~ */
+	/* Home Page */
+    #home-halfscreen-section .text-middle {
+        top: 100px;
+        left: 100px;
+    }
 }
 
 
@@ -21,17 +38,113 @@
 /* ~~~~~~~~~~~~~~ Small Laptop ~~~~~~~~~~~~~~ */
 @media screen and (min-width: 1025px) and (max-width: 1219px) {
     /* ~~~~~~~~~ General / Multi-Page ~~~~~~~~~~~ */
-    body.side-panel-static .body-inner #home-container {
-		max-width: 100%;
-        padding: 0 30px;
+    /* Sizes */
+	/* h1 {
+		font-size: 3.25rem;
+	}
+	
+	h2 {
+		font-size: 2.25rem;
+	}
+	
+	h3 {
+		font-size: 1.85rem;
+	}
+	
+	h4 {
+		font-size: 1.5rem;
+	} */
+
+    /* Spacing */
+    section {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	
+    .side-panel.side-panel-static .body-inner > section > .container {
+		padding: 0 10px;
 	}
 
-    #mainMenu nav > ul > li > a {
-        text-decoration: none;
-        color: white;
-        font-size: 14px;
-        padding: 5px 8px;
+    .card {
+        margin: 15px 0;
     }
+
+    .card .card-header,
+    .card .card-body,
+    #home-text-section .card .card-body {
+        padding: .75rem 1.25rem;
+    }
+
+    /* Text */
+    p, li, .ac-item {
+        font-size: 1.25rem;
+    }
+	
+	.page_header h2 {
+		line-height: 3rem;
+	}
+
+    /* Custom Classes */
+    .small_space {
+        height: 0;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .mobile_right {
+        float: right;
+    }
+
+    /* Side Panel */
+    #side-panel .side-panel-wrap #logo-img {
+        height: 200px;
+        width: 200px;
+    }
+
+    hr.space {
+        display: none;
+    }
+
+    /* Mobile Header */
+    #header {
+        display: none!important;
+    }
+
+    /* Footer */
+    #footer .container {
+        padding: 0;
+    }
+
+    #footer .footer-content #footer-img {
+        background-size: unset;
+        background-position-y: 15%;
+        background-position-x: 0;
+    }
+	
+	#footer .copyright-text {
+		padding: 5px;
+        line-height: 1.75rem;
+	}
+
+    /* ~~~~~~~~~ Individual Pages ~~~~~~~~~~~ */
+	/* Home Page */
+    #home-halfscreen-section .text-middle {
+        top: 100px;
+        left: 100px;
+    }
+
+    #home-text-section #home-intro {
+        margin-top: 0;
+    }
+
+    #home-text-section .mobile_break {
+        display: block;
+    }
+
+    #home-text-section #home-intro h4 {
+        margin-top: 45px;
+    }
+
 }
 
 

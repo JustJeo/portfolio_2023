@@ -6,12 +6,12 @@
             <div class="row" id="name-intro">
                 <div class="col-12">
                     <div class="row">
-                        <div class="col-lg-4">
+                        <div class="col-12">
                             <h3 data-animate="fadeInDown" data-animate-delay="0">Hello, my name is</h3>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-lg-6 text-center">
+                        <div class="col-lg-11 offset-lg-1">
                             <h1 data-animate="fadeInDown" data-animate-delay="500" id="home-fullname">Jamieden Cabrigas</h1>
                         </div>
                     </div>
@@ -23,7 +23,7 @@
             <div class="row" id="intro-skills">
                 <div class="col-lg-11 offset-lg-1">
                     <div class="row">
-                        <div class="col-lg-2" id="home-im-a-text">
+                        <div class="col-12" id="home-im-a-text">
                             <h3  data-animate="fadeInDown" data-animate-delay="1500">I'm a</h3>
                         </div>
                     </div>
