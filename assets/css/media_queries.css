@@ -114,6 +114,16 @@
 	#footer .container {
         padding: 0;
     }
+
+    #footer .footer-content #footer-img {
+        background-size: unset;
+        background-position-y: 15%;
+        background-position-x: 0;
+    }
+	
+	#footer .copyright-content {
+		padding: 15px 5px;
+	}
 	
 	/* ~~~~~~~~~ Individual Pages ~~~~~~~~~~~ */
 	/* Home Page */
@@ -129,6 +139,52 @@
 	#home-halfscreen-section .text-middle {
         top: 100px;
         left: 0;
+    }
+
+    /* About */
+    #about-section h3 {
+        line-height: 2rem;
+        margin-bottom: 1rem;
+    }
+
+    /* Education */
+    #school-timeline-section .timeline .timeline-item {
+        margin: 0rem 0rem 2rem 4rem;
+    }
+
+    /* School Projects */
+    #school-projects-section .project_title {
+        margin-top: 0;
+    }
+
+    /* Websites */
+    #websites-section h3 {
+        line-height: 2rem;
+    }
+
+    .portfolio-item .portfolio-image img {
+        height: 175px;
+    }
+
+    /* Portal */
+    #project-portal {
+        position: absolute;
+        top: auto;
+        right: 0;
+        left: 0;
+        width: 95%;
+        height: auto;
+        background-color: black;
+        border: 3px solid lightgray;
+        border-radius: 15px;
+        margin: auto;
+        z-index: 999;
+        display: none;
+    }
+
+    /* FAQ */
+	#faq-section h3 {
+        line-height: 2rem;
     }
 }
 
@@ -218,7 +274,17 @@
 	/* Footer */
     #footer .container {
         padding: 0;
-    }	
+    }
+
+    #footer .footer-content #footer-img {
+        background-size: unset;
+        background-position-y: 15%;
+        background-position-x: 0;
+    }
+	
+	#footer .copyright-content {
+		padding: 15px 5px;
+	}
 	
 	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
 	/* Home Page */
@@ -229,6 +295,52 @@
 
     section#home-halfscreen-section.halfscreen {
         background-position-x: 5%;
+    }
+
+    /* About */
+    #about-section h3 {
+        line-height: 2rem;
+        margin-bottom: 1rem;
+    }
+
+    /* Education */
+    #school-timeline-section .timeline .timeline-item {
+        margin: 0rem 0rem 2rem 4rem;
+    }
+
+    /* School Projects */
+    #school-projects-section .project_title {
+        margin-top: 0;
+    }
+
+    /* Websites */
+    #websites-section h3 {
+        line-height: 2rem;
+    }
+
+    .portfolio-item .portfolio-image img {
+        height: 175px;
+    }
+
+    /* Portal */
+    #project-portal {
+        position: absolute;
+        top: auto;
+        right: 0;
+        left: 0;
+        width: 95%;
+        height: auto;
+        background-color: black;
+        border: 3px solid lightgray;
+        border-radius: 15px;
+        margin: auto;
+        z-index: 999;
+        display: none;
+    }
+
+    /* FAQ */
+	#faq-section h3 {
+        line-height: 2rem;
     }
 }
 
@@ -312,6 +424,16 @@
     #footer .container {
         padding: 0;
     }
+
+    #footer .footer-content #footer-img {
+        background-size: unset;
+        background-position-y: 15%;
+        background-position-x: 0;
+    }
+	
+	#footer .copyright-content {
+		padding: 15px 5px;
+	}
 	
 	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
 	/* Home Page */
@@ -327,6 +449,52 @@
 	#home-halfscreen-section .text-middle {
         top: 100px;
         left: 0;
+    }
+
+    /* About */
+    #about-section h3 {
+        line-height: 2rem;
+        margin-bottom: 1rem;
+    }
+
+    /* Education */
+    #school-timeline-section .timeline .timeline-item {
+        margin: 0rem 0rem 2rem 4rem;
+    }
+
+    /* School Projects */
+    #school-projects-section .project_title {
+        margin-top: 0;
+    }
+
+    /* Websites */
+    #websites-section h3 {
+        line-height: 2rem;
+    }
+
+    .portfolio-item .portfolio-image img {
+        height: 175px;
+    }
+
+    /* Portal */
+    #project-portal {
+        position: absolute;
+        top: auto;
+        right: 0;
+        left: 0;
+        width: 95%;
+        height: auto;
+        background-color: black;
+        border: 3px solid lightgray;
+        border-radius: 15px;
+        margin: auto;
+        z-index: 999;
+        display: none;
+    }
+
+    /* FAQ */
+	#faq-section h3 {
+        line-height: 2rem;
     }
 }
 
