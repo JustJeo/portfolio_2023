@@ -56,7 +56,7 @@
 	<div class="container" id="home-container">
 		<div class="row">
 			<div class="col-lg-6" id="home-intro">
-                <h3>From video games to coding, <br class="mobile_break">I have always loved technology.</h3>
+                <h3>From video games to coding, <br class="mobile_break"><span class="mobile_right">I have always loved technology.</span></h3>
 
                 <h4>I believe that the patience to test over and over again, the dedication to go from an idea to a final product, and a keen eye for detail, is what makes  a strong frontend developer. I strive to be the best frontend developer that I can be by always incorporating those skills into my work. With video games as my inspiration, I have a burning passion and constant determination to make beautiful pieces of technology and to showcase my frontend power up.</h4>
 			</div>

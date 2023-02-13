@@ -255,6 +255,10 @@
         margin-top: 15px;
         margin-bottom: 15px;
     }
+
+    .mobile_right {
+        float: right;
+    }
 	
 	/* ~~~~~~~~~~~~~~ Page Layouts ~~~~~~~~~~~~~~ */
 	/* Side Panel */
@@ -324,6 +328,10 @@
 
     #home-text-section .card .card-body h3 {
         font-size: 1.85rem;
+    }
+
+    #home-text-section #home-intro h4 {
+        margin-top: 50px;
     }
 
     /* About */
@@ -579,7 +587,7 @@
     }
 	
 	.page_header h2 {
-		line-height: 1.25rem;
+		line-height: 2.5rem;
 	}
 
     /* Custom Classes */
@@ -591,6 +599,10 @@
 
     .mobile_break {
         display: block;
+    }
+
+    .mobile_right {
+        float: right;
     }
 
     .project_title {
@@ -625,7 +637,7 @@
     #header {
         margin-top: -80px;
         margin-left: 20px;
-        line-height: 210px;
+        line-height: 215px;
     }
 
 	/* Footer */
@@ -674,6 +686,10 @@
 
     #home-text-section #home-intro h3 {
         line-height: 2.5rem;
+    }
+
+    #home-text-section #home-intro h4 {
+        margin-top: 35px;
     }
 
     #home-text-section .card {
