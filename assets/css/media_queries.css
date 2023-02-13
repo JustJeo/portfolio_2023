@@ -32,9 +32,16 @@
         background-position-y: 15%;
         background-position-x: 0;
     }
+
+    #footer .col-xl-7 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
 	
 	#footer .copyright-text {
-		display: none;
+		padding: 5px;
+        line-height: 1.75rem;
+        margin-top: -65px;
 	}
 
     /* ~~~~~~~~~ Individual Pages ~~~~~~~~~~~ */
