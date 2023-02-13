@@ -46,19 +46,19 @@
 	/* ~~~~~~~~~ General / Multi-Page ~~~~~~~~~~~ */
     /* Sizes */
 	h1 {
-		font-size: 2em;
+		font-size: 3.25rem;
 	}
 	
 	h2 {
-		font-size: 1.75em;
+		font-size: 2.25rem;
 	}
 	
 	h3 {
-		font-size: 1.5em;
+		font-size: 2rem;
 	}
 	
 	h4 {
-		font-size: 1.25em;
+		font-size: 1.5rem;
 	}
 
     /* Spacing */
@@ -81,7 +81,7 @@
     }
 	
 	.page_header h2 {
-		line-height: 1.5em;
+		line-height: 3rem;
 	}
 		
 	/* ~~~~~~~~~ Layouts ~~~~~~~~~~~ */
@@ -201,19 +201,19 @@
 	/* ~~~~~~~~~ General / Multi-Page ~~~~~~~~~~~ */
     /* Sizes */
 	h1 {
-		font-size: 2em;
+		font-size: 3.25rem;
 	}
 	
 	h2 {
-		font-size: 1.75em;
+		font-size: 2.25rem;
 	}
 	
 	h3 {
-		font-size: 1.5em;
+		font-size: 2rem;
 	}
 	
 	h4 {
-		font-size: 1.25em;
+		font-size: 1.5rem;
 	}
 
     /* Spacing */
@@ -223,8 +223,18 @@
 	}
 
     .side-panel.side-panel-static .body-inner > section > .container {
-		padding: 0 20px;
+		padding: 0 15px;
 	}
+
+    .card {
+        margin: 15px 0;
+    }
+
+    .card .card-header,
+    .card .card-body,
+    #home-text-section .card .card-body {
+        padding: .75rem 1.25rem;
+    }
 
     /* Text */
     p, li, .ac-item {
@@ -236,7 +246,7 @@
     }
 	
 	.page_header h2 {
-		line-height: 1.5em;
+		line-height: 3.5rem;
 	}
 
     /* Custom Classes */
@@ -304,6 +314,18 @@
         background-position-x: 5%;
     }
 
+    #home-text-section #home-intro {
+        margin-top: 0;
+    }
+
+    #home-text-section .mobile_break {
+        display: block;
+    }
+
+    #home-text-section .card .card-body h3 {
+        font-size: 1.85rem;
+    }
+
     /* About */
     #about-section h3 {
         line-height: 2rem;
@@ -363,19 +385,19 @@
 	/* ~~~~~~~~~ General / Multi-Page ~~~~~~~~~~~ */
     /* Sizes */
 	h1 {
-		font-size: 2em;
+		font-size: 2rem;
 	}
 	
 	h2 {
-		font-size: 1.75em;
+		font-size: 1.75rem;
 	}
 	
 	h3 {
-		font-size: 1.5em;
+		font-size: 1.5rem;
 	}
 	
 	h4 {
-		font-size: 1.25em;
+		font-size: 1.25rem;
 	}
 
     /* Spacing*/
@@ -398,7 +420,7 @@
     }
 	
 	.page_header h2 {
-		line-height: 1.25em;
+		line-height: 1.25rem;
 	}
 	
 	/* ~~~~~~~~ Page Layouts ~~~~~~~~ */
@@ -517,19 +539,19 @@
 	/* ~~~~~~~~~ General / Multi-Page ~~~~~~~~~~~ */
     /* Sizes */
 	h1 {
-		font-size: 2em;
+		font-size: 2rem;
 	}
 	
 	h2 {
-		font-size: 1.75em;
+		font-size: 1.75rem;
 	}
 	
 	h3 {
-		font-size: 1.5em;
+		font-size: 1.5rem;
 	}
 	
 	h4 {
-		font-size: 1.25em;
+		font-size: 1.25rem;
 	}
 
     /* Spacing */
@@ -557,7 +579,7 @@
     }
 	
 	.page_header h2 {
-		line-height: 1.25em;
+		line-height: 1.25rem;
 	}
 
     /* Custom Classes */
