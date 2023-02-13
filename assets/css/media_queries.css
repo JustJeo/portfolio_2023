@@ -121,8 +121,9 @@
         background-position-x: 0;
     }
 	
-	#footer .copyright-content {
-		padding: 15px 5px;
+	#footer .copyright-text {
+		padding: 5px;
+        line-height: 1.75rem;
 	}
 	
 	/* ~~~~~~~~~ Individual Pages ~~~~~~~~~~~ */
@@ -283,12 +284,13 @@
 
     #footer .footer-content #footer-img {
         background-size: unset;
-        background-position-y: 0;
+        background-position-y: 15%;
         background-position-x: 0;
     }
 	
-	#footer .copyright-content {
-		padding: 15px 5px;
+	#footer .copyright-text {
+		padding: 5px;
+        line-height: 1.75rem;
 	}
 	
 	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
@@ -436,8 +438,9 @@
         background-position-x: 0;
     }
 	
-	#footer .copyright-content {
-		padding: 15px 5px;
+	#footer .copyright-text {
+		padding: 5px;
+        line-height: 1.75rem;
 	}
 	
 	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */
@@ -614,8 +617,9 @@
         background-position-x: 0;
     }
 	
-	#footer .copyright-content {
-		padding: 15px 5px;
+	#footer .copyright-text {
+		padding: 5px;
+        line-height: 1.75rem;
 	}
 	
 	/* ~~~~~~~~ Individual Pages ~~~~~~~~ */

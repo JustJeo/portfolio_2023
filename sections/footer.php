@@ -3,7 +3,7 @@
 	    <section class="p-b-15 p-t-15" id="footer-img">
 	        <div class="container">
 		        <div class="row align-items-center">
-					<div class="col-lg-8 col-10">
+					<div class="col-lg-8 col-md-9 col-10">
                         <div class="row">
                             <!-- Email -->
                             <div class="col-lg-4 col-md-6 col-12 text-center" id="email-footer">
@@ -35,7 +35,7 @@
                         </div>
 					</div>
 
-                    <div class="col-lg-4 col-md-8">
+                    <div class="col-lg-4 col-md-7">
                         <div class="row">
                             <!-- Copyright -->
                             <div class="col-lg-7 col-md-8 col-10 text-center">
