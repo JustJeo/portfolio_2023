@@ -7,7 +7,7 @@
                 <div class="col-12">
                     <div class="row">
                         <div class="col-12">
-                            <h3 data-animate="fadeInDown" data-animate-delay="1000">Hello, my name is</h3>
+                            <h3 data-animate="fadeInDown" data-animate-delay="500">Hello, my name is</h3>
                         </div>
                     </div>
                     <div class="row">
@@ -24,15 +24,15 @@
                 <div class="col-lg-11 offset-lg-1">
                     <div class="row">
                         <div class="col-12" id="home-im-a-text">
-                            <h3  data-animate="fadeInDown" data-animate-delay="2500">I'm a</h3>
+                            <h3  data-animate="fadeInDown" data-animate-delay="3000">I'm a</h3>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-xl-6 col-md-10 col-12 offset-lg-1 offset-md-2">
-                            <h3 data-animate="fadeInDown" data-animate-delay="3000" class="big_bold">Frontend Web Developer</h3>
-                            <h3 data-animate="fadeInDown" data-animate-delay="3500" class="big_bold">Software Engineer</h3>
-                            <h3 data-animate="fadeInDown" data-animate-delay="4000" class="big_bold">Responsive Redesign Developer</h3>
-                            <h3 data-animate="fadeInDown" data-animate-delay="4500" class="big_bold">Video Game Enthusiast</h3>
+                            <h3 data-animate="fadeInDown" data-animate-delay="3500" class="big_bold">Frontend Web Developer</h3>
+                            <h3 data-animate="fadeInDown" data-animate-delay="4500" class="big_bold">Software Engineer</h3>
+                            <h3 data-animate="fadeInDown" data-animate-delay="5500" class="big_bold">Responsive Redesign Developer</h3>
+                            <h3 data-animate="fadeInDown" data-animate-delay="6500" class="big_bold">Video Game Enthusiast</h3>
                         </div>
                     </div>
                 </div>
@@ -46,7 +46,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
-				<h2 data-animate="fadeInDown" data-animate-delay="5500">Welcome to my portfolio.</h2>
+				<h2 data-animate="fadeInDown" data-animate-delay="8000">Welcome to my portfolio.</h2>
 			</div>
 		</div>
     </div>
