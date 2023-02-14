@@ -1010,6 +1010,8 @@
         background-image: url('../images/background.jpg');
 	    background-size: cover;
         background-position-x: 5%;
+        height: 60%;
+        min-height: 60vh;
     }
 
 	#home-halfscreen-section .text-middle {
