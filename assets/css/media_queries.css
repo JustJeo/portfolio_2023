@@ -1007,6 +1007,8 @@
     }
 
     section#home-halfscreen-section.halfscreen {
+        background-image: url('../images/background.jpg');
+	    background-size: cover;
         background-position-x: 5%;
     }
 
