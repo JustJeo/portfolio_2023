@@ -32,7 +32,7 @@
             <div class="col-12">
                 <h3 class="underline">Technologies & Skills</h3>
 
-                <p>Here is a list of my technological skills I have aquired over the years. I have learned these technologies from my time as a coding bootcamp student to being employed at my current workplace. It is a mixture of old and new languages and I'm willing to add more to this list as time goes on.</p>
+                <p>Here is a list of my technological skills I have acquired over the years. I have learned these technologies from my time as a coding bootcamp student to being employed at my current workplace. It is a mixture of old and new languages and I'm willing to add more to this list as time goes on.</p>
             </div>
         </div>
         <div class="row">
