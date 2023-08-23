@@ -88,7 +88,7 @@ hr {
 }
 
 .link_click:hover, a:not(.btn):not(.badge):hover {
-	color: dodgerblue
+	color: #2163fc;
 }
 
 .small_space {
@@ -107,11 +107,11 @@ hr {
 }
 
 .bg-primary {
-	background-color: dodgerblue
+	background-color: #2163fc;
 }
 
 .text-primary {
-	color: dodgerblue
+	color: #2163fc;
 }
 
 .project_title {
@@ -144,7 +144,7 @@ hr {
 }
 
 #side-panel.dark #mainMenu nav > ul > li:hover > a {
-    color: dodgerblue;
+    color: #2163fc;
 }
 
 #mainMenu.menu-vertical:not(.menu-overlay) nav > ul > li > a {
@@ -164,14 +164,14 @@ hr {
 }
 
 #side-panel.dark #socials-side-panel .side_panel_logo:hover {
-    background-color: dodgerblue;
+    background-color: #2163fc;
 }
 
 /* Anchor Tags */
 #mainMenu nav > ul > li:hover > a,
 #mainMenu nav > ul > li .dropdown-menu > li:hover > a,
 #mainMenu nav > ul > li .dropdown-menu > li > span:hover {
-	color: #0f6bff;
+	color: #2163fc;
 }
 
 /* Footer */
@@ -211,7 +211,7 @@ hr {
 }
 
 #footer a:hover{
-    color: #0f6bff;
+    color: #2163fc;
 }
 
 
