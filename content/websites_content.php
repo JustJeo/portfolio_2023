@@ -275,7 +275,7 @@
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
-                                    <img src="assets/images/fireup.png" alt="Landing page preview for FireUp Room Reservation page.">
+                                    <img src="assets/images/train-with-map.png" alt="Landing page preview for Train With MAP home page.">
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
