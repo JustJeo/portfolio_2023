@@ -31,7 +31,7 @@
             <div class="col-12">
                 <div id="portfolio" class="grid-layout portfolio-3-columns" data-margin="10">
                     <!-- Laptops Plus -->
-                    <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                    <div class="portfolio-item img-zoom">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="#">
@@ -50,7 +50,7 @@
                     </div>
 
                     <!-- Bullard's Bar -->
-                    <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                    <div class="portfolio-item img-zoom">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="#">
@@ -69,7 +69,7 @@
                     </div>
 
                     <!-- Solano Computer Guy -->
-                    <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                    <div class="portfolio-item img-zoom">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="#"><img src="assets/images/solano-computer-guy.png" alt="Landing page preview for Solano Computer Guy website."></a>
@@ -86,7 +86,7 @@
                     </div>
 
                     <!-- My Wire Guy -->
-                    <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                    <div class="portfolio-item img-zoom">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="#"><img src="assets/images/my-wire-guy.png" alt="Landing page preview for My Wire Guy website."></a>
@@ -103,7 +103,7 @@
                     </div>
 
                     <!-- Sircles -->
-                    <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                    <div class="portfolio-item img-zoom">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
@@ -122,7 +122,7 @@
                     </div>
 
                     <!-- Scarlett's Cancerfree Community -->
-                    <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                    <div class="portfolio-item img-zoom">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
@@ -141,7 +141,7 @@
                     </div>
 
                     <!-- Bice -->
-                    <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                    <div class="portfolio-item img-zoom">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
@@ -157,7 +157,7 @@
                     </div>
 
                     <!-- Flight Training -->
-                    <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                    <div class="portfolio-item img-zoom">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
@@ -176,7 +176,7 @@
                     </div>
 
                     <!-- Madden Lawyer -->
-                    <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                    <div class="portfolio-item img-zoom">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
@@ -195,7 +195,7 @@
                     </div>
 
                     <!-- TLC Computer Solutions -->
-                    <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                    <div class="portfolio-item img-zoom">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
@@ -214,7 +214,7 @@
                     </div>
 
                     <!-- San Diego Computer Help -->
-                    <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                    <div class="portfolio-item img-zoom">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
@@ -233,7 +233,7 @@
                     </div>
 
                     <!-- FireUp -->
-                    <div class="portfolio-item img-zoom ct-marketing ct-media ct-branding ct-marketing ct-webdesign">
+                    <div class="portfolio-item img-zoom">
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
@@ -247,6 +247,44 @@
                                     <button class="btn btn-dark">Visit Website</button>
                                 </a>
                                 <button class="btn btn-dark" id="fireup-btn">Learn More</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tech 2U Business Team -->
+                    <div class="portfolio-item img-zoom">
+                        <div class="portfolio-item-wrap">
+                            <div class="portfolio-image">
+                                <a href="">
+                                    <img src="assets/images/fireup.png" alt="Landing page preview for FireUp Room Reservation page.">
+                                </a>
+                            </div>
+                            <div class="portfolio-description text-light">
+                                <h3>Tech 2U - Business Team [2023]</h3>
+                                <h5>Internal Company Website Redesign</h5>
+                                <a href="https://assist.tech2u.com/" target="_blank">
+                                    <button class="btn btn-dark">Visit Website</button>
+                                </a>
+                                <button class="btn btn-dark" id="business-team-btn">Learn More</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- MAP Training -->
+                    <div class="portfolio-item img-zoom">
+                        <div class="portfolio-item-wrap">
+                            <div class="portfolio-image">
+                                <a href="">
+                                    <img src="assets/images/fireup.png" alt="Landing page preview for FireUp Room Reservation page.">
+                                </a>
+                            </div>
+                            <div class="portfolio-description text-light">
+                                <h3>MAP Training [2023]</h3>
+                                <h5>Internal Company Website Redesign</h5>
+                                <a href="https://www.trainwithmap.com/" target="_blank">
+                                    <button class="btn btn-dark">Visit Website</button>
+                                </a>
+                                <button class="btn btn-dark" id="business-team-btn">Learn More</button>
                             </div>
                         </div>
                     </div>

@@ -374,6 +374,10 @@ body.side-panel-static .body-inner #home-container {
     height: 265px;
 }
 
+.portfolio-item:not(.no-overlay):hover .portfolio-image:after {
+    opacity: 0.75;
+}
+
 .portfolio-item .portfolio-description {
     width: 100%;
 }
