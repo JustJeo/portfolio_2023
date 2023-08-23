@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-12">
             <h3 class="modal_header">Bice Mobile Marine [2022]</h3>
-            <button type="button" class="btn btn-light btn-sm float-right" id="x-btn">X</button>
+            <button type="button" class="btn btn-primary btn-sm float-right" id="x-btn">X</button>
         </div>
     </div>
 </div>

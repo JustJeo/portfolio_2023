@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-12">
             <h3 class="modal_header">Tech 2U - Business Team Assist IT [2023]</h3>
-            <button type="button" class="btn btn-light btn-sm float-right" id="x-btn">X</button>
+            <button type="button" class="btn btn-primary btn-sm float-right" id="x-btn">X</button>
         </div>
     </div>
 </div>
@@ -21,7 +21,7 @@
     
     <div class="row">
         <div class="col-12 text-center">
-            <a href="https://assist.tech2u.com/" target="_blank" class="btn btn-light visit_website_portal_btn">Visit Website</a>
+            <a href="https://assist.tech2u.com/" target="_blank" class="btn btn-primary visit_website_portal_btn">Visit Website</a>
         </div>
     </div>
 </div>
