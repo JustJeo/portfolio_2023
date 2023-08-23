@@ -96,7 +96,17 @@ hr {
     border: none;
 }
 
-.bg-primary, .call-to-action.call-to-action-colored {
+.btn.btn-primary {
+    background-color: black!important;
+    border-color: white!important;
+}
+
+.btn.btn-primary:hover {
+    background-color: #034efc!important;
+    border-color: #034efc!important;
+}
+
+.bg-primary {
 	background-color: dodgerblue
 }
 

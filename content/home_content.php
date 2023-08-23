@@ -69,7 +69,7 @@
                     <div class="card-body">
                         <h3>Websites I've Worked On</h3>
 
-                        <a href="websites.php" class="btn btn-dark">See more</a>
+                        <a href="websites.php" class="btn btn-primary">See more</a>
                     </div>
                 </div>
             </div>
@@ -83,7 +83,7 @@
                     <div class="card-body">
                         <h3>School Projects</h3>
 
-                        <a href="school_projects.php" class="btn btn-dark">Learn more</a>
+                        <a href="school_projects.php" class="btn btn-primary">Learn more</a>
                     </div>
                 </div>
 			</div>
