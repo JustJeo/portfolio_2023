@@ -407,7 +407,7 @@ body.side-panel-static .body-inner #home-container {
 	left: 10%;
 	width: 50%;
 	height: auto;
-    background-color: black;
+    background-color: #222;
 	border: 3px solid lightgray;
     border-radius: 15px;
 	margin: auto;
