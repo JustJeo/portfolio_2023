@@ -261,7 +261,7 @@
                             </div>
                             <div class="portfolio-description text-light">
                                 <h3>Tech 2U - Business Team [2023]</h3>
-                                <h5>Internal Company Website Redesign</h5>
+                                <h5>New Internal Company Website</h5>
                                 <a href="https://assist.tech2u.com/" target="_blank">
                                     <button class="btn btn-primary">Visit Website</button>
                                 </a>
