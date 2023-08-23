@@ -167,6 +167,34 @@ $(document).ready(function() {
             }
         });
     });
+
+    /* Tech 2U Business Team */
+    $("#business-team-btn").on('click', function() {
+        $("html, body").animate({ scrollTop: "0" });
+        $("#project-portal").show();
+        $.ajax({
+            url: "ajax/business_team_info.php",
+            method: "POST",
+            data: {},
+            success: function(data) {
+                $("#project-portal-contents").html(data);
+            }
+        });
+    });
+
+    /* MAP Training */
+    $("#map-training-btn").on('click', function() {
+        $("html, body").animate({ scrollTop: "0" });
+        $("#project-portal").show();
+        $.ajax({
+            url: "ajax/map_training_info.php",
+            method: "POST",
+            data: {},
+            success: function(data) {
+                $("#project-portal-contents").html(data);
+            }
+        });
+    });
 })
 
 </script>

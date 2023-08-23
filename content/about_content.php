@@ -89,7 +89,7 @@
                                 <h4>GitHub</h4>
                             </div>
                             <div class="col-xl-2 col-md-4 col-6">
-                                <h4>Visual Studio</h4>
+                                <h4>VS Code</h4>
                             </div>
                             <div class="col-xl-2 col-md-4 col-6">
                                 <h4>Notepad++</h4>
