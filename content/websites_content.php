@@ -256,7 +256,7 @@
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
-                                    <img src="assets/images/fireup.png" alt="Landing page preview for FireUp Room Reservation page.">
+                                    <img src="assets/images/tech2u-assist.png" alt="Landing page preview for Tech 2U Business Team Assist IT page.">
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
@@ -280,11 +280,11 @@
                             </div>
                             <div class="portfolio-description text-light">
                                 <h3>MAP Training [2023]</h3>
-                                <h5>Internal Company Website Redesign</h5>
+                                <h5>Website Redesign for Client</h5>
                                 <a href="https://www.trainwithmap.com/" target="_blank">
                                     <button class="btn btn-dark">Visit Website</button>
                                 </a>
-                                <button class="btn btn-dark" id="business-team-btn">Learn More</button>
+                                <button class="btn btn-dark" id="map-training-btn">Learn More</button>
                             </div>
                         </div>
                     </div>
