@@ -21,7 +21,7 @@
 
     <div class="row">
         <div class="col-12">
-            <p class="tech_used_portal"><span class="green_text bold underline">Technologies Used:</span> HTML, CSS, JavaScript, Bootstrap, PHP, AJAX and some Google Calendar.</p>
+            <p class="tech_used_portal"><span class="green_text bold underline">Technologies Used:</span> HTML, CSS, JavaScript, Bootstrap, jQuery, PHP, AJAX and some Google Calendar.</p>
         </div>
     </div>
 </div>
