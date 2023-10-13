@@ -294,13 +294,13 @@
                         <div class="portfolio-item-wrap">
                             <div class="portfolio-image">
                                 <a href="">
-                                    <img src="assets/images/train-with-map.png" alt="Landing page preview for Train With MAP home page.">
+                                    <img src="assets/images/blind-shoppe.png" alt="Landing page preview for Train With MAP home page.">
                                 </a>
                             </div>
                             <div class="portfolio-description text-light">
                                 <h3>The Blind Shoppe [2023]</h3>
                                 <h5>New Website for Client</h5>
-                                <a href="https://www.trainwithmap.com/" target="_blank">
+                                <a href="https://theblindshoppe.com/" target="_blank">
                                     <button class="btn btn-primary">Visit Website</button>
                                 </a>
                                 <button class="btn btn-primary" id="map-training-btn">Learn More</button>
