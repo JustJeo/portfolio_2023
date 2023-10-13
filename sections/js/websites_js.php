@@ -195,6 +195,20 @@ $(document).ready(function() {
             }
         });
     });
+
+    /* The Blind Shoppe */
+    $("#blind-shoppe-btn").on('click', function() {
+        $("html, body").animate({ scrollTop: "0" });
+        $("#project-portal").show();
+        $.ajax({
+            url: "ajax/blind_shoppe_info.php",
+            method: "POST",
+            data: {},
+            success: function(data) {
+                $("#project-portal-contents").html(data);
+            }
+        });
+    });
 })
 
 </script>

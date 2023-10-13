@@ -303,7 +303,7 @@
                                 <a href="https://theblindshoppe.com/" target="_blank">
                                     <button class="btn btn-primary">Visit Website</button>
                                 </a>
-                                <button class="btn btn-primary" id="map-training-btn">Learn More</button>
+                                <button class="btn btn-primary" id="blind-shoppe-btn">Learn More</button>
                             </div>
                         </div>
                     </div>
